@@ -5,6 +5,7 @@ import axios, {AxiosInstance, AxiosRequestConfig} from "axios";
 import {stringify} from "querystring";
 import {InstanceCode} from "epitech.js/out/common";
 import * as fs from "node:fs";
+import {createEvents, EventAttributes} from "ics";
 
 dotenv.config();
 const token = process.env.INTRA_TOKEN as string;
@@ -281,6 +282,7 @@ class Module {
     project!: Project;
     link!: string
     days: Day[] = [];
+    seats: number = 0;
 
     constructor(partial?: Partial<Module>) {
         Object.assign(this, partial);
@@ -353,6 +355,7 @@ const main = async () => {
             link: `https://intra.epitech.eu/module/${c.scolaryear}/${c.code}/${c.codeinstance}/`,
             status: c.status,
             title: fullCourse.title,
+            seats: fullCourse.max_ins!,
 
             inTeam: false,
             inRemote: false,
@@ -411,12 +414,58 @@ const main = async () => {
 
         // break;
     }
-    data.modules.sort((a, b) => a.begin.getTime() - b.begin.getTime());
     fs.writeFileSync("data.json", JSON.stringify(data, null, 2));
 
-    let planning = await intra.getPlanning();
-    planning = planning.filter(p => p.scolaryear === scolarYear && p.semester === semester && p.codeinstance === codeinstance);
-    fs.writeFileSync("planning.json", JSON.stringify(planning, null, 2));
+    // let planning = await intra.getPlanning();
+    // planning = planning.filter(p => p.scolaryear === scolarYear && p.semester === semester && p.codeinstance === codeinstance);
+    // fs.writeFileSync("planning.json", JSON.stringify(planning, null, 2));
 }
 
-main().catch(console.error);
+const convertDate = (date: Date): [number, number, number, number, number] => {
+    return [date.getFullYear(), date.getMonth() + 1, date.getDate(), date.getHours(), date.getMinutes()];
+}
+
+const dataToICS = async () => {
+    const data = JSON.parse(fs.readFileSync("data.json").toString(), (key, value) => {
+        if (typeof value === 'string') {
+            if (value.includes('T') && value.includes('Z'))
+                return new Date(value);
+        }
+        return value;
+    }) as Data;
+
+    const events: EventAttributes[] = [];
+
+    data.modules.forEach(m => {
+        events.push({
+            title: `${m.title} - ${m.project.title} - (${m.codeInstance}) - (${m.code}) - (${m.seats})`,
+            start: convertDate(m.project.start),
+            end: convertDate(m.project.end),
+            location: m.locationTitle,
+            url: m.link,
+            description: m.title + `\nCredits: ${m.credits}\nTeam: ${m.teamMin} - ${m.teamMax}\nRemote: ${m.inRemote}\nProject: ${m.project.title}\nProject start: ${m.project.start}\nProject end: ${m.project.end}`,
+        });
+        m.days.forEach(d => {
+            events.push({
+                title: `${m.title} - ${d.title} - (${m.codeInstance}) - (${m.code}) - (${m.seats})`,
+                start: convertDate(d.start),
+                end: convertDate(d.end),
+                location: d.location,
+                url: m.link,
+                description: m.title + " - " + d.title + `\nCredits: ${m.credits}\nTeam: ${m.teamMin} - ${m.teamMax}\nRemote: ${m.inRemote}\nProject: ${m.project.title}\nProject start: ${m.project.start}\nProject end: ${m.project.end}`,
+            });
+        });
+    });
+
+    const { error, value } = createEvents(events);
+
+    if (error) {
+        console.error(error);
+        return;
+    }
+
+    fs.writeFileSync("calendar.ics", value!);
+}
+
+// main().catch(console.error);
+dataToICS().catch(console.error);

@@ -1,0 +1,2553 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:LKvCM_4G5bm492aMxghQn
+SUMMARY:M - Advanced MySQL and optimisations - MySQL avancé et optimisation
+	s project - (PAR-9-1) - (M-BDD-901) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T100000Z
+DTEND:20241108T235900Z
+DESCRIPTION:M - Advanced MySQL and optimisations\nCredits: 2\nTeam: 5 - 5\n
+	Remote: true\nProject: MySQL avancé et optimisations project\nProject star
+	t: Thu Oct 10 2024 10:00:00 GMT+0000 (temps universel coordonné)\nProject 
+	end: Fri Nov 08 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BDD-901/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:SOrJkmnVILlTysrsjkfDE
+SUMMARY:M - Advanced MySQL and optimisations - Day 1 - (PAR-9-1) - (M-BDD-9
+	01) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T100000Z
+DTEND:20241010T180000Z
+DESCRIPTION:M - Advanced MySQL and optimisations - Day 1\nCredits: 2\nTeam:
+	 5 - 5\nRemote: true\nProject: MySQL avancé et optimisations project\nProj
+	ect start: Thu Oct 10 2024 10:00:00 GMT+0000 (temps universel coordonné)\n
+	Project end: Fri Nov 08 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BDD-901/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:p3EJEpQm23jEK2o6N0ruF
+SUMMARY:M - Advanced MySQL and optimisations - Day 2 - (PAR-9-1) - (M-BDD-9
+	01) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241011T100000Z
+DTEND:20241011T180000Z
+DESCRIPTION:M - Advanced MySQL and optimisations - Day 2\nCredits: 2\nTeam:
+	 5 - 5\nRemote: true\nProject: MySQL avancé et optimisations project\nProj
+	ect start: Thu Oct 10 2024 10:00:00 GMT+0000 (temps universel coordonné)\n
+	Project end: Fri Nov 08 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BDD-901/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:XiclEsX8zSwo72nqeRXnc
+SUMMARY:M - Algorithmic complexity and graphs - Complexite algorithmique et
+	 graphes - Projet - (PAR-9-1) - (M-ALG-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T100000Z
+DTEND:20241020T235900Z
+DESCRIPTION:M - Algorithmic complexity and graphs\nCredits: 4\nTeam: 2 - 3\
+	nRemote: false\nProject: Complexite algorithmique et graphes - Projet\nPro
+	ject start: Thu Sep 19 2024 10:00:00 GMT+0000 (temps universel coordonné)\
+	nProject end: Sun Oct 20 2024 23:59:00 GMT+0000 (temps universel coordonné
+	)
+URL:https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:S6t6XsUd8uVEPvHZy5Fi3
+SUMMARY:M - Algorithmic complexity and graphs - Day 1 - (PAR-9-1) - (M-ALG-
+	902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T100000Z
+DTEND:20240919T180000Z
+DESCRIPTION:M - Algorithmic complexity and graphs - Day 1\nCredits: 4\nTeam
+	: 2 - 3\nRemote: false\nProject: Complexite algorithmique et graphes - Pro
+	jet\nProject start: Thu Sep 19 2024 10:00:00 GMT+0000 (temps universel coo
+	rdonné)\nProject end: Sun Oct 20 2024 23:59:00 GMT+0000 (temps universel c
+	oordonné)
+URL:https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:jMMudgaHfu1nuFVaursbc
+SUMMARY:M - Algorithmic complexity and graphs - Day 2 - (PAR-9-1) - (M-ALG-
+	902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240920T100000Z
+DTEND:20240920T180000Z
+DESCRIPTION:M - Algorithmic complexity and graphs - Day 2\nCredits: 4\nTeam
+	: 2 - 3\nRemote: false\nProject: Complexite algorithmique et graphes - Pro
+	jet\nProject start: Thu Sep 19 2024 10:00:00 GMT+0000 (temps universel coo
+	rdonné)\nProject end: Sun Oct 20 2024 23:59:00 GMT+0000 (temps universel c
+	oordonné)
+URL:https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:Tltco3FiM3SV8PAN04Vmk
+SUMMARY:M - Algorithmic complexity and graphs - Day 3 - (PAR-9-1) - (M-ALG-
+	902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240921T100000Z
+DTEND:20240921T180000Z
+DESCRIPTION:M - Algorithmic complexity and graphs - Day 3\nCredits: 4\nTeam
+	: 2 - 3\nRemote: false\nProject: Complexite algorithmique et graphes - Pro
+	jet\nProject start: Thu Sep 19 2024 10:00:00 GMT+0000 (temps universel coo
+	rdonné)\nProject end: Sun Oct 20 2024 23:59:00 GMT+0000 (temps universel c
+	oordonné)
+URL:https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:VQVMHpN9WNFb8gLtXOKO_
+SUMMARY:M - Better interact with others with Enneagram - Projet Développeme
+	nt Personnel - (PAR-9-1) - (M-PRO-002) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240929T093000Z
+DTEND:19700101T000000Z
+DESCRIPTION:M - Better interact with others with Enneagram\nCredits: 1\nTea
+	m: 1 - 1\nRemote: false\nProject: Projet Développement Personnel\nProject 
+	start: Sun Sep 29 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProj
+	ect end: Thu Jan 01 1970 00:00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-002/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:HN9PHhrTkZVFZmSvAIoN2
+SUMMARY:M - Better interact with others with Enneagram - Day 1 - AM - (PAR-
+	9-1) - (M-PRO-002) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241003T093000Z
+DTEND:20241003T173000Z
+DESCRIPTION:M - Better interact with others with Enneagram - Day 1 - AM\nCr
+	edits: 1\nTeam: 1 - 1\nRemote: false\nProject: Projet Développement Person
+	nel\nProject start: Sun Sep 29 2024 09:30:00 GMT+0000 (temps universel coo
+	rdonné)\nProject end: Thu Jan 01 1970 00:00:00 GMT+0000 (temps universel c
+	oordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-002/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
+END:VEVENT
+BEGIN:VEVENT
+UID:XyPIN6j3bb4KZNoZLuUcK
+SUMMARY:M - Better interact with others with Enneagram - Day 2 - AM - (PAR-
+	9-1) - (M-PRO-002) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241004T093000Z
+DTEND:20241004T173000Z
+DESCRIPTION:M - Better interact with others with Enneagram - Day 2 - AM\nCr
+	edits: 1\nTeam: 1 - 1\nRemote: false\nProject: Projet Développement Person
+	nel\nProject start: Sun Sep 29 2024 09:30:00 GMT+0000 (temps universel coo
+	rdonné)\nProject end: Thu Jan 01 1970 00:00:00 GMT+0000 (temps universel c
+	oordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-002/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
+END:VEVENT
+BEGIN:VEVENT
+UID:TMSBYZAtdjiFVFMVXtzzy
+SUMMARY:M - Blockchain - Blockchain Project - (PAR-9-1) - (M-BKC-900) - (55
+	)
+DTSTAMP:20240805T185227Z
+DTSTART:20241128T093000Z
+DTEND:20250110T235900Z
+DESCRIPTION:M - Blockchain\nCredits: 3\nTeam: 4 - 4\nRemote: false\nProject
+	: Blockchain Project\nProject start: Thu Nov 28 2024 09:30:00 GMT+0000 (te
+	mps universel coordonné)\nProject end: Fri Jan 10 2025 23:59:00 GMT+0000 (
+	temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:SsRTEhZgwJCI_4nro4B_s
+SUMMARY:M - Blockchain - Day 1 - (PAR-9-1) - (M-BKC-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241128T093000Z
+DTEND:20241128T180000Z
+DESCRIPTION:M - Blockchain - Day 1\nCredits: 3\nTeam: 4 - 4\nRemote: false\
+	nProject: Blockchain Project\nProject start: Thu Nov 28 2024 09:30:00 GMT+
+	0000 (temps universel coordonné)\nProject end: Fri Jan 10 2025 23:59:00 GM
+	T+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:SE0-m9Y4XfE3MtsbexGDM
+SUMMARY:M - Blockchain - Day 2 - (PAR-9-1) - (M-BKC-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241129T093000Z
+DTEND:20241129T180000Z
+DESCRIPTION:M - Blockchain - Day 2\nCredits: 3\nTeam: 4 - 4\nRemote: false\
+	nProject: Blockchain Project\nProject start: Thu Nov 28 2024 09:30:00 GMT+
+	0000 (temps universel coordonné)\nProject end: Fri Jan 10 2025 23:59:00 GM
+	T+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:f7TNJkTw8y686val4Ssn2
+SUMMARY:M - Boost your career - No Project - (PAR-9-1) - (M-PRO-060) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241117T000000Z
+DESCRIPTION:M - Boost your career\nCredits: 1\nTeam: 0 - 0\nRemote: false\n
+	Project: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (tem
+	ps universel coordonné)\nProject end: Sun Nov 17 2024 00:00:00 GMT+0000 (t
+	emps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:IG64FhpSGYyaae9Jdr0qT
+SUMMARY:M - Boost your career - Day 1 - (PAR-9-1) - (M-PRO-060) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241114T093000Z
+DTEND:20241114T173000Z
+DESCRIPTION:M - Boost your career - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote:
+	 false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0
+	000 (temps universel coordonné)\nProject end: Sun Nov 17 2024 00:00:00 GMT
+	+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
+END:VEVENT
+BEGIN:VEVENT
+UID:nkCJZnRXuxGff_GQOMmMh
+SUMMARY:M - Boost your career - Day 2 - (PAR-9-1) - (M-PRO-060) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241115T093000Z
+DTEND:20241115T173000Z
+DESCRIPTION:M - Boost your career - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote:
+	 false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0
+	000 (temps universel coordonné)\nProject end: Sun Nov 17 2024 00:00:00 GMT
+	+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
+END:VEVENT
+BEGIN:VEVENT
+UID:C8gyQkxJQZB1S5VorEzoS
+SUMMARY:M - Business strategy  - M - Strategy - project - (PAR-9-1) - (M-TR
+	V-001) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240912T093000Z
+DTEND:20241011T235900Z
+DESCRIPTION:M - Business strategy \nCredits: 2\nTeam: 4 - 5\nRemote: false\
+	nProject: M - Strategy - project\nProject start: Thu Sep 12 2024 09:30:00 
+	GMT+0000 (temps universel coordonné)\nProject end: Fri Oct 11 2024 23:59:0
+	0 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:O0HuQzsmbYjZ1mfUy-slv
+SUMMARY:M - Business strategy  - Day 1 - (PAR-9-1) - (M-TRV-001) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240912T093000Z
+DTEND:20240912T173000Z
+DESCRIPTION:M - Business strategy  - Day 1\nCredits: 2\nTeam: 4 - 5\nRemote
+	: false\nProject: M - Strategy - project\nProject start: Thu Sep 12 2024 0
+	9:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Oct 11 2024
+	 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:HBim_wOdvcpS4joCBGs7k
+SUMMARY:M - Business strategy  - Day 2 - (PAR-9-1) - (M-TRV-001) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240913T093000Z
+DTEND:20240913T173000Z
+DESCRIPTION:M - Business strategy  - Day 2\nCredits: 2\nTeam: 4 - 5\nRemote
+	: false\nProject: M - Strategy - project\nProject start: Thu Sep 12 2024 0
+	9:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Oct 11 2024
+	 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:vgF3fwZ0mcDAQ6s9UoNI3
+SUMMARY:M - Contract law - No Project - (PAR-9-1) - (M-TRV-014) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241208T000000Z
+DESCRIPTION:M - Contract law\nCredits: 1\nTeam: 0 - 0\nRemote: false\nProje
+	ct: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (temps un
+	iversel coordonné)\nProject end: Sun Dec 08 2024 00:00:00 GMT+0000 (temps 
+	universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:EH-71gfzAbDWVL99e4TSS
+SUMMARY:M - Contract law - Day 1 - (PAR-9-1) - (M-TRV-014) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20241205T173000Z
+DESCRIPTION:M - Contract law - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote: fals
+	e\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (
+	temps universel coordonné)\nProject end: Sun Dec 08 2024 00:00:00 GMT+0000
+	 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:fKLfk0mRbOrTb3w5LBE_9
+SUMMARY:M - Contract law - Day 2 - (PAR-9-1) - (M-TRV-014) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241206T093000Z
+DTEND:20241206T173000Z
+DESCRIPTION:M - Contract law - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote: fals
+	e\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (
+	temps universel coordonné)\nProject end: Sun Dec 08 2024 00:00:00 GMT+0000
+	 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:v2hJPNG2NzxMaqf1ZHHib
+SUMMARY:M - Cryptography - Cryptography Project - (PAR-9-1) - (M-SEC-903) -
+	 (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241003T093000Z
+DTEND:20241101T235900Z
+DESCRIPTION:M - Cryptography\nCredits: 4\nTeam: 3 - 3\nRemote: false\nProje
+	ct: Cryptography Project\nProject start: Thu Oct 03 2024 09:30:00 GMT+0000
+	 (temps universel coordonné)\nProject end: Fri Nov 01 2024 23:59:00 GMT+00
+	00 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-903/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:44fF3khm_fBEYGFfxJ1z2
+SUMMARY:M - Cryptography - Day 1 - (PAR-9-1) - (M-SEC-903) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241003T093000Z
+DTEND:20241003T180000Z
+DESCRIPTION:M - Cryptography - Day 1\nCredits: 4\nTeam: 3 - 3\nRemote: fals
+	e\nProject: Cryptography Project\nProject start: Thu Oct 03 2024 09:30:00 
+	GMT+0000 (temps universel coordonné)\nProject end: Fri Nov 01 2024 23:59:0
+	0 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-903/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:qHmg-pRrPi4nqu4aZn82p
+SUMMARY:M - Cryptography - Day 2 - (PAR-9-1) - (M-SEC-903) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241004T093000Z
+DTEND:20241004T180000Z
+DESCRIPTION:M - Cryptography - Day 2\nCredits: 4\nTeam: 3 - 3\nRemote: fals
+	e\nProject: Cryptography Project\nProject start: Thu Oct 03 2024 09:30:00 
+	GMT+0000 (temps universel coordonné)\nProject end: Fri Nov 01 2024 23:59:0
+	0 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-903/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:U0AOFNdfJIkd-jevm-Za-
+SUMMARY:M - Digital Marketing - Digital Marketing - (PAR-9-1) - (M-INT-928)
+	 - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240920T090000Z
+DTEND:20241018T235900Z
+DESCRIPTION:M - Digital Marketing\nCredits: 2\nTeam: 3 - 3\nRemote: true\nP
+	roject: Digital Marketing\nProject start: Fri Sep 20 2024 09:00:00 GMT+000
+	0 (temps universel coordonné)\nProject end: Fri Oct 18 2024 23:59:00 GMT+0
+	000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-INT-928/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:4ef0M8YRKQDe0C4OPy9XN
+SUMMARY:M - Digital Marketing - Day 1 - (PAR-9-1) - (M-INT-928) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T090000Z
+DTEND:20240919T160000Z
+DESCRIPTION:M - Digital Marketing - Day 1\nCredits: 2\nTeam: 3 - 3\nRemote:
+	 true\nProject: Digital Marketing\nProject start: Fri Sep 20 2024 09:00:00
+	 GMT+0000 (temps universel coordonné)\nProject end: Fri Oct 18 2024 23:59:
+	00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-INT-928/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:He9q-1KzxbDw562TdFzui
+SUMMARY:M - Digital Marketing - Day 2 - (PAR-9-1) - (M-INT-928) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240920T090000Z
+DTEND:20240920T160000Z
+DESCRIPTION:M - Digital Marketing - Day 2\nCredits: 2\nTeam: 3 - 3\nRemote:
+	 true\nProject: Digital Marketing\nProject start: Fri Sep 20 2024 09:00:00
+	 GMT+0000 (temps universel coordonné)\nProject end: Fri Oct 18 2024 23:59:
+	00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-INT-928/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:tOrZMwz9VhY3CT3OVM8UF
+SUMMARY:M - Environmental impact of digital technology - Impact environneme
+	ntal du numérique  - Projet - (PAR-9-1) - (M-TRV-902) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250102T093000Z
+DTEND:20250131T235900Z
+DESCRIPTION:M - Environmental impact of digital technology\nCredits: 2\nTea
+	m: 1 - 1\nRemote: true\nProject: Impact environnemental du numérique  - Pr
+	ojet\nProject start: Thu Jan 02 2025 09:30:00 GMT+0000 (temps universel co
+	ordonné)\nProject end: Fri Jan 31 2025 23:59:00 GMT+0000 (temps universel 
+	coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-902/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:gN3bjqHT7EU84Wqz98WCn
+SUMMARY:M - Environmental impact of digital technology - Day 1 - (PAR-9-1) 
+	- (M-TRV-902) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250102T093000Z
+DTEND:20250102T173000Z
+DESCRIPTION:M - Environmental impact of digital technology - Day 1\nCredits
+	: 2\nTeam: 1 - 1\nRemote: true\nProject: Impact environnemental du numériq
+	ue  - Projet\nProject start: Thu Jan 02 2025 09:30:00 GMT+0000 (temps univ
+	ersel coordonné)\nProject end: Fri Jan 31 2025 23:59:00 GMT+0000 (temps un
+	iversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-902/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:dMPvnYuOcHW2-rcxaZ-JG
+SUMMARY:M - Environmental impact of digital technology - Day 2 - (PAR-9-1) 
+	- (M-TRV-902) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250103T093000Z
+DTEND:20250103T173000Z
+DESCRIPTION:M - Environmental impact of digital technology - Day 2\nCredits
+	: 2\nTeam: 1 - 1\nRemote: true\nProject: Impact environnemental du numériq
+	ue  - Projet\nProject start: Thu Jan 02 2025 09:30:00 GMT+0000 (temps univ
+	ersel coordonné)\nProject end: Fri Jan 31 2025 23:59:00 GMT+0000 (temps un
+	iversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-902/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:WIBBPGd-ZBno3aVfPmxfD
+SUMMARY:M - Financing and Entrepreneurship  - M - Financing and Entrepreneu
+	rship - (PAR-9-1) - (M-TRV-003) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241107T093000Z
+DTEND:20241206T235900Z
+DESCRIPTION:M - Financing and Entrepreneurship \nCredits: 2\nTeam: 5 - 5\nR
+	emote: false\nProject: M - Financing and Entrepreneurship\nProject start: 
+	Thu Nov 07 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end
+	: Fri Dec 06 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-003/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:xmpAy5ViGFBk7GcYJfQ8h
+SUMMARY:M - Financing and Entrepreneurship  - Day 1 - (PAR-9-1) - (M-TRV-00
+	3) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241107T093000Z
+DTEND:20241107T173000Z
+DESCRIPTION:M - Financing and Entrepreneurship  - Day 1\nCredits: 2\nTeam: 
+	5 - 5\nRemote: false\nProject: M - Financing and Entrepreneurship\nProject
+	 start: Thu Nov 07 2024 09:30:00 GMT+0000 (temps universel coordonné)\nPro
+	ject end: Fri Dec 06 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-003/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8WBU5v4qy5xExBarT2p
+SUMMARY:M - Financing and Entrepreneurship  - Day 2 - (PAR-9-1) - (M-TRV-00
+	3) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241108T093000Z
+DTEND:20241108T173000Z
+DESCRIPTION:M - Financing and Entrepreneurship  - Day 2\nCredits: 2\nTeam: 
+	5 - 5\nRemote: false\nProject: M - Financing and Entrepreneurship\nProject
+	 start: Thu Nov 07 2024 09:30:00 GMT+0000 (temps universel coordonné)\nPro
+	ject end: Fri Dec 06 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-003/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:edw4LjE15XK3XYc4sknWR
+SUMMARY:M - Google ranking competition - SEO from scratch - Google ranking 
+	competition: SEO de A a Z - project - (PAR-9-1) - (M-SEO-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240912T093000Z
+DTEND:20241122T235900Z
+DESCRIPTION:M - Google ranking competition - SEO from scratch\nCredits: 5\n
+	Team: 4 - 4\nRemote: true\nProject: Google ranking competition: SEO de A a
+	 Z - project\nProject start: Thu Sep 12 2024 09:30:00 GMT+0000 (temps univ
+	ersel coordonné)\nProject end: Fri Nov 22 2024 23:59:00 GMT+0000 (temps un
+	iversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:9QhlhYP2HbxrnAqV7NcqV
+SUMMARY:M - Google ranking competition - SEO from scratch - Day 1 - (PAR-9-
+	1) - (M-SEO-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240912T093000Z
+DTEND:20240912T173000Z
+DESCRIPTION:M - Google ranking competition - SEO from scratch - Day 1\nCred
+	its: 5\nTeam: 4 - 4\nRemote: true\nProject: Google ranking competition: SE
+	O de A a Z - project\nProject start: Thu Sep 12 2024 09:30:00 GMT+0000 (te
+	mps universel coordonné)\nProject end: Fri Nov 22 2024 23:59:00 GMT+0000 (
+	temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:F7_3EEo7zxDN0DYyb7iYS
+SUMMARY:M - Google ranking competition - SEO from scratch - Day 2 - (PAR-9-
+	1) - (M-SEO-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240913T093000Z
+DTEND:20240913T173000Z
+DESCRIPTION:M - Google ranking competition - SEO from scratch - Day 2\nCred
+	its: 5\nTeam: 4 - 4\nRemote: true\nProject: Google ranking competition: SE
+	O de A a Z - project\nProject start: Thu Sep 12 2024 09:30:00 GMT+0000 (te
+	mps universel coordonné)\nProject end: Fri Nov 22 2024 23:59:00 GMT+0000 (
+	temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:Jj6NbteDiHKT86qS05IF0
+SUMMARY:M - Google ranking competition - SEO from scratch - Day 3 - (PAR-9-
+	1) - (M-SEO-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240914T093000Z
+DTEND:20240914T173000Z
+DESCRIPTION:M - Google ranking competition - SEO from scratch - Day 3\nCred
+	its: 5\nTeam: 4 - 4\nRemote: true\nProject: Google ranking competition: SE
+	O de A a Z - project\nProject start: Thu Sep 12 2024 09:30:00 GMT+0000 (te
+	mps universel coordonné)\nProject end: Fri Nov 22 2024 23:59:00 GMT+0000 (
+	temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:BKt7bKwDHCkxStZjHUlQ7
+SUMMARY:M - Governance of Information Systems - Gouvernances des SI - proje
+	t - (PAR-9-1) - (M-MGT-904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T093000Z
+DTEND:20241018T235900Z
+DESCRIPTION:M - Governance of Information Systems\nCredits: 2\nTeam: 4 - 5\
+	nRemote: true\nProject: Gouvernances des SI - projet\nProject start: Thu S
+	ep 19 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri
+	 Oct 18 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:dCUD96ste4wqJZIhaXNdm
+SUMMARY:M - Governance of Information Systems - Day 1 - (PAR-9-1) - (M-MGT-
+	904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T093000Z
+DTEND:20240919T173000Z
+DESCRIPTION:M - Governance of Information Systems - Day 1\nCredits: 2\nTeam
+	: 4 - 5\nRemote: true\nProject: Gouvernances des SI - projet\nProject star
+	t: Thu Sep 19 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject 
+	end: Fri Oct 18 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:d57re4i8SlWMA_CXwQX6k
+SUMMARY:M - Governance of Information Systems - Day 2 - (PAR-9-1) - (M-MGT-
+	904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240920T093000Z
+DTEND:20240920T173000Z
+DESCRIPTION:M - Governance of Information Systems - Day 2\nCredits: 2\nTeam
+	: 4 - 5\nRemote: true\nProject: Gouvernances des SI - projet\nProject star
+	t: Thu Sep 19 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject 
+	end: Fri Oct 18 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:1WUVhJBb0Ym7cSuOkX-Ta
+SUMMARY:M - How to find a job abroad - No Project - (PAR-9-1) - (M-PRO-906)
+	 - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241215T000000Z
+DESCRIPTION:M - How to find a job abroad\nCredits: 1\nTeam: 0 - 0\nRemote: 
+	true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+000
+	0 (temps universel coordonné)\nProject end: Sun Dec 15 2024 00:00:00 GMT+0
+	000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-906/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:h6eoThKUqmfEcTfdTDnxe
+SUMMARY:M - How to find a job abroad - Day 1 - (PAR-9-1) - (M-PRO-906) - (2
+	5)
+DTSTAMP:20240805T185227Z
+DTSTART:20241212T093000Z
+DTEND:20241212T173000Z
+DESCRIPTION:M - How to find a job abroad - Day 1\nCredits: 1\nTeam: 0 - 0\n
+	Remote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00
+	 GMT+0000 (temps universel coordonné)\nProject end: Sun Dec 15 2024 00:00:
+	00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-906/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:z2v8K9vZU0MfiQogTgivP
+SUMMARY:M - How to find a job abroad - Day 2 - (PAR-9-1) - (M-PRO-906) - (2
+	5)
+DTSTAMP:20240805T185227Z
+DTSTART:20241213T093000Z
+DTEND:20241213T173000Z
+DESCRIPTION:M - How to find a job abroad - Day 2\nCredits: 1\nTeam: 0 - 0\n
+	Remote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00
+	 GMT+0000 (temps universel coordonné)\nProject end: Sun Dec 15 2024 00:00:
+	00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-906/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:DpcXvUSHzaL_0ggNBJv0A
+SUMMARY:M - Incident Management & Resolution Methodologies - M - Gestion de
+	s incidents et méthodologies de résolution - projet - (PAR-9-1) - (M-TRV-9
+	08) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240912T093000Z
+DTEND:20241011T235900Z
+DESCRIPTION:M - Incident Management & Resolution Methodologies\nCredits: 2\
+	nTeam: 4 - 5\nRemote: true\nProject: M - Gestion des incidents et méthodol
+	ogies de résolution - projet\nProject start: Thu Sep 12 2024 09:30:00 GMT+
+	0000 (temps universel coordonné)\nProject end: Fri Oct 11 2024 23:59:00 GM
+	T+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:-rx4hldtVB8U1IIysejSv
+SUMMARY:M - Incident Management & Resolution Methodologies - Day 1 - (PAR-9
+	-1) - (M-TRV-908) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240912T100000Z
+DTEND:20240912T180000Z
+DESCRIPTION:M - Incident Management & Resolution Methodologies - Day 1\nCre
+	dits: 2\nTeam: 4 - 5\nRemote: true\nProject: M - Gestion des incidents et 
+	méthodologies de résolution - projet\nProject start: Thu Sep 12 2024 09:30
+	:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Oct 11 2024 23:
+	59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:ZbI26hETwZ-tST9JgDLfY
+SUMMARY:M - Incident Management & Resolution Methodologies - Day 2 - (PAR-9
+	-1) - (M-TRV-908) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240913T100000Z
+DTEND:20240913T180000Z
+DESCRIPTION:M - Incident Management & Resolution Methodologies - Day 2\nCre
+	dits: 2\nTeam: 4 - 5\nRemote: true\nProject: M - Gestion des incidents et 
+	méthodologies de résolution - projet\nProject start: Thu Sep 12 2024 09:30
+	:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Oct 11 2024 23:
+	59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:oE90RW4iNSL9sRrMwKgya
+SUMMARY:M - Innovative management - No Project - (PAR-9-1) - (M-MGT-905) - 
+	(25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241013T000000Z
+DESCRIPTION:M - Innovative management\nCredits: 2\nTeam: 0 - 0\nRemote: tru
+	e\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (
+	temps universel coordonné)\nProject end: Sun Oct 13 2024 00:00:00 GMT+0000
+	 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:xFr8GCW3s6LN05Er8NuZv
+SUMMARY:M - Innovative management - Day 1 - (PAR-9-1) - (M-MGT-905) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T093000Z
+DTEND:20241010T173000Z
+DESCRIPTION:M - Innovative management - Day 1\nCredits: 2\nTeam: 0 - 0\nRem
+	ote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GM
+	T+0000 (temps universel coordonné)\nProject end: Sun Oct 13 2024 00:00:00 
+	GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:OHX_0YtVGjNipkKhvQQ9T
+SUMMARY:M - Innovative management - Day 2 - (PAR-9-1) - (M-MGT-905) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241011T093000Z
+DTEND:20241011T173000Z
+DESCRIPTION:M - Innovative management - Day 2\nCredits: 2\nTeam: 0 - 0\nRem
+	ote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GM
+	T+0000 (temps universel coordonné)\nProject end: Sun Oct 13 2024 00:00:00 
+	GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:j2GHxwyM-lbGye3FlysIG
+SUMMARY:M - Innovative management - Day 3 - (PAR-9-1) - (M-MGT-905) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241012T093000Z
+DTEND:20241012T173000Z
+DESCRIPTION:M - Innovative management - Day 3\nCredits: 2\nTeam: 0 - 0\nRem
+	ote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GM
+	T+0000 (temps universel coordonné)\nProject end: Sun Oct 13 2024 00:00:00 
+	GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:gUIxFg6VxuWi16WKMse9D
+SUMMARY:M - Intercultural Communication Skills - Intercultural Communicatio
+	n Skills - (PAR-9-1) - (M-INT-927) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240912T093000Z
+DTEND:20241011T235900Z
+DESCRIPTION:M - Intercultural Communication Skills\nCredits: 2\nTeam: 3 - 3
+	\nRemote: true\nProject: Intercultural Communication Skills\nProject start
+	: Thu Sep 12 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject e
+	nd: Fri Oct 11 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-INT-927/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:BAoTaJlSOA9T15Q9omhqO
+SUMMARY:M - Intercultural Communication Skills - Day 1 - (PAR-9-1) - (M-INT
+	-927) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240912T090000Z
+DTEND:20240912T160000Z
+DESCRIPTION:M - Intercultural Communication Skills - Day 1\nCredits: 2\nTea
+	m: 3 - 3\nRemote: true\nProject: Intercultural Communication Skills\nProje
+	ct start: Thu Sep 12 2024 09:30:00 GMT+0000 (temps universel coordonné)\nP
+	roject end: Fri Oct 11 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-INT-927/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:AeuB5OcNYpKo1fqOjxYYU
+SUMMARY:M - Intercultural Communication Skills - Day 2 - (PAR-9-1) - (M-INT
+	-927) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240913T090000Z
+DTEND:20240913T160000Z
+DESCRIPTION:M - Intercultural Communication Skills - Day 2\nCredits: 2\nTea
+	m: 3 - 3\nRemote: true\nProject: Intercultural Communication Skills\nProje
+	ct start: Thu Sep 12 2024 09:30:00 GMT+0000 (temps universel coordonné)\nP
+	roject end: Fri Oct 11 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-INT-927/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:j99PiJ1vCGQBLDJsxlhE9
+SUMMARY:M - IoT - IoT Solution - (PAR-9-1) - (M-IOT-200) - (40)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T093000Z
+DTEND:20241115T235900Z
+DESCRIPTION:M - IoT\nCredits: 5\nTeam: 2 - 2\nRemote: false\nProject: IoT S
+	olution\nProject start: Thu Sep 19 2024 09:30:00 GMT+0000 (temps universel
+	 coordonné)\nProject end: Fri Nov 15 2024 23:59:00 GMT+0000 (temps univers
+	el coordonné)
+URL:https://intra.epitech.eu/module/2024/M-IOT-200/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:EdniVh70mgG32M-mTFOGU
+SUMMARY:M - IoT - Day 1 - (PAR-9-1) - (M-IOT-200) - (40)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T093000Z
+DTEND:20240919T180000Z
+DESCRIPTION:M - IoT - Day 1\nCredits: 5\nTeam: 2 - 2\nRemote: false\nProjec
+	t: IoT Solution\nProject start: Thu Sep 19 2024 09:30:00 GMT+0000 (temps u
+	niversel coordonné)\nProject end: Fri Nov 15 2024 23:59:00 GMT+0000 (temps
+	 universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-IOT-200/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:ogh67GcoI-4TuSz8LOUZv
+SUMMARY:M - IoT - Day 2 - (PAR-9-1) - (M-IOT-200) - (40)
+DTSTAMP:20240805T185227Z
+DTSTART:20240920T093000Z
+DTEND:20240920T180000Z
+DESCRIPTION:M - IoT - Day 2\nCredits: 5\nTeam: 2 - 2\nRemote: false\nProjec
+	t: IoT Solution\nProject start: Thu Sep 19 2024 09:30:00 GMT+0000 (temps u
+	niversel coordonné)\nProject end: Fri Nov 15 2024 23:59:00 GMT+0000 (temps
+	 universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-IOT-200/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:BmXTvRYR3_KTfZINyv9m6
+SUMMARY:M - Machine Learning – Supervised Learning - Machine Learning – Sup
+	ervised Learning - Project - (PAR-9-1) - (M-MLR-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T100000Z
+DTEND:20241110T235900Z
+DESCRIPTION:M - Machine Learning – Supervised Learning\nCredits: 4\nTeam: 2
+	 - 3\nRemote: false\nProject: Machine Learning – Supervised Learning - Pro
+	ject\nProject start: Thu Oct 10 2024 10:00:00 GMT+0000 (temps universel co
+	ordonné)\nProject end: Sun Nov 10 2024 23:59:00 GMT+0000 (temps universel 
+	coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:LU9USRwYPJGPCYECGHZkW
+SUMMARY:M - Machine Learning – Supervised Learning - Day 1 - (PAR-9-1) - (M
+	-MLR-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T100000Z
+DTEND:20241010T180000Z
+DESCRIPTION:M - Machine Learning – Supervised Learning - Day 1\nCredits: 4\
+	nTeam: 2 - 3\nRemote: false\nProject: Machine Learning – Supervised Learni
+	ng - Project\nProject start: Thu Oct 10 2024 10:00:00 GMT+0000 (temps univ
+	ersel coordonné)\nProject end: Sun Nov 10 2024 23:59:00 GMT+0000 (temps un
+	iversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:l15C6tOCEG52-OJPJ9Xdp
+SUMMARY:M - Machine Learning – Supervised Learning - Day 2 - (PAR-9-1) - (M
+	-MLR-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241011T100000Z
+DTEND:20241011T180000Z
+DESCRIPTION:M - Machine Learning – Supervised Learning - Day 2\nCredits: 4\
+	nTeam: 2 - 3\nRemote: false\nProject: Machine Learning – Supervised Learni
+	ng - Project\nProject start: Thu Oct 10 2024 10:00:00 GMT+0000 (temps univ
+	ersel coordonné)\nProject end: Sun Nov 10 2024 23:59:00 GMT+0000 (temps un
+	iversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:Haxvsd6y_nTBBQdyhY8_e
+SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Machine L
+	earning – Unsupervised Learning and Agents - Project - (PAR-9-1) - (M-MLR-
+	901) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250102T100000Z
+DTEND:20250209T235900Z
+DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents\nCredit
+	s: 4\nTeam: 2 - 3\nRemote: true\nProject: Machine Learning – Unsupervised 
+	Learning and Agents - Project\nProject start: Thu Jan 02 2025 10:00:00 GMT
+	+0000 (temps universel coordonné)\nProject end: Sun Feb 09 2025 23:59:00 G
+	MT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:GWc39-7ObCaCHEerg1OXI
+SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Day 1 - (
+	PAR-9-1) - (M-MLR-901) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250102T100000Z
+DTEND:20250102T180000Z
+DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents - Day 1
+	\nCredits: 4\nTeam: 2 - 3\nRemote: true\nProject: Machine Learning – Unsup
+	ervised Learning and Agents - Project\nProject start: Thu Jan 02 2025 10:0
+	0:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Feb 09 2025 23
+	:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:_RrK7q7EkAuDFrEmP7mc7
+SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Day 2 - (
+	PAR-9-1) - (M-MLR-901) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250103T100000Z
+DTEND:20250103T180000Z
+DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents - Day 2
+	\nCredits: 4\nTeam: 2 - 3\nRemote: true\nProject: Machine Learning – Unsup
+	ervised Learning and Agents - Project\nProject start: Thu Jan 02 2025 10:0
+	0:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Feb 09 2025 23
+	:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:N6ySdOSMYhWG7U533Fkyr
+SUMMARY:M - Management of Innovation - Monter un "Dossier Innovation" - (PA
+	R-9-1) - (M-PRO-001) - (30)
+DTSTAMP:20240805T185227Z
+DTSTART:20241003T093000Z
+DTEND:20241101T235900Z
+DESCRIPTION:M - Management of Innovation\nCredits: 3\nTeam: 5 - 6\nRemote: 
+	true\nProject: Monter un "Dossier Innovation"\nProject start: Thu Oct 03 2
+	024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Nov 01
+	 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:GCuAwj7rDgFwClkJeIjuP
+SUMMARY:M - Management of Innovation - Day 1 - (PAR-9-1) - (M-PRO-001) - (3
+	0)
+DTSTAMP:20240805T185227Z
+DTSTART:20241003T093000Z
+DTEND:20241003T173000Z
+DESCRIPTION:M - Management of Innovation - Day 1\nCredits: 3\nTeam: 5 - 6\n
+	Remote: true\nProject: Monter un "Dossier Innovation"\nProject start: Thu 
+	Oct 03 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fr
+	i Nov 01 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:zC3SUMEvKXq3X8R3-lWbZ
+SUMMARY:M - Management of Innovation - Day 2 - (PAR-9-1) - (M-PRO-001) - (3
+	0)
+DTSTAMP:20240805T185227Z
+DTSTART:20241004T093000Z
+DTEND:20241004T173000Z
+DESCRIPTION:M - Management of Innovation - Day 2\nCredits: 3\nTeam: 5 - 6\n
+	Remote: true\nProject: Monter un "Dossier Innovation"\nProject start: Thu 
+	Oct 03 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fr
+	i Nov 01 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:-u2kg1pFbrW5DHg0MygLl
+SUMMARY:M - Marketing - M - Marketing - Final Project - (PAR-9-1) - (M-TRV-
+	002) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20250110T235900Z
+DESCRIPTION:M - Marketing\nCredits: 2\nTeam: 4 - 5\nRemote: false\nProject:
+	 M - Marketing - Final Project\nProject start: Thu Dec 05 2024 09:30:00 GM
+	T+0000 (temps universel coordonné)\nProject end: Fri Jan 10 2025 23:59:00 
+	GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-002/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:dScWsAleRLKSA0VGtMT67
+SUMMARY:M - Marketing - Day 1 - (PAR-9-1) - (M-TRV-002) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20241205T173000Z
+DESCRIPTION:M - Marketing - Day 1\nCredits: 2\nTeam: 4 - 5\nRemote: false\n
+	Project: M - Marketing - Final Project\nProject start: Thu Dec 05 2024 09:
+	30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Jan 10 2025 2
+	3:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-002/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
+END:VEVENT
+BEGIN:VEVENT
+UID:MGTtLP2wCau4eNw85hrg6
+SUMMARY:M - Marketing - Day 2 - (PAR-9-1) - (M-TRV-002) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241206T093000Z
+DTEND:20241206T173000Z
+DESCRIPTION:M - Marketing - Day 2\nCredits: 2\nTeam: 4 - 5\nRemote: false\n
+	Project: M - Marketing - Final Project\nProject start: Thu Dec 05 2024 09:
+	30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Jan 10 2025 2
+	3:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-002/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
+END:VEVENT
+BEGIN:VEVENT
+UID:yAA73ywxw3ZLolbj9E3Eh
+SUMMARY:M - Negotiation - No Project - (PAR-9-1) - (M-PRO-004) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241110T000000Z
+DESCRIPTION:M - Negotiation\nCredits: 1\nTeam: 0 - 0\nRemote: false\nProjec
+	t: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (temps uni
+	versel coordonné)\nProject end: Sun Nov 10 2024 00:00:00 GMT+0000 (temps u
+	niversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:dQWrHbaSKT-gi79DzKcrF
+SUMMARY:M - Negotiation - Day 1 - AM - (PAR-9-1) - (M-PRO-004) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241107T093000Z
+DTEND:20241107T173000Z
+DESCRIPTION:M - Negotiation - Day 1 - AM\nCredits: 1\nTeam: 0 - 0\nRemote: 
+	false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+00
+	00 (temps universel coordonné)\nProject end: Sun Nov 10 2024 00:00:00 GMT+
+	0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
+END:VEVENT
+BEGIN:VEVENT
+UID:gRtz9JIiIBkiD3f2TmGDt
+SUMMARY:M - Negotiation - Day 2 - AM - (PAR-9-1) - (M-PRO-004) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241108T093000Z
+DTEND:20241108T173000Z
+DESCRIPTION:M - Negotiation - Day 2 - AM\nCredits: 1\nTeam: 0 - 0\nRemote: 
+	false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+00
+	00 (temps universel coordonné)\nProject end: Sun Nov 10 2024 00:00:00 GMT+
+	0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
+END:VEVENT
+BEGIN:VEVENT
+UID:fYYDLPtI9GxeYpa1sthP6
+SUMMARY:M - Offensive Security and exploitation - Offensive Security and Ex
+	ploitation - Project - (PAR-9-1) - (M-SEC-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241128T093000Z
+DTEND:20250103T235900Z
+DESCRIPTION:M - Offensive Security and exploitation\nCredits: 2\nTeam: 3 - 
+	3\nRemote: true\nProject: Offensive Security and Exploitation - Project\nP
+	roject start: Thu Nov 28 2024 09:30:00 GMT+0000 (temps universel coordonné
+	)\nProject end: Fri Jan 03 2025 23:59:00 GMT+0000 (temps universel coordon
+	né)
+URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:WUqx4q-pbd_KidduaOczh
+SUMMARY:M - Offensive Security and exploitation - Day 1 - (PAR-9-1) - (M-SE
+	C-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241128T093000Z
+DTEND:20241128T180000Z
+DESCRIPTION:M - Offensive Security and exploitation - Day 1\nCredits: 2\nTe
+	am: 3 - 3\nRemote: true\nProject: Offensive Security and Exploitation - Pr
+	oject\nProject start: Thu Nov 28 2024 09:30:00 GMT+0000 (temps universel c
+	oordonné)\nProject end: Fri Jan 03 2025 23:59:00 GMT+0000 (temps universel
+	 coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:BbsBylFMtaQg-6oqIZXyw
+SUMMARY:M - Offensive Security and exploitation - Day 2 - (PAR-9-1) - (M-SE
+	C-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241129T093000Z
+DTEND:20241129T180000Z
+DESCRIPTION:M - Offensive Security and exploitation - Day 2\nCredits: 2\nTe
+	am: 3 - 3\nRemote: true\nProject: Offensive Security and Exploitation - Pr
+	oject\nProject start: Thu Nov 28 2024 09:30:00 GMT+0000 (temps universel c
+	oordonné)\nProject end: Fri Jan 03 2025 23:59:00 GMT+0000 (temps universel
+	 coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:OvQKhEpd9ObVoA8vum2_v
+SUMMARY:M - Progressive Web Apps - Progressive Web Apps Project - (PAR-9-1)
+	 - (M-WEB-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T093000Z
+DTEND:20241206T234200Z
+DESCRIPTION:M - Progressive Web Apps\nCredits: 4\nTeam: 3 - 4\nRemote: fals
+	e\nProject: Progressive Web Apps Project\nProject start: Thu Oct 10 2024 0
+	9:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Dec 06 2024
+	 23:42:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-WEB-902/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:pQdzC6z73ZE16qTMVepD0
+SUMMARY:M - Progressive Web Apps - Day 1 - (PAR-9-1) - (M-WEB-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T093000Z
+DTEND:20241010T180000Z
+DESCRIPTION:M - Progressive Web Apps - Day 1\nCredits: 4\nTeam: 3 - 4\nRemo
+	te: false\nProject: Progressive Web Apps Project\nProject start: Thu Oct 1
+	0 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Dec
+	 06 2024 23:42:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-WEB-902/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:KO3FZ1C-01FyEweehlnMq
+SUMMARY:M - Progressive Web Apps - Day 2 - (PAR-9-1) - (M-WEB-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241011T093000Z
+DTEND:20241011T180000Z
+DESCRIPTION:M - Progressive Web Apps - Day 2\nCredits: 4\nTeam: 3 - 4\nRemo
+	te: false\nProject: Progressive Web Apps Project\nProject start: Thu Oct 1
+	0 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Dec
+	 06 2024 23:42:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-WEB-902/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:Q5ABepobkGLkyHcr7BosW
+SUMMARY:M - Reverse Engineering & Cracking II - Reverse Engineering & Crack
+	ing II Project - (PAR-9-1) - (M-SEC-904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241212T093000Z
+DTEND:20250117T235900Z
+DESCRIPTION:M - Reverse Engineering & Cracking II\nCredits: 4\nTeam: 3 - 3\
+	nRemote: true\nProject: Reverse Engineering & Cracking II Project\nProject
+	 start: Thu Dec 12 2024 09:30:00 GMT+0000 (temps universel coordonné)\nPro
+	ject end: Fri Jan 17 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-904/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:IodgXY92qsqYYk-l2jgwW
+SUMMARY:M - Reverse Engineering & Cracking II - Day 1 - (PAR-9-1) - (M-SEC-
+	904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241212T093000Z
+DTEND:20241212T180000Z
+DESCRIPTION:M - Reverse Engineering & Cracking II - Day 1\nCredits: 4\nTeam
+	: 3 - 3\nRemote: true\nProject: Reverse Engineering & Cracking II Project\
+	nProject start: Thu Dec 12 2024 09:30:00 GMT+0000 (temps universel coordon
+	né)\nProject end: Fri Jan 17 2025 23:59:00 GMT+0000 (temps universel coord
+	onné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-904/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:EoS4i5pSlwg4DiyyShBaN
+SUMMARY:M - Reverse Engineering & Cracking II - Day 2 - (PAR-9-1) - (M-SEC-
+	904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241213T093000Z
+DTEND:20241213T180000Z
+DESCRIPTION:M - Reverse Engineering & Cracking II - Day 2\nCredits: 4\nTeam
+	: 3 - 3\nRemote: true\nProject: Reverse Engineering & Cracking II Project\
+	nProject start: Thu Dec 12 2024 09:30:00 GMT+0000 (temps universel coordon
+	né)\nProject end: Fri Jan 17 2025 23:59:00 GMT+0000 (temps universel coord
+	onné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-904/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:FMQS8MFDKnKOkHkJe2BnB
+SUMMARY:M - The keys to project framework level II - M- The keys to project
+	 framing level II - project - (PAR-9-1) - (M-PRO-904) - (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20250110T235900Z
+DESCRIPTION:M - The keys to project framework level II\nCredits: 2\nTeam: 4
+	 - 6\nRemote: true\nProject: M- The keys to project framing level II - pro
+	ject\nProject start: Thu Dec 05 2024 09:30:00 GMT+0000 (temps universel co
+	ordonné)\nProject end: Fri Jan 10 2025 23:59:00 GMT+0000 (temps universel 
+	coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:L9iZOzkr-xRKJ2ZCaqdYz
+SUMMARY:M - The keys to project framework level II - Day 1 - (PAR-9-1) - (M
+	-PRO-904) - (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20241205T173000Z
+DESCRIPTION:M - The keys to project framework level II - Day 1\nCredits: 2\
+	nTeam: 4 - 6\nRemote: true\nProject: M- The keys to project framing level 
+	II - project\nProject start: Thu Dec 05 2024 09:30:00 GMT+0000 (temps univ
+	ersel coordonné)\nProject end: Fri Jan 10 2025 23:59:00 GMT+0000 (temps un
+	iversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:Z_07qnqfzbeyE9Gyq8jT0
+SUMMARY:M - The keys to project framework level II - Day 2 - (PAR-9-1) - (M
+	-PRO-904) - (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20241206T093000Z
+DTEND:20241206T173000Z
+DESCRIPTION:M - The keys to project framework level II - Day 2\nCredits: 2\
+	nTeam: 4 - 6\nRemote: true\nProject: M- The keys to project framing level 
+	II - project\nProject start: Thu Dec 05 2024 09:30:00 GMT+0000 (temps univ
+	ersel coordonné)\nProject end: Fri Jan 10 2025 23:59:00 GMT+0000 (temps un
+	iversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:64tB3_8qpEyMUxUKojjKa
+SUMMARY:M - The keys to project framing - M - The keys to project framing l
+	evel I - project - (PAR-9-1) - (M-PRO-902) - (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T093000Z
+DTEND:20241018T235900Z
+DESCRIPTION:M - The keys to project framing\nCredits: 2\nTeam: 4 - 6\nRemot
+	e: false\nProject: M - The keys to project framing level I - project\nProj
+	ect start: Thu Sep 19 2024 09:30:00 GMT+0000 (temps universel coordonné)\n
+	Project end: Fri Oct 18 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-902/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:0mCTrOy1LR21_jecP5Vit
+SUMMARY:M - The keys to project framing - Day 1 - (PAR-9-1) - (M-PRO-902) -
+	 (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20240919T093000Z
+DTEND:20240919T173000Z
+DESCRIPTION:M - The keys to project framing - Day 1\nCredits: 2\nTeam: 4 - 
+	6\nRemote: false\nProject: M - The keys to project framing level I - proje
+	ct\nProject start: Thu Sep 19 2024 09:30:00 GMT+0000 (temps universel coor
+	donné)\nProject end: Fri Oct 18 2024 23:59:00 GMT+0000 (temps universel co
+	ordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-902/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:J_tI5rxTjB511ZonqmPBw
+SUMMARY:M - The keys to project framing - Day 2 - (PAR-9-1) - (M-PRO-902) -
+	 (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20240920T093000Z
+DTEND:20240920T173000Z
+DESCRIPTION:M - The keys to project framing - Day 2\nCredits: 2\nTeam: 4 - 
+	6\nRemote: false\nProject: M - The keys to project framing level I - proje
+	ct\nProject start: Thu Sep 19 2024 09:30:00 GMT+0000 (temps universel coor
+	donné)\nProject end: Fri Oct 18 2024 23:59:00 GMT+0000 (temps universel co
+	ordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-902/PAR-9-1/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:50KRBOpx7s7s4Y8eUJL1K
+SUMMARY:M - The leadership toolbox - No Project - (PAR-9-1) - (M-MNG-900) -
+	 (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241117T000000Z
+DESCRIPTION:M - The leadership toolbox\nCredits: 1\nTeam: 0 - 0\nRemote: tr
+	ue\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 
+	(temps universel coordonné)\nProject end: Sun Nov 17 2024 00:00:00 GMT+000
+	0 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:fIcmWY3qkj4qh5nImbqNG
+SUMMARY:M - The leadership toolbox - Day 1 - AM - (PAR-9-1) - (M-MNG-900) -
+	 (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241114T093000Z
+DTEND:20241114T173000Z
+DESCRIPTION:M - The leadership toolbox - Day 1 - AM\nCredits: 1\nTeam: 0 - 
+	0\nRemote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00
+	:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Nov 17 2024 00:
+	00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:8AOmWbVNBSkfaYCJoUZXR
+SUMMARY:M - The leadership toolbox - Day 2 - AM - (PAR-9-1) - (M-MNG-900) -
+	 (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241115T093000Z
+DTEND:20241115T173000Z
+DESCRIPTION:M - The leadership toolbox - Day 2 - AM\nCredits: 1\nTeam: 0 - 
+	0\nRemote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00
+	:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Nov 17 2024 00:
+	00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:mRZlqD_Rg-5-yQM8XaU7f
+SUMMARY:M - Unreal Engine 5 - Racing Pod C++ - Unreal Engine 5 - Racing Pod
+	 C++ - Project - (PAR-9-1) - (M-GAM-908) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20250110T235900Z
+DESCRIPTION:M - Unreal Engine 5 - Racing Pod C++\nCredits: 4\nTeam: 3 - 4\n
+	Remote: true\nProject: Unreal Engine 5 - Racing Pod C++ - Project\nProject
+	 start: Thu Dec 05 2024 09:30:00 GMT+0000 (temps universel coordonné)\nPro
+	ject end: Fri Jan 10 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-GAM-908/PAR-9-1/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:GxxrQE49TPplGkDpUSCFW
+SUMMARY:M - Unreal Engine 5 - Racing Pod C++ - Day 1 - (PAR-9-1) - (M-GAM-9
+	08) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20241205T180000Z
+DESCRIPTION:M - Unreal Engine 5 - Racing Pod C++ - Day 1\nCredits: 4\nTeam:
+	 3 - 4\nRemote: true\nProject: Unreal Engine 5 - Racing Pod C++ - Project\
+	nProject start: Thu Dec 05 2024 09:30:00 GMT+0000 (temps universel coordon
+	né)\nProject end: Fri Jan 10 2025 23:59:00 GMT+0000 (temps universel coord
+	onné)
+URL:https://intra.epitech.eu/module/2024/M-GAM-908/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:M5Icn2xXzMgyllkBEMq6H
+SUMMARY:M - Unreal Engine 5 - Racing Pod C++ - Day 2 - (PAR-9-1) - (M-GAM-9
+	08) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241206T093000Z
+DTEND:20241206T180000Z
+DESCRIPTION:M - Unreal Engine 5 - Racing Pod C++ - Day 2\nCredits: 4\nTeam:
+	 3 - 4\nRemote: true\nProject: Unreal Engine 5 - Racing Pod C++ - Project\
+	nProject start: Thu Dec 05 2024 09:30:00 GMT+0000 (temps universel coordon
+	né)\nProject end: Fri Jan 10 2025 23:59:00 GMT+0000 (temps universel coord
+	onné)
+URL:https://intra.epitech.eu/module/2024/M-GAM-908/PAR-9-1/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:z2SJzdV-IhnQoixNkiXi7
+SUMMARY:M - Blockchain - Blockchain Project - (PAR-9-2) - (M-BKC-900) - (55
+	)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T093000Z
+DTEND:20250307T235900Z
+DESCRIPTION:M - Blockchain\nCredits: 3\nTeam: 4 - 4\nRemote: true\nProject:
+	 Blockchain Project\nProject start: Thu Jan 30 2025 09:30:00 GMT+0000 (tem
+	ps universel coordonné)\nProject end: Fri Mar 07 2025 23:59:00 GMT+0000 (t
+	emps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:qCxHjGNTZVCRN8kUQ6Ex3
+SUMMARY:M - Blockchain - Day 1 - (PAR-9-2) - (M-BKC-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T093000Z
+DTEND:20250130T180000Z
+DESCRIPTION:M - Blockchain - Day 1\nCredits: 3\nTeam: 4 - 4\nRemote: true\n
+	Project: Blockchain Project\nProject start: Thu Jan 30 2025 09:30:00 GMT+0
+	000 (temps universel coordonné)\nProject end: Fri Mar 07 2025 23:59:00 GMT
+	+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:3j_D0b8fIu2387_7SPSCM
+SUMMARY:M - Blockchain - Day 2 - (PAR-9-2) - (M-BKC-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250131T093000Z
+DTEND:20250131T180000Z
+DESCRIPTION:M - Blockchain - Day 2\nCredits: 3\nTeam: 4 - 4\nRemote: true\n
+	Project: Blockchain Project\nProject start: Thu Jan 30 2025 09:30:00 GMT+0
+	000 (temps universel coordonné)\nProject end: Fri Mar 07 2025 23:59:00 GMT
+	+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:PsSU31rMSCWFxQt4Ud1L0
+SUMMARY:M - Boost your career - No Project - (PAR-9-2) - (M-PRO-060) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241201T000000Z
+DESCRIPTION:M - Boost your career\nCredits: 1\nTeam: 0 - 0\nRemote: true\nP
+	roject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (temp
+	s universel coordonné)\nProject end: Sun Dec 01 2024 00:00:00 GMT+0000 (te
+	mps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ViiyItR-YY6jXqMl6h9Gz
+SUMMARY:M - Boost your career - Day 1 - (PAR-9-2) - (M-PRO-060) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241128T093000Z
+DTEND:20241128T173000Z
+DESCRIPTION:M - Boost your career - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote:
+	 true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+00
+	00 (temps universel coordonné)\nProject end: Sun Dec 01 2024 00:00:00 GMT+
+	0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:voekRXIbRcmS5hC2icuUv
+SUMMARY:M - Boost your career - Day 2 - (PAR-9-2) - (M-PRO-060) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241129T093000Z
+DTEND:20241129T173000Z
+DESCRIPTION:M - Boost your career - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote:
+	 true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+00
+	00 (temps universel coordonné)\nProject end: Sun Dec 01 2024 00:00:00 GMT+
+	0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:6bBc1PG-tY9WWpleu9Qf6
+SUMMARY:M - Business influence strategy - No Project - (PAR-9-2) - (M-TRV-9
+	10) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20250302T000000Z
+DESCRIPTION:M - Business influence strategy\nCredits: 2\nTeam: 0 - 0\nRemot
+	e: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+
+	0000 (temps universel coordonné)\nProject end: Sun Mar 02 2025 00:00:00 GM
+	T+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:GYzc7rSJSFMTcG112Yfja
+SUMMARY:M - Business influence strategy - Day 1 - (PAR-9-2) - (M-TRV-910) -
+	 (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20250227T093000Z
+DTEND:20250227T173000Z
+DESCRIPTION:M - Business influence strategy - Day 1\nCredits: 2\nTeam: 0 - 
+	0\nRemote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00
+	:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Mar 02 2025 00:
+	00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:IgcVuUdcxkqWPqnwjs5_h
+SUMMARY:M - Business influence strategy - Day 2 - (PAR-9-2) - (M-TRV-910) -
+	 (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20250228T093000Z
+DTEND:20250228T173000Z
+DESCRIPTION:M - Business influence strategy - Day 2\nCredits: 2\nTeam: 0 - 
+	0\nRemote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00
+	:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Mar 02 2025 00:
+	00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:wN_HQIW0pkPkIvVOS14u_
+SUMMARY:M - Business influence strategy - Day 3 - (PAR-9-2) - (M-TRV-910) -
+	 (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20250301T093000Z
+DTEND:20250301T173000Z
+DESCRIPTION:M - Business influence strategy - Day 3\nCredits: 2\nTeam: 0 - 
+	0\nRemote: true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00
+	:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Mar 02 2025 00:
+	00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:Y5alybZ0-xv2GH-FZlANA
+SUMMARY:M - Business strategy  - M - Strategy - project - (PAR-9-2) - (M-TR
+	V-001) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T093000Z
+DTEND:20241108T235900Z
+DESCRIPTION:M - Business strategy \nCredits: 2\nTeam: 4 - 5\nRemote: true\n
+	Project: M - Strategy - project\nProject start: Thu Oct 10 2024 09:30:00 G
+	MT+0000 (temps universel coordonné)\nProject end: Fri Nov 08 2024 23:59:00
+	 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:Yhi9DLlLOcE4JDS-Zn_dX
+SUMMARY:M - Business strategy  - Day 1 - (PAR-9-2) - (M-TRV-001) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241010T093000Z
+DTEND:20241010T173000Z
+DESCRIPTION:M - Business strategy  - Day 1\nCredits: 2\nTeam: 4 - 5\nRemote
+	: true\nProject: M - Strategy - project\nProject start: Thu Oct 10 2024 09
+	:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Nov 08 2024 
+	23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:2YDsobKmMF4ddkhjr1Gdg
+SUMMARY:M - Business strategy  - Day 2 - (PAR-9-2) - (M-TRV-001) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241011T093000Z
+DTEND:20241011T173000Z
+DESCRIPTION:M - Business strategy  - Day 2\nCredits: 2\nTeam: 4 - 5\nRemote
+	: true\nProject: M - Strategy - project\nProject start: Thu Oct 10 2024 09
+	:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Nov 08 2024 
+	23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:hZVcSLsh9Gm7ZjQWsBBwU
+SUMMARY:M - Come and build your start-up project - M - Come build your star
+	t-up project  - (PAR-9-2) - (M-PRO-900) - (30)
+DTSTAMP:20240805T185227Z
+DTSTART:20250220T093000Z
+DTEND:20250328T235900Z
+DESCRIPTION:M - Come and build your start-up project\nCredits: 2\nTeam: 4 -
+	 5\nRemote: true\nProject: M - Come build your start-up project \nProject 
+	start: Thu Feb 20 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProj
+	ect end: Fri Mar 28 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-900/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:iSFnpbSRqvC3kXu5RQ-3j
+SUMMARY:M - Come and build your start-up project - Day 1 - AM - (PAR-9-2) -
+	 (M-PRO-900) - (30)
+DTSTAMP:20240805T185227Z
+DTSTART:20250220T093000Z
+DTEND:20250220T173000Z
+DESCRIPTION:M - Come and build your start-up project - Day 1 - AM\nCredits:
+	 2\nTeam: 4 - 5\nRemote: true\nProject: M - Come build your start-up proje
+	ct \nProject start: Thu Feb 20 2025 09:30:00 GMT+0000 (temps universel coo
+	rdonné)\nProject end: Fri Mar 28 2025 23:59:00 GMT+0000 (temps universel c
+	oordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-900/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:ZGwkS4ZYOBIGEI_pRzJlB
+SUMMARY:M - Come and build your start-up project - Day 2 - AM - (PAR-9-2) -
+	 (M-PRO-900) - (30)
+DTSTAMP:20240805T185227Z
+DTSTART:20250221T093000Z
+DTEND:20250221T173000Z
+DESCRIPTION:M - Come and build your start-up project - Day 2 - AM\nCredits:
+	 2\nTeam: 4 - 5\nRemote: true\nProject: M - Come build your start-up proje
+	ct \nProject start: Thu Feb 20 2025 09:30:00 GMT+0000 (temps universel coo
+	rdonné)\nProject end: Fri Mar 28 2025 23:59:00 GMT+0000 (temps universel c
+	oordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-900/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:UGZy-le16-oBDVMuPnQLb
+SUMMARY:M - Contract law - No Project - (PAR-9-2) - (M-TRV-014) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20250119T000000Z
+DESCRIPTION:M - Contract law\nCredits: 1\nTeam: 0 - 0\nRemote: true\nProjec
+	t: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (temps uni
+	versel coordonné)\nProject end: Sun Jan 19 2025 00:00:00 GMT+0000 (temps u
+	niversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:dxhBnrx9Iqjh198tlc0Vd
+SUMMARY:M - Contract law - Day 1 - (PAR-9-2) - (M-TRV-014) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250116T093000Z
+DTEND:20250116T173000Z
+DESCRIPTION:M - Contract law - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote: true
+	\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (t
+	emps universel coordonné)\nProject end: Sun Jan 19 2025 00:00:00 GMT+0000 
+	(temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:GpLk4UgucMFd7Zink0bqC
+SUMMARY:M - Contract law - Day 2 - (PAR-9-2) - (M-TRV-014) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250117T093000Z
+DTEND:20250117T173000Z
+DESCRIPTION:M - Contract law - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote: true
+	\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (t
+	emps universel coordonné)\nProject end: Sun Jan 19 2025 00:00:00 GMT+0000 
+	(temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3KmJBRvqbwk_upI6c6t
+SUMMARY:M - Disaster Recovery Plan and Business Continuity Plan - Plan de R
+	eprise d’Activite et Plan de Continuite d’Activite - Projet - (PAR-9-2) - 
+	(M-PCA-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250131T093000Z
+DTEND:20250228T235900Z
+DESCRIPTION:M - Disaster Recovery Plan and Business Continuity Plan\nCredit
+	s: 2\nTeam: 4 - 5\nRemote: true\nProject: Plan de Reprise d’Activite et Pl
+	an de Continuite d’Activite - Projet\nProject start: Fri Jan 31 2025 09:30
+	:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Feb 28 2025 23:
+	59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PCA-900/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:cXk6MnRFUqndW7Y89GYDZ
+SUMMARY:M - Disaster Recovery Plan and Business Continuity Plan - Day 1 - (
+	PAR-9-2) - (M-PCA-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T093000Z
+DTEND:20250130T173000Z
+DESCRIPTION:M - Disaster Recovery Plan and Business Continuity Plan - Day 1
+	\nCredits: 2\nTeam: 4 - 5\nRemote: true\nProject: Plan de Reprise d’Activi
+	te et Plan de Continuite d’Activite - Projet\nProject start: Fri Jan 31 20
+	25 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Feb 28 
+	2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PCA-900/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:bPZOXhF4sDalJ9yyGE6wc
+SUMMARY:M - Disaster Recovery Plan and Business Continuity Plan - Day 2 - (
+	PAR-9-2) - (M-PCA-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250131T093000Z
+DTEND:20250131T173000Z
+DESCRIPTION:M - Disaster Recovery Plan and Business Continuity Plan - Day 2
+	\nCredits: 2\nTeam: 4 - 5\nRemote: true\nProject: Plan de Reprise d’Activi
+	te et Plan de Continuite d’Activite - Projet\nProject start: Fri Jan 31 20
+	25 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Feb 28 
+	2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PCA-900/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:i1h2s6Mni0w9zEVIHr5-6
+SUMMARY:M - General Data Protection Regulation (GDPR) - RGPD - projet - (PA
+	R-9-2) - (M-TRV-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241107T093000Z
+DTEND:20241208T235900Z
+DESCRIPTION:M - General Data Protection Regulation (GDPR)\nCredits: 2\nTeam
+	: 4 - 4\nRemote: true\nProject: RGPD - projet\nProject start: Thu Nov 07 2
+	024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Dec 08
+	 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-905/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:c0LCqx13icGilpuQVFZkp
+SUMMARY:M - General Data Protection Regulation (GDPR) - Day 1 - (PAR-9-2) -
+	 (M-TRV-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241107T093000Z
+DTEND:20241107T173000Z
+DESCRIPTION:M - General Data Protection Regulation (GDPR) - Day 1\nCredits:
+	 2\nTeam: 4 - 4\nRemote: true\nProject: RGPD - projet\nProject start: Thu 
+	Nov 07 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Su
+	n Dec 08 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-905/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:bSf8zjAU1-UxpxeEwTd1w
+SUMMARY:M - General Data Protection Regulation (GDPR) - Day 2 - (PAR-9-2) -
+	 (M-TRV-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241108T093000Z
+DTEND:20241108T173000Z
+DESCRIPTION:M - General Data Protection Regulation (GDPR) - Day 2\nCredits:
+	 2\nTeam: 4 - 4\nRemote: true\nProject: RGPD - projet\nProject start: Thu 
+	Nov 07 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Su
+	n Dec 08 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-905/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:yiei_VTcShTMbqAAOV7Qn
+SUMMARY:M - Governance of Information Systems - Gouvernances des SI - proje
+	t - (PAR-9-2) - (M-MGT-904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250116T093000Z
+DTEND:20250214T235900Z
+DESCRIPTION:M - Governance of Information Systems\nCredits: 2\nTeam: 4 - 5\
+	nRemote: false\nProject: Gouvernances des SI - projet\nProject start: Thu 
+	Jan 16 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fr
+	i Feb 14 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:HSJ7uT9bM-6w8ul-PlteT
+SUMMARY:M - Governance of Information Systems - Day 1 - (PAR-9-2) - (M-MGT-
+	904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250116T093000Z
+DTEND:20250116T173000Z
+DESCRIPTION:M - Governance of Information Systems - Day 1\nCredits: 2\nTeam
+	: 4 - 5\nRemote: false\nProject: Gouvernances des SI - projet\nProject sta
+	rt: Thu Jan 16 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProject
+	 end: Fri Feb 14 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:IExCXcxIjMyrIWb58F1di
+SUMMARY:M - Governance of Information Systems - Day 2 - (PAR-9-2) - (M-MGT-
+	904) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250117T093000Z
+DTEND:20250117T173000Z
+DESCRIPTION:M - Governance of Information Systems - Day 2\nCredits: 2\nTeam
+	: 4 - 5\nRemote: false\nProject: Gouvernances des SI - projet\nProject sta
+	rt: Thu Jan 16 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProject
+	 end: Fri Feb 14 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:X3JqaoClpLl8Q--X0ex6M
+SUMMARY:M - How much does it cost? - M - How does it cost - Final project -
+	 (PAR-9-2) - (M-BYG-001) - (30)
+DTSTAMP:20240805T185227Z
+DTSTART:20250116T093000Z
+DTEND:20250212T235900Z
+DESCRIPTION:M - How much does it cost?\nCredits: 2\nTeam: 5 - 5\nRemote: tr
+	ue\nProject: M - How does it cost - Final project\nProject start: Thu Jan 
+	16 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Wed Fe
+	b 12 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BYG-001/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:Cu4m4NeHR6zORpMSBhPA-
+SUMMARY:M - How much does it cost? - Day 1 - AM - (PAR-9-2) - (M-BYG-001) -
+	 (30)
+DTSTAMP:20240805T185227Z
+DTSTART:20250116T093000Z
+DTEND:20250116T173000Z
+DESCRIPTION:M - How much does it cost? - Day 1 - AM\nCredits: 2\nTeam: 5 - 
+	5\nRemote: true\nProject: M - How does it cost - Final project\nProject st
+	art: Thu Jan 16 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProjec
+	t end: Wed Feb 12 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BYG-001/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:n4pqFrNizEfPx35nLog4A
+SUMMARY:M - How much does it cost? - Day 2 - AM - (PAR-9-2) - (M-BYG-001) -
+	 (30)
+DTSTAMP:20240805T185227Z
+DTSTART:20250117T093000Z
+DTEND:20250117T173000Z
+DESCRIPTION:M - How much does it cost? - Day 2 - AM\nCredits: 2\nTeam: 5 - 
+	5\nRemote: true\nProject: M - How does it cost - Final project\nProject st
+	art: Thu Jan 16 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProjec
+	t end: Wed Feb 12 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-BYG-001/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:lQKRZSwUdmn60pk-DDqFB
+SUMMARY:M - Incident Management & Resolution Methodologies - M - Gestion de
+	s incidents et méthodologies de résolution - projet - (PAR-9-2) - (M-TRV-9
+	08) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241114T100000Z
+DTEND:20241213T235900Z
+DESCRIPTION:M - Incident Management & Resolution Methodologies\nCredits: 2\
+	nTeam: 4 - 5\nRemote: false\nProject: M - Gestion des incidents et méthodo
+	logies de résolution - projet\nProject start: Thu Nov 14 2024 10:00:00 GMT
+	+0000 (temps universel coordonné)\nProject end: Fri Dec 13 2024 23:59:00 G
+	MT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:-0qQPSy37sxzeQc1ps4pY
+SUMMARY:M - Incident Management & Resolution Methodologies - Day 1 - (PAR-9
+	-2) - (M-TRV-908) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241114T100000Z
+DTEND:20241114T180000Z
+DESCRIPTION:M - Incident Management & Resolution Methodologies - Day 1\nCre
+	dits: 2\nTeam: 4 - 5\nRemote: false\nProject: M - Gestion des incidents et
+	 méthodologies de résolution - projet\nProject start: Thu Nov 14 2024 10:0
+	0:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Dec 13 2024 23
+	:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:Q593AfnwEp96-IFvUcQUc
+SUMMARY:M - Incident Management & Resolution Methodologies - Day 2 - (PAR-9
+	-2) - (M-TRV-908) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241115T100000Z
+DTEND:20241115T180000Z
+DESCRIPTION:M - Incident Management & Resolution Methodologies - Day 2\nCre
+	dits: 2\nTeam: 4 - 5\nRemote: false\nProject: M - Gestion des incidents et
+	 méthodologies de résolution - projet\nProject start: Thu Nov 14 2024 10:0
+	0:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Dec 13 2024 23
+	:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:0oDdhG2w0GKpCDosRXZdf
+SUMMARY:M - Infrastructure Cyber ​​Defense - Cyber Defense des infrastructu
+	res - Projet - (PAR-9-2) - (M-SEC-908) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250220T093000Z
+DTEND:20250328T235900Z
+DESCRIPTION:M - Infrastructure Cyber ​​Defense\nCredits: 2\nTeam: 3 - 3\nRe
+	mote: false\nProject: Cyber Defense des infrastructures - Projet\nProject 
+	start: Thu Feb 20 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProj
+	ect end: Fri Mar 28 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-908/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:PnxrFkbJNiCNYFQALoNye
+SUMMARY:M - Infrastructure Cyber ​​Defense - Day 1 - (PAR-9-2) - (M-SEC-908
+	) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250220T093000Z
+DTEND:20250220T180000Z
+DESCRIPTION:M - Infrastructure Cyber ​​Defense - Day 1\nCredits: 2\nTeam: 3
+	 - 3\nRemote: false\nProject: Cyber Defense des infrastructures - Projet\n
+	Project start: Thu Feb 20 2025 09:30:00 GMT+0000 (temps universel coordonn
+	é)\nProject end: Fri Mar 28 2025 23:59:00 GMT+0000 (temps universel coordo
+	nné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-908/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:O_sIV1MqICE3o_Rh2VXVl
+SUMMARY:M - Infrastructure Cyber ​​Defense - Day 2 - (PAR-9-2) - (M-SEC-908
+	) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250221T093000Z
+DTEND:20250221T180000Z
+DESCRIPTION:M - Infrastructure Cyber ​​Defense - Day 2\nCredits: 2\nTeam: 3
+	 - 3\nRemote: false\nProject: Cyber Defense des infrastructures - Projet\n
+	Project start: Thu Feb 20 2025 09:30:00 GMT+0000 (temps universel coordonn
+	é)\nProject end: Fri Mar 28 2025 23:59:00 GMT+0000 (temps universel coordo
+	nné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-908/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:NzmRD2q5w1hGPn8kjMo99
+SUMMARY:M - Innovative management - No Project - (PAR-9-2) - (M-MGT-905) - 
+	(25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20250216T000000Z
+DESCRIPTION:M - Innovative management\nCredits: 2\nTeam: 0 - 0\nRemote: fal
+	se\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 
+	(temps universel coordonné)\nProject end: Sun Feb 16 2025 00:00:00 GMT+000
+	0 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:SGDXJqiDNfvrP5CxsE9GW
+SUMMARY:M - Innovative management - Day 1 - (PAR-9-2) - (M-MGT-905) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250213T093000Z
+DTEND:20250213T173000Z
+DESCRIPTION:M - Innovative management - Day 1\nCredits: 2\nTeam: 0 - 0\nRem
+	ote: false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 G
+	MT+0000 (temps universel coordonné)\nProject end: Sun Feb 16 2025 00:00:00
+	 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:jOMVYBI4JlWkePqFWPE8G
+SUMMARY:M - Innovative management - Day 2 - (PAR-9-2) - (M-MGT-905) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250214T093000Z
+DTEND:20250214T173000Z
+DESCRIPTION:M - Innovative management - Day 2\nCredits: 2\nTeam: 0 - 0\nRem
+	ote: false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 G
+	MT+0000 (temps universel coordonné)\nProject end: Sun Feb 16 2025 00:00:00
+	 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:Z7nWqLLQ0fGOnl1PAuais
+SUMMARY:M - Innovative management - Day 3 - (PAR-9-2) - (M-MGT-905) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250215T093000Z
+DTEND:20250215T173000Z
+DESCRIPTION:M - Innovative management - Day 3\nCredits: 2\nTeam: 0 - 0\nRem
+	ote: false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 G
+	MT+0000 (temps universel coordonné)\nProject end: Sun Feb 16 2025 00:00:00
+	 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:zF9t09OilHvCDi4tjHOK4
+SUMMARY:M - Intellectual property - No Project - (PAR-9-2) - (M-TRV-906) - 
+	(45)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241201T000000Z
+DESCRIPTION:M - Intellectual property\nCredits: 1\nTeam: 0 - 0\nRemote: fal
+	se\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 
+	(temps universel coordonné)\nProject end: Sun Dec 01 2024 00:00:00 GMT+000
+	0 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-906/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:wf4xNhJRBQI3O70xqqdJO
+SUMMARY:M - Intellectual property - Day 1 - (PAR-9-2) - (M-TRV-906) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241128T093000Z
+DTEND:20241128T173000Z
+DESCRIPTION:M - Intellectual property - Day 1\nCredits: 1\nTeam: 0 - 0\nRem
+	ote: false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 G
+	MT+0000 (temps universel coordonné)\nProject end: Sun Dec 01 2024 00:00:00
+	 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-906/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:2U9btR5770B006cPLm2pk
+SUMMARY:M - Intellectual property - Day 2 - (PAR-9-2) - (M-TRV-906) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241129T093000Z
+DTEND:20241129T173000Z
+DESCRIPTION:M - Intellectual property - Day 2\nCredits: 1\nTeam: 0 - 0\nRem
+	ote: false\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 G
+	MT+0000 (temps universel coordonné)\nProject end: Sun Dec 01 2024 00:00:00
+	 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-906/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:zNrqNBKI0_PEitkgTrVic
+SUMMARY:M - Labor law - No Project - (PAR-9-2) - (M-TRV-004) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20250216T000000Z
+DESCRIPTION:M - Labor law\nCredits: 1\nTeam: 0 - 0\nRemote: true\nProject: 
+	No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (temps univer
+	sel coordonné)\nProject end: Sun Feb 16 2025 00:00:00 GMT+0000 (temps univ
+	ersel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-004/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:rOoelJ6btW6Bb-XGu2glQ
+SUMMARY:M - Labor law - Day 1 - (PAR-9-2) - (M-TRV-004) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250213T093000Z
+DTEND:20250213T173000Z
+DESCRIPTION:M - Labor law - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote: true\nP
+	roject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (temp
+	s universel coordonné)\nProject end: Sun Feb 16 2025 00:00:00 GMT+0000 (te
+	mps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-004/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:PmvVicTFDaTe4gVyeDX4q
+SUMMARY:M - Labor law - Day 2 - (PAR-9-2) - (M-TRV-004) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250214T093000Z
+DTEND:20250214T173000Z
+DESCRIPTION:M - Labor law - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote: true\nP
+	roject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (temp
+	s universel coordonné)\nProject end: Sun Feb 16 2025 00:00:00 GMT+0000 (te
+	mps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-TRV-004/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:z9muE3rzgHXJv-U9Ebfa9
+SUMMARY:M - Machine Learning – Supervised Learning - Machine Learning – Sup
+	ervised Learning - Project - (PAR-9-2) - (M-MLR-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241107T100000Z
+DTEND:20241208T235900Z
+DESCRIPTION:M - Machine Learning – Supervised Learning\nCredits: 4\nTeam: 2
+	 - 3\nRemote: true\nProject: Machine Learning – Supervised Learning - Proj
+	ect\nProject start: Thu Nov 07 2024 10:00:00 GMT+0000 (temps universel coo
+	rdonné)\nProject end: Sun Dec 08 2024 23:59:00 GMT+0000 (temps universel c
+	oordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:FQPdAqd9RbUM4wkjyun3b
+SUMMARY:M - Machine Learning – Supervised Learning - Day 1 - (PAR-9-2) - (M
+	-MLR-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241107T100000Z
+DTEND:20241107T180000Z
+DESCRIPTION:M - Machine Learning – Supervised Learning - Day 1\nCredits: 4\
+	nTeam: 2 - 3\nRemote: true\nProject: Machine Learning – Supervised Learnin
+	g - Project\nProject start: Thu Nov 07 2024 10:00:00 GMT+0000 (temps unive
+	rsel coordonné)\nProject end: Sun Dec 08 2024 23:59:00 GMT+0000 (temps uni
+	versel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:hlgtR8yTWNOEeJUvGnVNf
+SUMMARY:M - Machine Learning – Supervised Learning - Day 2 - (PAR-9-2) - (M
+	-MLR-900) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241108T100000Z
+DTEND:20241108T180000Z
+DESCRIPTION:M - Machine Learning – Supervised Learning - Day 2\nCredits: 4\
+	nTeam: 2 - 3\nRemote: true\nProject: Machine Learning – Supervised Learnin
+	g - Project\nProject start: Thu Nov 07 2024 10:00:00 GMT+0000 (temps unive
+	rsel coordonné)\nProject end: Sun Dec 08 2024 23:59:00 GMT+0000 (temps uni
+	versel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:Lffd3JTKB0iLU2CHg6Cks
+SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Machine L
+	earning – Unsupervised Learning and Agents - Project - (PAR-9-2) - (M-MLR-
+	901) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T100000Z
+DTEND:20250302T235900Z
+DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents\nCredit
+	s: 4\nTeam: 2 - 3\nRemote: false\nProject: Machine Learning – Unsupervised
+	 Learning and Agents - Project\nProject start: Thu Jan 30 2025 10:00:00 GM
+	T+0000 (temps universel coordonné)\nProject end: Sun Mar 02 2025 23:59:00 
+	GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:wWprvJVacfxBO5eCrpCDk
+SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Day 1 - (
+	PAR-9-2) - (M-MLR-901) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T100000Z
+DTEND:20250130T180000Z
+DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents - Day 1
+	\nCredits: 4\nTeam: 2 - 3\nRemote: false\nProject: Machine Learning – Unsu
+	pervised Learning and Agents - Project\nProject start: Thu Jan 30 2025 10:
+	00:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Mar 02 2025 2
+	3:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:s9UdhSvu3hyRsneRf7w22
+SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Day 2 - (
+	PAR-9-2) - (M-MLR-901) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250131T100000Z
+DTEND:20250131T180000Z
+DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents - Day 2
+	\nCredits: 4\nTeam: 2 - 3\nRemote: false\nProject: Machine Learning – Unsu
+	pervised Learning and Agents - Project\nProject start: Thu Jan 30 2025 10:
+	00:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Mar 02 2025 2
+	3:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:shDg-cSWnfHL13M3C8WO0
+SUMMARY:M - Management of Innovation - Monter un "Dossier Innovation" - (PA
+	R-9-2) - (M-PRO-001) - (30)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T093000Z
+DTEND:20250228T235900Z
+DESCRIPTION:M - Management of Innovation\nCredits: 3\nTeam: 5 - 6\nRemote: 
+	false\nProject: Monter un "Dossier Innovation"\nProject start: Thu Jan 30 
+	2025 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: Fri Feb 2
+	8 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:iyWF3V2kmJ4vb8XWs9J0h
+SUMMARY:M - Management of Innovation - Day 1 - (PAR-9-2) - (M-PRO-001) - (3
+	0)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T093000Z
+DTEND:20250130T173000Z
+DESCRIPTION:M - Management of Innovation - Day 1\nCredits: 3\nTeam: 5 - 6\n
+	Remote: false\nProject: Monter un "Dossier Innovation"\nProject start: Thu
+	 Jan 30 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: F
+	ri Feb 28 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:s_kN_BbWWeTNGrGqRMIfe
+SUMMARY:M - Management of Innovation - Day 2 - (PAR-9-2) - (M-PRO-001) - (3
+	0)
+DTSTAMP:20240805T185227Z
+DTSTART:20250131T093000Z
+DTEND:20250131T173000Z
+DESCRIPTION:M - Management of Innovation - Day 2\nCredits: 3\nTeam: 5 - 6\n
+	Remote: false\nProject: Monter un "Dossier Innovation"\nProject start: Thu
+	 Jan 30 2025 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: F
+	ri Feb 28 2025 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:oMV165_oIRExme890yF5E
+SUMMARY:M - Negotiation - No Project - (PAR-9-2) - (M-PRO-004) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20250301T000000Z
+DESCRIPTION:M - Negotiation\nCredits: 1\nTeam: 0 - 0\nRemote: true\nProject
+	: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000 (temps univ
+	ersel coordonné)\nProject end: Sat Mar 01 2025 00:00:00 GMT+0000 (temps un
+	iversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:sU--HLhROGHErtTMeT72a
+SUMMARY:M - Negotiation - Day 1 - AM - (PAR-9-2) - (M-PRO-004) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250227T093000Z
+DTEND:20250227T173000Z
+DESCRIPTION:M - Negotiation - Day 1 - AM\nCredits: 1\nTeam: 0 - 0\nRemote: 
+	true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+000
+	0 (temps universel coordonné)\nProject end: Sat Mar 01 2025 00:00:00 GMT+0
+	000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:FFEHeOgGzXjm6JslE7WTd
+SUMMARY:M - Negotiation - Day 2 - AM - (PAR-9-2) - (M-PRO-004) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250228T093000Z
+DTEND:20250228T173000Z
+DESCRIPTION:M - Negotiation - Day 2 - AM\nCredits: 1\nTeam: 0 - 0\nRemote: 
+	true\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+000
+	0 (temps universel coordonné)\nProject end: Sat Mar 01 2025 00:00:00 GMT+0
+	000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:HayGQjfp4n9fU6eucrUDl
+SUMMARY:M - Offensive Security and exploitation - Offensive Security and Ex
+	ploitation - Project - (PAR-9-2) - (M-SEC-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T093000Z
+DTEND:20250307T235900Z
+DESCRIPTION:M - Offensive Security and exploitation\nCredits: 2\nTeam: 3 - 
+	3\nRemote: false\nProject: Offensive Security and Exploitation - Project\n
+	Project start: Thu Jan 30 2025 09:30:00 GMT+0000 (temps universel coordonn
+	é)\nProject end: Fri Mar 07 2025 23:59:00 GMT+0000 (temps universel coordo
+	nné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:mFOwUtUm9yhFjpz8SR69h
+SUMMARY:M - Offensive Security and exploitation - Day 1 - (PAR-9-2) - (M-SE
+	C-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250130T093000Z
+DTEND:20250130T180000Z
+DESCRIPTION:M - Offensive Security and exploitation - Day 1\nCredits: 2\nTe
+	am: 3 - 3\nRemote: false\nProject: Offensive Security and Exploitation - P
+	roject\nProject start: Thu Jan 30 2025 09:30:00 GMT+0000 (temps universel 
+	coordonné)\nProject end: Fri Mar 07 2025 23:59:00 GMT+0000 (temps universe
+	l coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:E73uwYmpCI5fAlwY6APOZ
+SUMMARY:M - Offensive Security and exploitation - Day 2 - (PAR-9-2) - (M-SE
+	C-905) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250131T093000Z
+DTEND:20250131T180000Z
+DESCRIPTION:M - Offensive Security and exploitation - Day 2\nCredits: 2\nTe
+	am: 3 - 3\nRemote: false\nProject: Offensive Security and Exploitation - P
+	roject\nProject start: Thu Jan 30 2025 09:30:00 GMT+0000 (temps universel 
+	coordonné)\nProject end: Fri Mar 07 2025 23:59:00 GMT+0000 (temps universe
+	l coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:Q4FZqaBFqpNaFj-eFKPWA
+SUMMARY:M - Red Teaming VS Blue Teaming - Red Teaming VS Blue Teaming - Rus
+	h - (PAR-9-2) - (M-SEC-909) - (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20241207T235900Z
+DESCRIPTION:M - Red Teaming VS Blue Teaming\nCredits: 2\nTeam: 5 - 15\nRemo
+	te: false\nProject: Red Teaming VS Blue Teaming - Rush\nProject start: Thu
+	 Dec 05 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProject end: S
+	at Dec 07 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:F98HexvoD-tFl1UfTFtV0
+SUMMARY:M - Red Teaming VS Blue Teaming - Day 1 - (PAR-9-2) - (M-SEC-909) -
+	 (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241205T093000Z
+DTEND:20241205T180000Z
+DESCRIPTION:M - Red Teaming VS Blue Teaming - Day 1\nCredits: 2\nTeam: 5 - 
+	15\nRemote: false\nProject: Red Teaming VS Blue Teaming - Rush\nProject st
+	art: Thu Dec 05 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProjec
+	t end: Sat Dec 07 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:lAyA6pE5tHoUbfzRETup2
+SUMMARY:M - Red Teaming VS Blue Teaming - Day 2 - (PAR-9-2) - (M-SEC-909) -
+	 (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241206T093000Z
+DTEND:20241206T180000Z
+DESCRIPTION:M - Red Teaming VS Blue Teaming - Day 2\nCredits: 2\nTeam: 5 - 
+	15\nRemote: false\nProject: Red Teaming VS Blue Teaming - Rush\nProject st
+	art: Thu Dec 05 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProjec
+	t end: Sat Dec 07 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:GVJH3zJyFaMyVBLGpvVNK
+SUMMARY:M - Red Teaming VS Blue Teaming - Day 3 - (PAR-9-2) - (M-SEC-909) -
+	 (45)
+DTSTAMP:20240805T185227Z
+DTSTART:20241207T093000Z
+DTEND:20241207T180000Z
+DESCRIPTION:M - Red Teaming VS Blue Teaming - Day 3\nCredits: 2\nTeam: 5 - 
+	15\nRemote: false\nProject: Red Teaming VS Blue Teaming - Rush\nProject st
+	art: Thu Dec 05 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProjec
+	t end: Sat Dec 07 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:NpQMc7t-_mtyPfLZ1OhNl
+SUMMARY:M - Reverse Engineering & Cracking I - Reverse Engineering & Cracki
+	ng I Project - (PAR-9-2) - (M-SEC-901) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241114T093000Z
+DTEND:20241213T235900Z
+DESCRIPTION:M - Reverse Engineering & Cracking I\nCredits: 4\nTeam: 3 - 3\n
+	Remote: false\nProject: Reverse Engineering & Cracking I Project\nProject 
+	start: Thu Nov 14 2024 09:30:00 GMT+0000 (temps universel coordonné)\nProj
+	ect end: Fri Dec 13 2024 23:59:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-901/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:6o361p_zjZMvCaNvg0IDu
+SUMMARY:M - Reverse Engineering & Cracking I - Day 1 - (PAR-9-2) - (M-SEC-9
+	01) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241114T093000Z
+DTEND:20241114T180000Z
+DESCRIPTION:M - Reverse Engineering & Cracking I - Day 1\nCredits: 4\nTeam:
+	 3 - 3\nRemote: false\nProject: Reverse Engineering & Cracking I Project\n
+	Project start: Thu Nov 14 2024 09:30:00 GMT+0000 (temps universel coordonn
+	é)\nProject end: Fri Dec 13 2024 23:59:00 GMT+0000 (temps universel coordo
+	nné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-901/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:XiEeJhPd1fmCjXWrV0q2y
+SUMMARY:M - Reverse Engineering & Cracking I - Day 2 - (PAR-9-2) - (M-SEC-9
+	01) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241115T093000Z
+DTEND:20241115T180000Z
+DESCRIPTION:M - Reverse Engineering & Cracking I - Day 2\nCredits: 4\nTeam:
+	 3 - 3\nRemote: false\nProject: Reverse Engineering & Cracking I Project\n
+	Project start: Thu Nov 14 2024 09:30:00 GMT+0000 (temps universel coordonn
+	é)\nProject end: Fri Dec 13 2024 23:59:00 GMT+0000 (temps universel coordo
+	nné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-901/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:jS5h9OKlqiBn4Mi9GeK6S
+SUMMARY:M - Take advantage of your non-verbal communication - No Project - 
+	(PAR-9-2) - (M-PRO-045) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20250223T000000Z
+DESCRIPTION:M - Take advantage of your non-verbal communication\nCredits: 1
+	\nTeam: 0 - 0\nRemote: false\nProject: No Project\nProject start: Sun Sep 
+	01 2024 00:00:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Fe
+	b 23 2025 00:00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-045/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:Br8aYhNMRdJsXK8RBWgL6
+SUMMARY:M - Take advantage of your non-verbal communication - Day 1 - AM - 
+	(PAR-9-2) - (M-PRO-045) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250220T093000Z
+DTEND:20250220T173000Z
+DESCRIPTION:M - Take advantage of your non-verbal communication - Day 1 - A
+	M\nCredits: 1\nTeam: 0 - 0\nRemote: false\nProject: No Project\nProject st
+	art: Sun Sep 01 2024 00:00:00 GMT+0000 (temps universel coordonné)\nProjec
+	t end: Sun Feb 23 2025 00:00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-045/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
+END:VEVENT
+BEGIN:VEVENT
+UID:3ET-a4UpPDKHEF2988gnt
+SUMMARY:M - Take advantage of your non-verbal communication - Day 2 - AM - 
+	(PAR-9-2) - (M-PRO-045) - (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20250221T093000Z
+DTEND:20250221T173000Z
+DESCRIPTION:M - Take advantage of your non-verbal communication - Day 2 - A
+	M\nCredits: 1\nTeam: 0 - 0\nRemote: false\nProject: No Project\nProject st
+	art: Sun Sep 01 2024 00:00:00 GMT+0000 (temps universel coordonné)\nProjec
+	t end: Sun Feb 23 2025 00:00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-045/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
+END:VEVENT
+BEGIN:VEVENT
+UID:LwAJqqV7K2h-v2yhx7XPs
+SUMMARY:M - The keys to project framework level II - M- The keys to project
+	 framing level II - project - (PAR-9-2) - (M-PRO-904) - (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20250213T093000Z
+DTEND:20250321T235900Z
+DESCRIPTION:M - The keys to project framework level II\nCredits: 2\nTeam: 4
+	 - 6\nRemote: false\nProject: M- The keys to project framing level II - pr
+	oject\nProject start: Thu Feb 13 2025 09:30:00 GMT+0000 (temps universel c
+	oordonné)\nProject end: Fri Mar 21 2025 23:59:00 GMT+0000 (temps universel
+	 coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:nRwMgpZRw4ZZSdSSlyvqC
+SUMMARY:M - The keys to project framework level II - Day 1 - (PAR-9-2) - (M
+	-PRO-904) - (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20250213T093000Z
+DTEND:20250213T173000Z
+DESCRIPTION:M - The keys to project framework level II - Day 1\nCredits: 2\
+	nTeam: 4 - 6\nRemote: false\nProject: M- The keys to project framing level
+	 II - project\nProject start: Thu Feb 13 2025 09:30:00 GMT+0000 (temps uni
+	versel coordonné)\nProject end: Fri Mar 21 2025 23:59:00 GMT+0000 (temps u
+	niversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:19sowGSfZfimuWeoOBujo
+SUMMARY:M - The keys to project framework level II - Day 2 - (PAR-9-2) - (M
+	-PRO-904) - (35)
+DTSTAMP:20240805T185227Z
+DTSTART:20250214T093000Z
+DTEND:20250214T173000Z
+DESCRIPTION:M - The keys to project framework level II - Day 2\nCredits: 2\
+	nTeam: 4 - 6\nRemote: false\nProject: M- The keys to project framing level
+	 II - project\nProject start: Thu Feb 13 2025 09:30:00 GMT+0000 (temps uni
+	versel coordonné)\nProject end: Fri Mar 21 2025 23:59:00 GMT+0000 (temps u
+	niversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:lbYqChG6aKy4960kmQdeD
+SUMMARY:M - The leadership toolbox - No Project - (PAR-9-2) - (M-MNG-900) -
+	 (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20240901T000000Z
+DTEND:20241215T000000Z
+DESCRIPTION:M - The leadership toolbox\nCredits: 1\nTeam: 0 - 0\nRemote: fa
+	lse\nProject: No Project\nProject start: Sun Sep 01 2024 00:00:00 GMT+0000
+	 (temps universel coordonné)\nProject end: Sun Dec 15 2024 00:00:00 GMT+00
+	00 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:6WLEkwE9u4C9yFPbgExnS
+SUMMARY:M - The leadership toolbox - Day 1 - AM - (PAR-9-2) - (M-MNG-900) -
+	 (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241212T093000Z
+DTEND:20241212T173000Z
+DESCRIPTION:M - The leadership toolbox - Day 1 - AM\nCredits: 1\nTeam: 0 - 
+	0\nRemote: false\nProject: No Project\nProject start: Sun Sep 01 2024 00:0
+	0:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Dec 15 2024 00
+	:00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
+END:VEVENT
+BEGIN:VEVENT
+UID:U8z-B5G3CJtHRzVzgpFdF
+SUMMARY:M - The leadership toolbox - Day 2 - AM - (PAR-9-2) - (M-MNG-900) -
+	 (25)
+DTSTAMP:20240805T185227Z
+DTSTART:20241213T093000Z
+DTEND:20241213T173000Z
+DESCRIPTION:M - The leadership toolbox - Day 2 - AM\nCredits: 1\nTeam: 0 - 
+	0\nRemote: false\nProject: No Project\nProject start: Sun Sep 01 2024 00:0
+	0:00 GMT+0000 (temps universel coordonné)\nProject end: Sun Dec 15 2024 00
+	:00:00 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
+END:VEVENT
+BEGIN:VEVENT
+UID:t23WYCoUTd0ZoWPk3m4hZ
+SUMMARY:M - UI & UX - UI & UX Project - (PAR-9-2) - (M-XUX-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250102T093000Z
+DTEND:20250131T235900Z
+DESCRIPTION:M - UI & UX\nCredits: 3\nTeam: 4 - 6\nRemote: true\nProject: UI
+	 & UX Project\nProject start: Thu Jan 02 2025 09:30:00 GMT+0000 (temps uni
+	versel coordonné)\nProject end: Fri Jan 31 2025 23:59:00 GMT+0000 (temps u
+	niversel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:HFp71X85A-y0hqNM3y1Ow
+SUMMARY:M - UI & UX - Day 1 - (PAR-9-2) - (M-XUX-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250102T093000Z
+DTEND:20250102T180000Z
+DESCRIPTION:M - UI & UX - Day 1\nCredits: 3\nTeam: 4 - 6\nRemote: true\nPro
+	ject: UI & UX Project\nProject start: Thu Jan 02 2025 09:30:00 GMT+0000 (t
+	emps universel coordonné)\nProject end: Fri Jan 31 2025 23:59:00 GMT+0000 
+	(temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:0AtJhK7IfScNP0ebVFPqH
+SUMMARY:M - UI & UX - Day 2 - (PAR-9-2) - (M-XUX-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250103T093000Z
+DTEND:20250103T180000Z
+DESCRIPTION:M - UI & UX - Day 2\nCredits: 3\nTeam: 4 - 6\nRemote: true\nPro
+	ject: UI & UX Project\nProject start: Thu Jan 02 2025 09:30:00 GMT+0000 (t
+	emps universel coordonné)\nProject end: Fri Jan 31 2025 23:59:00 GMT+0000 
+	(temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:tAyfFisSK1ZEJFTQQf2C7
+SUMMARY:M - UI & UX - Day 3 - (PAR-9-2) - (M-XUX-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250104T093000Z
+DTEND:20250104T180000Z
+DESCRIPTION:M - UI & UX - Day 3\nCredits: 3\nTeam: 4 - 6\nRemote: true\nPro
+	ject: UI & UX Project\nProject start: Thu Jan 02 2025 09:30:00 GMT+0000 (t
+	emps universel coordonné)\nProject end: Fri Jan 31 2025 23:59:00 GMT+0000 
+	(temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/
+LOCATION:FR/PAR/main/Visio
+END:VEVENT
+BEGIN:VEVENT
+UID:G4DfxuDuMXzeNyk8Ypwy7
+SUMMARY:M - Unreal Engine 5 - First game using blueprint - Unreal Engine 5 
+	- Premier jeu en blueprint - Project - (PAR-9-2) - (M-GAM-907) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241003T093000Z
+DTEND:20241101T235900Z
+DESCRIPTION:M - Unreal Engine 5 - First game using blueprint\nCredits: 4\nT
+	eam: 3 - 4\nRemote: false\nProject: Unreal Engine 5 - Premier jeu en bluep
+	rint - Project\nProject start: Thu Oct 03 2024 09:30:00 GMT+0000 (temps un
+	iversel coordonné)\nProject end: Fri Nov 01 2024 23:59:00 GMT+0000 (temps 
+	universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-GAM-907/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:0uVjmKGV82s1kK-R7pv_E
+SUMMARY:M - Unreal Engine 5 - First game using blueprint - Day 1 - (PAR-9-2
+	) - (M-GAM-907) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241003T093000Z
+DTEND:20241003T180000Z
+DESCRIPTION:M - Unreal Engine 5 - First game using blueprint - Day 1\nCredi
+	ts: 4\nTeam: 3 - 4\nRemote: false\nProject: Unreal Engine 5 - Premier jeu 
+	en blueprint - Project\nProject start: Thu Oct 03 2024 09:30:00 GMT+0000 (
+	temps universel coordonné)\nProject end: Fri Nov 01 2024 23:59:00 GMT+0000
+	 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-GAM-907/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:zhYTAsWvTIWJ-2ZTt5vxx
+SUMMARY:M - Unreal Engine 5 - First game using blueprint - Day 2 - (PAR-9-2
+	) - (M-GAM-907) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20241004T093000Z
+DTEND:20241004T180000Z
+DESCRIPTION:M - Unreal Engine 5 - First game using blueprint - Day 2\nCredi
+	ts: 4\nTeam: 3 - 4\nRemote: false\nProject: Unreal Engine 5 - Premier jeu 
+	en blueprint - Project\nProject start: Thu Oct 03 2024 09:30:00 GMT+0000 (
+	temps universel coordonné)\nProject end: Fri Nov 01 2024 23:59:00 GMT+0000
+	 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-GAM-907/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
+END:VEVENT
+BEGIN:VEVENT
+UID:08iYfHDjWHGF_FjjB3Zkv
+SUMMARY:M - Web Security - Web Security Project - (PAR-9-2) - (M-SEC-902) -
+	 (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250116T093000Z
+DTEND:20250214T235900Z
+DESCRIPTION:M - Web Security\nCredits: 4\nTeam: 3 - 3\nRemote: false\nProje
+	ct: Web Security Project\nProject start: Thu Jan 16 2025 09:30:00 GMT+0000
+	 (temps universel coordonné)\nProject end: Fri Feb 14 2025 23:59:00 GMT+00
+	00 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-902/PAR-9-2/
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:MPGi4bpYmk-UiCWWb7fgc
+SUMMARY:M - Web Security - Day 1 - (PAR-9-2) - (M-SEC-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250116T093000Z
+DTEND:20250116T180000Z
+DESCRIPTION:M - Web Security - Day 1\nCredits: 4\nTeam: 3 - 3\nRemote: fals
+	e\nProject: Web Security Project\nProject start: Thu Jan 16 2025 09:30:00 
+	GMT+0000 (temps universel coordonné)\nProject end: Fri Feb 14 2025 23:59:0
+	0 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-902/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+BEGIN:VEVENT
+UID:W2YuQDOFlIXzTdWowiJtg
+SUMMARY:M - Web Security - Day 2 - (PAR-9-2) - (M-SEC-902) - (55)
+DTSTAMP:20240805T185227Z
+DTSTART:20250117T093000Z
+DTEND:20250117T180000Z
+DESCRIPTION:M - Web Security - Day 2\nCredits: 4\nTeam: 3 - 3\nRemote: fals
+	e\nProject: Web Security Project\nProject start: Thu Jan 16 2025 09:30:00 
+	GMT+0000 (temps universel coordonné)\nProject end: Fri Feb 14 2025 23:59:0
+	0 GMT+0000 (temps universel coordonné)
+URL:https://intra.epitech.eu/module/2024/M-SEC-902/PAR-9-2/
+LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
+END:VEVENT
+END:VCALENDAR

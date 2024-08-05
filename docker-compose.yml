@@ -17,9 +17,6 @@ services:
       - extensions_authentication_cookieSession_httpOnly=${COOKIE_HTTP_ONLY}
       - extensions_authentication_cookieSession_maxAge=${COOKIE_MAX_AGE}
       - extensions_authentication_cookieSession_path=${COOKIE_PATH}
-      - PLD_USERNAME=${PLD_USERNAME}
-      - PLD_PASSWORD=${PLD_PASSWORD}
-      - PLD_URL=${PLD_URL:-https://api.pld.envronment.com}
     volumes:
       # https://jsreport.net/learn/docker
       # - jsreport-data:/app/data
