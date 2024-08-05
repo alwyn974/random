@@ -1,0 +1,31 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@epitech.js/puppeteer-auth-provider": "^0.1.0",
+    "axios": "1.7.3",
+    "dotenv": "^16.4.5",
+    "epitech.js": "^0.2.4",
+    "luxon": "^3.5.0",
+    "puppeteer": "^22.15.0",
+    "querystring": "^0.2.1",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.5.4"
+  },
+  "packageManager": "pnpm@9.4.0+sha1.9217c800d4ab947a7aee520242a7b70d64fc7638",
+  "pnpm": {
+    "overrides": {
+      "epitech.js@0.2.4>axios": "$axios"
+    }
+  }
+}

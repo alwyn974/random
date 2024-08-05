@@ -1,0 +1,45 @@
+{
+  "httpPort": 5488,
+  "store": {
+    "provider": "fs"
+  },
+  "logger": {
+    "console": {
+      "transport": "console",
+      "level": "debug"
+    },
+    "file": {
+      "transport": "file",
+      "level": "info",
+      "filename": "logs/reporter.log"
+    },
+    "error": {
+      "transport": "file",
+      "level": "error",
+      "filename": "logs/error.log"
+    }
+  },
+  "trustUserCode": false,
+  "reportTimeout": 60000,
+  "workers": {
+    "numberOfWorkers": 2
+  },
+  "sandbox": {
+    "allowedModules": [
+      "axios",
+      "luxon",
+      "handlebars-helpers",
+      "process",
+      "epitech.js"
+    ]
+  },
+  "extensions": {
+    "fs-store": {
+      "externalModificationsSync": true
+    },
+    "sample-template": {
+      "createSamples": false,
+      "forceCreation": false
+    }
+  }
+}

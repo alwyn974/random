@@ -1,0 +1,37 @@
+version: "3.9"
+
+services:
+  jsreport:
+    build:
+      context: .
+    container_name: jsreport
+    restart: unless-stopped
+    ports:
+      - "5488:5488"
+    environment:
+      - extensions_authentication_admin_username=${ADMIN_USERNAME}
+      - extensions_authentication_admin_password=${ADMIN_PASSWORD}
+      - extensions_authentication_cookieSession_secret=${COOKIE_SECRET}.
+      - extensions_authentication_cookieSession_domain=${COOKIE_DOMAIN}
+      - extensions_authentication_cookieSession_secure=${COOKIE_SECURE}
+      - extensions_authentication_cookieSession_httpOnly=${COOKIE_HTTP_ONLY}
+      - extensions_authentication_cookieSession_maxAge=${COOKIE_MAX_AGE}
+      - extensions_authentication_cookieSession_path=${COOKIE_PATH}
+      - PLD_USERNAME=${PLD_USERNAME}
+      - PLD_PASSWORD=${PLD_PASSWORD}
+      - PLD_URL=${PLD_URL:-https://api.pld.envronment.com}
+    volumes:
+      # https://jsreport.net/learn/docker
+      # - jsreport-data:/app/data
+      - ./data/:/app/data
+      - ./jsreport.config.json:/app/jsreport.config.json
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5488"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+# volumes:
+#   jsreport-data:
+#     name: jsreport-data
+#     driver: local

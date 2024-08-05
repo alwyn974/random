@@ -1,0 +1,2253 @@
+{
+  "credits": 12,
+  "requiredCredits": 90,
+  "week": "A",
+  "modules": [
+    {
+      "inTeam": true,
+      "teamMin": 5,
+      "teamMax": 5,
+      "title": "M - Advanced MySQL and optimisations",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-10T10:00:00.000Z",
+          "end": "2024-10-10T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-11T10:00:00.000Z",
+          "end": "2024-10-11T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-10T00:00:00.000Z",
+      "endRegister": "2024-10-08T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-BDD-901",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-BDD-901/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-08T23:59:00.000Z",
+        "start": "2024-10-10T10:00:00.000Z",
+        "title": "MySQL avancé et optimisations project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 2,
+      "teamMax": 3,
+      "title": "M - Algorithmic complexity and graphs",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-19T10:00:00.000Z",
+          "end": "2024-09-19T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-20T10:00:00.000Z",
+          "end": "2024-09-20T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 3",
+          "start": "2024-09-21T10:00:00.000Z",
+          "end": "2024-09-21T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-20T00:00:00.000Z",
+      "endRegister": "2024-09-17T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-ALG-902",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-10-20T23:59:00.000Z",
+        "start": "2024-09-19T10:00:00.000Z",
+        "title": "Complexite algorithmique et graphes - Projet"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 1,
+      "teamMax": 1,
+      "title": "M - Better interact with others with Enneagram",
+      "credits": 1,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1 - AM",
+          "start": "2024-10-03T09:30:00.000Z",
+          "end": "2024-10-03T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
+        },
+        {
+          "title": "Day 2 - AM",
+          "start": "2024-10-04T09:30:00.000Z",
+          "end": "2024-10-04T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-03T00:00:00.000Z",
+      "endRegister": "2024-10-01T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-002",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-002/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "1970-01-01T00:00:00.000Z",
+        "start": "2024-09-29T09:30:00.000Z",
+        "title": "Projet Développement Personnel"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 4,
+      "title": "M - Blockchain",
+      "credits": 3,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-28T09:30:00.000Z",
+          "end": "2024-11-28T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-29T09:30:00.000Z",
+          "end": "2024-11-29T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-01-12T00:00:00.000Z",
+      "endRegister": "2024-11-26T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-BKC-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-10T23:59:00.000Z",
+        "start": "2024-11-28T09:30:00.000Z",
+        "title": "Blockchain Project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Boost your career",
+      "credits": 1,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-14T09:30:00.000Z",
+          "end": "2024-11-14T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-15T09:30:00.000Z",
+          "end": "2024-11-15T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-17T00:00:00.000Z",
+      "endRegister": "2024-11-01T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-060",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-17T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Business strategy ",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-12T09:30:00.000Z",
+          "end": "2024-09-12T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-13T09:30:00.000Z",
+          "end": "2024-09-13T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-13T00:00:00.000Z",
+      "endRegister": "2024-09-10T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-001",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-10-11T23:59:00.000Z",
+        "start": "2024-09-12T09:30:00.000Z",
+        "title": "M - Strategy - project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Contract law",
+      "credits": 1,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-05T09:30:00.000Z",
+          "end": "2024-12-05T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-06T09:30:00.000Z",
+          "end": "2024-12-06T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-08T00:00:00.000Z",
+      "endRegister": "2024-12-03T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-014",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-08T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Cryptography",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-03T09:30:00.000Z",
+          "end": "2024-10-03T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-04T09:30:00.000Z",
+          "end": "2024-10-04T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-03T00:00:00.000Z",
+      "endRegister": "2024-10-01T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEC-903",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEC-903/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-01T23:59:00.000Z",
+        "start": "2024-10-03T09:30:00.000Z",
+        "title": "Cryptography Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Digital Marketing",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-19T09:00:00.000Z",
+          "end": "2024-09-19T16:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-20T09:00:00.000Z",
+          "end": "2024-09-20T16:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-20T00:00:00.000Z",
+      "endRegister": "2024-09-17T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-INT-928",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-INT-928/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-10-18T23:59:00.000Z",
+        "start": "2024-09-20T09:00:00.000Z",
+        "title": "Digital Marketing"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 1,
+      "teamMax": 1,
+      "title": "M - Environmental impact of digital technology",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-02T09:30:00.000Z",
+          "end": "2025-01-02T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-03T09:30:00.000Z",
+          "end": "2025-01-03T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-02T00:00:00.000Z",
+      "endRegister": "2024-12-31T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-902",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-902/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-31T23:59:00.000Z",
+        "start": "2025-01-02T09:30:00.000Z",
+        "title": "Impact environnemental du numérique  - Projet"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 5,
+      "teamMax": 5,
+      "title": "M - Financing and Entrepreneurship ",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-07T09:30:00.000Z",
+          "end": "2024-11-07T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-08T09:30:00.000Z",
+          "end": "2024-11-08T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-08T00:00:00.000Z",
+      "endRegister": "2024-11-05T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-003",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-003/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-06T23:59:00.000Z",
+        "start": "2024-11-07T09:30:00.000Z",
+        "title": "M - Financing and Entrepreneurship"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 4,
+      "title": "M - Google ranking competition - SEO from scratch",
+      "credits": 5,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-12T09:30:00.000Z",
+          "end": "2024-09-12T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-13T09:30:00.000Z",
+          "end": "2024-09-13T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 3",
+          "start": "2024-09-14T09:30:00.000Z",
+          "end": "2024-09-14T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-24T00:00:00.000Z",
+      "endRegister": "2024-09-10T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEO-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-22T23:59:00.000Z",
+        "start": "2024-09-12T09:30:00.000Z",
+        "title": "Google ranking competition: SEO de A a Z - project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Governance of Information Systems",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-19T09:30:00.000Z",
+          "end": "2024-09-19T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-20T09:30:00.000Z",
+          "end": "2024-09-20T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-20T00:00:00.000Z",
+      "endRegister": "2024-09-17T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MGT-904",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-10-18T23:59:00.000Z",
+        "start": "2024-09-19T09:30:00.000Z",
+        "title": "Gouvernances des SI - projet"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - How to find a job abroad",
+      "credits": 1,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-12T09:30:00.000Z",
+          "end": "2024-12-12T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-13T09:30:00.000Z",
+          "end": "2024-12-13T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-15T00:00:00.000Z",
+      "endRegister": "2024-09-01T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-906",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-906/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-15T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Incident Management & Resolution Methodologies",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-12T10:00:00.000Z",
+          "end": "2024-09-12T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-13T10:00:00.000Z",
+          "end": "2024-09-13T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-13T00:00:00.000Z",
+      "endRegister": "2024-09-10T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-908",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-10-11T23:59:00.000Z",
+        "start": "2024-09-12T09:30:00.000Z",
+        "title": "M - Gestion des incidents et méthodologies de résolution - projet"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Innovative management",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-10T09:30:00.000Z",
+          "end": "2024-10-10T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-11T09:30:00.000Z",
+          "end": "2024-10-11T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 3",
+          "start": "2024-10-12T09:30:00.000Z",
+          "end": "2024-10-12T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-13T00:00:00.000Z",
+      "endRegister": "2024-10-08T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MGT-905",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-10-13T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Intercultural Communication Skills",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-12T09:00:00.000Z",
+          "end": "2024-09-12T16:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-13T09:00:00.000Z",
+          "end": "2024-09-13T16:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-13T00:00:00.000Z",
+      "endRegister": "2024-09-10T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-INT-927",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-INT-927/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-10-11T23:59:00.000Z",
+        "start": "2024-09-12T09:30:00.000Z",
+        "title": "Intercultural Communication Skills"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 2,
+      "teamMax": 2,
+      "title": "M - IoT",
+      "credits": 5,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-19T09:30:00.000Z",
+          "end": "2024-09-19T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-20T09:30:00.000Z",
+          "end": "2024-09-20T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-17T00:00:00.000Z",
+      "endRegister": "2024-09-17T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-IOT-200",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-IOT-200/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-15T23:59:00.000Z",
+        "start": "2024-09-19T09:30:00.000Z",
+        "title": "IoT Solution"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 2,
+      "teamMax": 3,
+      "title": "M - Machine Learning – Supervised Learning",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-10T10:00:00.000Z",
+          "end": "2024-10-10T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-11T10:00:00.000Z",
+          "end": "2024-10-11T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-10T00:00:00.000Z",
+      "endRegister": "2024-10-08T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MLR-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-10T23:59:00.000Z",
+        "start": "2024-10-10T10:00:00.000Z",
+        "title": "Machine Learning – Supervised Learning - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 2,
+      "teamMax": 3,
+      "title": "M - Machine Learning – Unsupervised Learning and Agents",
+      "credits": 4,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-02T10:00:00.000Z",
+          "end": "2025-01-02T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-03T10:00:00.000Z",
+          "end": "2025-01-03T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-02T00:00:00.000Z",
+      "endRegister": "2024-12-31T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MLR-901",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-09T23:59:00.000Z",
+        "start": "2025-01-02T10:00:00.000Z",
+        "title": "Machine Learning – Unsupervised Learning and Agents - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 5,
+      "teamMax": 6,
+      "title": "M - Management of Innovation",
+      "credits": 3,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-03T09:30:00.000Z",
+          "end": "2024-10-03T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-04T09:30:00.000Z",
+          "end": "2024-10-04T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-03T00:00:00.000Z",
+      "endRegister": "2024-10-01T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-001",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-01T23:59:00.000Z",
+        "start": "2024-10-03T09:30:00.000Z",
+        "title": "Monter un \"Dossier Innovation\""
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Marketing",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-05T09:30:00.000Z",
+          "end": "2024-12-05T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-06T09:30:00.000Z",
+          "end": "2024-12-06T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-01-12T00:00:00.000Z",
+      "endRegister": "2024-12-03T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-002",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-002/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-10T23:59:00.000Z",
+        "start": "2024-12-05T09:30:00.000Z",
+        "title": "M - Marketing - Final Project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Negotiation",
+      "credits": 1,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1 - AM",
+          "start": "2024-11-07T09:30:00.000Z",
+          "end": "2024-11-07T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
+        },
+        {
+          "title": "Day 2 - AM",
+          "start": "2024-11-08T09:30:00.000Z",
+          "end": "2024-11-08T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-10T00:00:00.000Z",
+      "endRegister": "2024-11-05T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-004",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-10T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Offensive Security and exploitation",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-28T09:30:00.000Z",
+          "end": "2024-11-28T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-29T09:30:00.000Z",
+          "end": "2024-11-29T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-01-05T00:00:00.000Z",
+      "endRegister": "2024-11-26T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEC-905",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-03T23:59:00.000Z",
+        "start": "2024-11-28T09:30:00.000Z",
+        "title": "Offensive Security and Exploitation - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 4,
+      "title": "M - Progressive Web Apps",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-10T09:30:00.000Z",
+          "end": "2024-10-10T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-11T09:30:00.000Z",
+          "end": "2024-10-11T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-08T00:00:00.000Z",
+      "endRegister": "2024-10-08T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-WEB-902",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-WEB-902/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-06T23:42:00.000Z",
+        "start": "2024-10-10T09:30:00.000Z",
+        "title": "Progressive Web Apps Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Reverse Engineering & Cracking II",
+      "credits": 4,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-12T09:30:00.000Z",
+          "end": "2024-12-12T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-13T09:30:00.000Z",
+          "end": "2024-12-13T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-01-19T00:00:00.000Z",
+      "endRegister": "2024-12-10T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEC-904",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEC-904/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-17T23:59:00.000Z",
+        "start": "2024-12-12T09:30:00.000Z",
+        "title": "Reverse Engineering & Cracking II Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 6,
+      "title": "M - The keys to project framework level II",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-05T09:30:00.000Z",
+          "end": "2024-12-05T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-06T09:30:00.000Z",
+          "end": "2024-12-06T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-01-12T00:00:00.000Z",
+      "endRegister": "2024-12-03T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-904",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-10T23:59:00.000Z",
+        "start": "2024-12-05T09:30:00.000Z",
+        "title": "M- The keys to project framing level II - project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 6,
+      "title": "M - The keys to project framing",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-19T09:30:00.000Z",
+          "end": "2024-09-19T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-20T09:30:00.000Z",
+          "end": "2024-09-20T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-20T00:00:00.000Z",
+      "endRegister": "2024-09-17T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-902",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-902/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-10-18T23:59:00.000Z",
+        "start": "2024-09-19T09:30:00.000Z",
+        "title": "M - The keys to project framing level I - project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - The leadership toolbox",
+      "credits": 1,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1 - AM",
+          "start": "2024-11-14T09:30:00.000Z",
+          "end": "2024-11-14T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2 - AM",
+          "start": "2024-11-15T09:30:00.000Z",
+          "end": "2024-11-15T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-17T00:00:00.000Z",
+      "endRegister": "2024-11-12T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MNG-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-17T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 4,
+      "title": "M - Unreal Engine 5 - Racing Pod C++",
+      "credits": 4,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-05T09:30:00.000Z",
+          "end": "2024-12-05T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-06T09:30:00.000Z",
+          "end": "2024-12-06T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-01-12T00:00:00.000Z",
+      "endRegister": "2024-12-03T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-GAM-908",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-GAM-908/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-10T23:59:00.000Z",
+        "start": "2024-12-05T09:30:00.000Z",
+        "title": "Unreal Engine 5 - Racing Pod C++ - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 4,
+      "title": "M - Blockchain",
+      "credits": 3,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-30T09:30:00.000Z",
+          "end": "2025-01-30T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-31T09:30:00.000Z",
+          "end": "2025-01-31T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-09T00:00:00.000Z",
+      "endRegister": "2025-01-28T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-BKC-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-07T23:59:00.000Z",
+        "start": "2025-01-30T09:30:00.000Z",
+        "title": "Blockchain Project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Boost your career",
+      "credits": 1,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-28T09:30:00.000Z",
+          "end": "2024-11-28T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-29T09:30:00.000Z",
+          "end": "2024-11-29T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-01T00:00:00.000Z",
+      "endRegister": "2024-11-15T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-060",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-01T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Business influence strategy",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-02-27T09:30:00.000Z",
+          "end": "2025-02-27T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-02-28T09:30:00.000Z",
+          "end": "2025-02-28T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 3",
+          "start": "2025-03-01T09:30:00.000Z",
+          "end": "2025-03-01T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-02T00:00:00.000Z",
+      "endRegister": "2025-02-25T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-910",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-02T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Business strategy ",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-10T09:30:00.000Z",
+          "end": "2024-10-10T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-11T09:30:00.000Z",
+          "end": "2024-10-11T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-10-13T00:00:00.000Z",
+      "endRegister": "2024-10-08T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-001",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-08T23:59:00.000Z",
+        "start": "2024-10-10T09:30:00.000Z",
+        "title": "M - Strategy - project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Come and build your start-up project",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1 - AM",
+          "start": "2025-02-20T09:30:00.000Z",
+          "end": "2025-02-20T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2 - AM",
+          "start": "2025-02-21T09:30:00.000Z",
+          "end": "2025-02-21T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-30T00:00:00.000Z",
+      "endRegister": "2025-02-18T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-900/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-28T23:59:00.000Z",
+        "start": "2025-02-20T09:30:00.000Z",
+        "title": "M - Come build your start-up project "
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Contract law",
+      "credits": 1,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-16T09:30:00.000Z",
+          "end": "2025-01-16T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-17T09:30:00.000Z",
+          "end": "2025-01-17T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-01-19T00:00:00.000Z",
+      "endRegister": "2025-01-14T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-014",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-19T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Disaster Recovery Plan and Business Continuity Plan",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-30T09:30:00.000Z",
+          "end": "2025-01-30T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-31T09:30:00.000Z",
+          "end": "2025-01-31T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-02T00:00:00.000Z",
+      "endRegister": "2025-01-28T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PCA-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PCA-900/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-28T23:59:00.000Z",
+        "start": "2025-01-31T09:30:00.000Z",
+        "title": "Plan de Reprise d’Activite et Plan de Continuite d’Activite - Projet"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 4,
+      "title": "M - General Data Protection Regulation (GDPR)",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-07T09:30:00.000Z",
+          "end": "2024-11-07T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-08T09:30:00.000Z",
+          "end": "2024-11-08T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-10T00:00:00.000Z",
+      "endRegister": "2024-11-05T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-905",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-905/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-08T23:59:00.000Z",
+        "start": "2024-11-07T09:30:00.000Z",
+        "title": "RGPD - projet"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Governance of Information Systems",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-16T09:30:00.000Z",
+          "end": "2025-01-16T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-17T09:30:00.000Z",
+          "end": "2025-01-17T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-16T00:00:00.000Z",
+      "endRegister": "2025-01-14T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MGT-904",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-14T23:59:00.000Z",
+        "start": "2025-01-16T09:30:00.000Z",
+        "title": "Gouvernances des SI - projet"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 5,
+      "teamMax": 5,
+      "title": "M - How much does it cost?",
+      "credits": 2,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1 - AM",
+          "start": "2025-01-16T09:30:00.000Z",
+          "end": "2025-01-16T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2 - AM",
+          "start": "2025-01-17T09:30:00.000Z",
+          "end": "2025-01-17T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-14T00:00:00.000Z",
+      "endRegister": "2025-01-14T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-BYG-001",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-BYG-001/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-12T23:59:00.000Z",
+        "start": "2025-01-16T09:30:00.000Z",
+        "title": "M - How does it cost - Final project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Incident Management & Resolution Methodologies",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-14T10:00:00.000Z",
+          "end": "2024-11-14T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-15T10:00:00.000Z",
+          "end": "2024-11-15T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-15T00:00:00.000Z",
+      "endRegister": "2024-11-12T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-908",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-13T23:59:00.000Z",
+        "start": "2024-11-14T10:00:00.000Z",
+        "title": "M - Gestion des incidents et méthodologies de résolution - projet"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Infrastructure Cyber ​​Defense",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-02-20T09:30:00.000Z",
+          "end": "2025-02-20T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-02-21T09:30:00.000Z",
+          "end": "2025-02-21T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-30T00:00:00.000Z",
+      "endRegister": "2025-02-18T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEC-908",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEC-908/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-28T23:59:00.000Z",
+        "start": "2025-02-20T09:30:00.000Z",
+        "title": "Cyber Defense des infrastructures - Projet"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Innovative management",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-02-13T09:30:00.000Z",
+          "end": "2025-02-13T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-02-14T09:30:00.000Z",
+          "end": "2025-02-14T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        },
+        {
+          "title": "Day 3",
+          "start": "2025-02-15T09:30:00.000Z",
+          "end": "2025-02-15T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-16T00:00:00.000Z",
+      "endRegister": "2025-02-11T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MGT-905",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-16T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Intellectual property",
+      "credits": 1,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-28T09:30:00.000Z",
+          "end": "2024-11-28T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-29T09:30:00.000Z",
+          "end": "2024-11-29T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-01T00:00:00.000Z",
+      "endRegister": "2024-11-26T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-906",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-906/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-01T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Labor law",
+      "credits": 1,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-02-13T09:30:00.000Z",
+          "end": "2025-02-13T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-02-14T09:30:00.000Z",
+          "end": "2025-02-14T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-16T00:00:00.000Z",
+      "endRegister": "2025-02-11T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-TRV-004",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-TRV-004/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-16T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 2,
+      "teamMax": 3,
+      "title": "M - Machine Learning – Supervised Learning",
+      "credits": 4,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-07T10:00:00.000Z",
+          "end": "2024-11-07T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-08T10:00:00.000Z",
+          "end": "2024-11-08T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-08T00:00:00.000Z",
+      "endRegister": "2024-11-05T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MLR-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-08T23:59:00.000Z",
+        "start": "2024-11-07T10:00:00.000Z",
+        "title": "Machine Learning – Supervised Learning - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 2,
+      "teamMax": 3,
+      "title": "M - Machine Learning – Unsupervised Learning and Agents",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-30T10:00:00.000Z",
+          "end": "2025-01-30T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-31T10:00:00.000Z",
+          "end": "2025-01-31T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-02T00:00:00.000Z",
+      "endRegister": "2025-01-28T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MLR-901",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-02T23:59:00.000Z",
+        "start": "2025-01-30T10:00:00.000Z",
+        "title": "Machine Learning – Unsupervised Learning and Agents - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 5,
+      "teamMax": 6,
+      "title": "M - Management of Innovation",
+      "credits": 3,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-30T09:30:00.000Z",
+          "end": "2025-01-30T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-31T09:30:00.000Z",
+          "end": "2025-01-31T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-02T00:00:00.000Z",
+      "endRegister": "2025-01-28T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-001",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-28T23:59:00.000Z",
+        "start": "2025-01-30T09:30:00.000Z",
+        "title": "Monter un \"Dossier Innovation\""
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Negotiation",
+      "credits": 1,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1 - AM",
+          "start": "2025-02-27T09:30:00.000Z",
+          "end": "2025-02-27T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2 - AM",
+          "start": "2025-02-28T09:30:00.000Z",
+          "end": "2025-02-28T17:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-01T00:00:00.000Z",
+      "endRegister": "2025-02-25T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-004",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-01T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Offensive Security and exploitation",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-30T09:30:00.000Z",
+          "end": "2025-01-30T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-31T09:30:00.000Z",
+          "end": "2025-01-31T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-09T00:00:00.000Z",
+      "endRegister": "2025-01-28T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEC-905",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-07T23:59:00.000Z",
+        "start": "2025-01-30T09:30:00.000Z",
+        "title": "Offensive Security and Exploitation - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 5,
+      "teamMax": 15,
+      "title": "M - Red Teaming VS Blue Teaming",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-05T09:30:00.000Z",
+          "end": "2024-12-05T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-06T09:30:00.000Z",
+          "end": "2024-12-06T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 3",
+          "start": "2024-12-07T09:30:00.000Z",
+          "end": "2024-12-07T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-08T00:00:00.000Z",
+      "endRegister": "2024-12-03T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEC-909",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-07T23:59:00.000Z",
+        "start": "2024-12-05T09:30:00.000Z",
+        "title": "Red Teaming VS Blue Teaming - Rush"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Reverse Engineering & Cracking I",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-11-14T09:30:00.000Z",
+          "end": "2024-11-14T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-11-15T09:30:00.000Z",
+          "end": "2024-11-15T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-15T00:00:00.000Z",
+      "endRegister": "2024-11-12T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEC-901",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEC-901/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-13T23:59:00.000Z",
+        "start": "2024-11-14T09:30:00.000Z",
+        "title": "Reverse Engineering & Cracking I Project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - Take advantage of your non-verbal communication",
+      "credits": 1,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1 - AM",
+          "start": "2025-02-20T09:30:00.000Z",
+          "end": "2025-02-20T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
+        },
+        {
+          "title": "Day 2 - AM",
+          "start": "2025-02-21T09:30:00.000Z",
+          "end": "2025-02-21T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-23T00:00:00.000Z",
+      "endRegister": "2025-02-18T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-045",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-045/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-23T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 6,
+      "title": "M - The keys to project framework level II",
+      "credits": 2,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-02-13T09:30:00.000Z",
+          "end": "2025-02-13T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-02-14T09:30:00.000Z",
+          "end": "2025-02-14T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-23T00:00:00.000Z",
+      "endRegister": "2025-02-11T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-PRO-904",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-21T23:59:00.000Z",
+        "start": "2025-02-13T09:30:00.000Z",
+        "title": "M- The keys to project framing level II - project"
+      }
+    },
+    {
+      "inTeam": false,
+      "teamMin": 0,
+      "teamMax": 0,
+      "title": "M - The leadership toolbox",
+      "credits": 1,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1 - AM",
+          "start": "2024-12-12T09:30:00.000Z",
+          "end": "2024-12-12T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
+        },
+        {
+          "title": "Day 2 - AM",
+          "start": "2024-12-13T09:30:00.000Z",
+          "end": "2024-12-13T17:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-15T00:00:00.000Z",
+      "endRegister": "2024-12-10T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-MNG-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-15T00:00:00.000Z",
+        "start": "2024-09-01T00:00:00.000Z",
+        "title": "No Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 6,
+      "title": "M - UI & UX",
+      "credits": 3,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": false,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-02T09:30:00.000Z",
+          "end": "2025-01-02T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-03T09:30:00.000Z",
+          "end": "2025-01-03T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 3",
+          "start": "2025-01-04T09:30:00.000Z",
+          "end": "2025-01-04T18:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-02T00:00:00.000Z",
+      "endRegister": "2024-12-31T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-XUX-902",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-01-31T23:59:00.000Z",
+        "start": "2025-01-02T09:30:00.000Z",
+        "title": "UI & UX Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 4,
+      "title": "M - Unreal Engine 5 - First game using blueprint",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-03T09:30:00.000Z",
+          "end": "2024-10-03T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-04T09:30:00.000Z",
+          "end": "2024-10-04T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-03T00:00:00.000Z",
+      "endRegister": "2024-10-01T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-GAM-907",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-GAM-907/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-01T23:59:00.000Z",
+        "start": "2024-10-03T09:30:00.000Z",
+        "title": "Unreal Engine 5 - Premier jeu en blueprint - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Web Security",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-16T09:30:00.000Z",
+          "end": "2025-01-16T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-17T09:30:00.000Z",
+          "end": "2025-01-17T18:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-16T00:00:00.000Z",
+      "endRegister": "2025-01-14T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-SEC-902",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-SEC-902/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-14T23:59:00.000Z",
+        "start": "2025-01-16T09:30:00.000Z",
+        "title": "Web Security Project"
+      }
+    }
+  ]
+}

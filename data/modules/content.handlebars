@@ -1,0 +1,7 @@
+{{xlsxColAutofit all=true}}
+
+{{#xlsxMerge "xl/workbook.xml" "workbook.calcPr[0]"}}
+    <calcPr fullCalcOnLoad="1"/>
+{{/xlsxMerge}}
+
+{{xlsxPrint}}

@@ -1,0 +1,23 @@
+{
+    "name": "modules",
+    "engine": "handlebars",
+    "recipe": "xlsx",
+    "data": {
+        "shortid": "zpoVsW4fC"
+    },
+    "xlsx": {
+        "templateAssetShortid": "ZK5z7P_"
+    },
+    "shortid": "a31C6XKMEw",
+    "creationDate": {
+        "$$date": 1722795370493
+    },
+    "modificationDate": {
+        "$$date": 1722877468350
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "kyh0kATV4DjIXwb8",
+    "$entitySet": "templates",
+    "scripts": []
+}
