@@ -317,7 +317,6 @@ const main = async () => {
     const semester = user.semester; // should be nine or ten
     const semesterCode = user.semester_code.split('/')[1].split('-')[1] as Week // should be A, B or C
     const credits = user.credits;
-    let codeinstance = "";
     const educationalOverview = await intra.getUserEducationalOverview(user.login);
 
     console.log(`User: ${user.login}`);
@@ -331,7 +330,6 @@ const main = async () => {
         locations: [user.location],
     })
     const filteredCourses = courses.items.filter(c => c.semester === semester);
-    codeinstance = filteredCourses[0].codeinstance;
 
     const data = new Data({
         credits: credits,
@@ -415,10 +413,6 @@ const main = async () => {
         // break;
     }
     fs.writeFileSync("data.json", JSON.stringify(data, null, 2));
-
-    // let planning = await intra.getPlanning();
-    // planning = planning.filter(p => p.scolaryear === scolarYear && p.semester === semester && p.codeinstance === codeinstance);
-    // fs.writeFileSync("planning.json", JSON.stringify(planning, null, 2));
 }
 
 const convertDate = (date: Date): [number, number, number, number, number] => {
