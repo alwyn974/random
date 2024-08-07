@@ -307,7 +307,7 @@ const main = async () => {
         debugPrintRequests: false,
     });
     await intra.getRequestProvider().setTimezone("Europe/Paris");
-    const cookies = "0bZPBRWI-hfikMlI5B_vE1fOvaQ=VrgKq5a-uY-cQeAHlNgeR0iu0dU; dQueXqAfH5_kdsD4XP7E2ZcTBv0=1722863277; NRskmpiqWTmDdFGNtCXH99AeexA=1722949677; Y7N4iJ9C-DlVlrSwDMkXpHX94as=rXMPqpN1B-3hEDNnCwc_anC9z6s; JjP4m3zjIOq_u7-hZThzceWwWcE=1vxYlrldm1uoeJ--m0x3UfgaLbk; CDKRkTsK0c02AeKWYkFyQYjk9ac=1722865025; pXVjG6VTUPvDGG8GyX6gPQLAsH0=1722951425; vPTX72f84yMdszYrt5IPz1ySr8I=S94Lm4tKW_BmuzPpSGHi9w6qtPA; gdpr=1";
+    const cookies = process.env.INTRA_ANTI_BOT_COOKIES as string;
     cookies.split(";").forEach(c => {
         intra.getRequestProvider().setCookie(c.split("=")[0].trim(), c.split("=")[1].trim());
     });
@@ -317,7 +317,7 @@ const main = async () => {
     const semester = user.semester; // should be nine or ten
     const semesterCode = user.semester_code.split('/')[1].split('-')[1] as Week // should be A, B or C
     const credits = user.credits;
-    const educationalOverview = await intra.getUserEducationalOverview(user.login);
+    // const educationalOverview = await intra.getUserEducationalOverview(user.login); // maybe extract required credits from here, mais flemme
 
     console.log(`User: ${user.login}`);
     console.log(`Scolar year: ${scolarYear}`);
@@ -461,5 +461,5 @@ const dataToICS = async () => {
     fs.writeFileSync("calendar.ics", value!);
 }
 
-// main().catch(console.error);
+main().catch(console.error);
 dataToICS().catch(console.error);
