@@ -4,7 +4,7 @@ Extract epitech modules to make an Excel with jsreport, and create a calendar wi
 
 ## Usage
 
-You will need to launch jsreport with docker compose, and replace the `data.json` of the template with the new data you made from `app` folder.
+You will need to launch jsreport with docker compose, and replace the `data.json` of the template with the new data you made from `app` ([README.md](app/README.md)) folder.
 You will need to rename `.env.example` to `.env` and change the username/password (or not).
 
 ```bash
