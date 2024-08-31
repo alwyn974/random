@@ -25,3 +25,7 @@ When you are done, you can click on Run or Download, to create the Excel, you wi
 ![run or download](img/image-2.png)
 
 You will have your excel file, either at the right of the screen or in your download folder.
+
+To fix the excel format for checkboxes and credits, you'll need to select the column and convert the data
+
+![fix excel](img/image-3.png)
