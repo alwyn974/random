@@ -1,5 +1,5 @@
 {
-  "credits": 12,
+  "credits": 72,
   "requiredCredits": 90,
   "week": "A",
   "modules": [
@@ -15,14 +15,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-10-10T10:00:00.000Z",
-          "end": "2024-10-10T18:00:00.000Z",
+          "start": "2024-10-10T12:00:00.000Z",
+          "end": "2024-10-10T20:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-10-11T10:00:00.000Z",
-          "end": "2024-10-11T18:00:00.000Z",
+          "start": "2024-10-11T12:00:00.000Z",
+          "end": "2024-10-11T20:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -37,8 +37,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-BDD-901/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-11-08T23:59:00.000Z",
-        "start": "2024-10-10T10:00:00.000Z",
+        "end": "2024-11-09T02:59:00.000Z",
+        "start": "2024-10-10T12:00:00.000Z",
         "title": "MySQL avancé et optimisations project"
       }
     },
@@ -54,20 +54,20 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-19T10:00:00.000Z",
-          "end": "2024-09-19T18:00:00.000Z",
+          "start": "2024-09-19T12:00:00.000Z",
+          "end": "2024-09-19T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-20T10:00:00.000Z",
-          "end": "2024-09-20T18:00:00.000Z",
+          "start": "2024-09-20T12:00:00.000Z",
+          "end": "2024-09-20T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 3",
-          "start": "2024-09-21T10:00:00.000Z",
-          "end": "2024-09-21T18:00:00.000Z",
+          "start": "2024-09-21T12:00:00.000Z",
+          "end": "2024-09-21T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -82,8 +82,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-10-20T23:59:00.000Z",
-        "start": "2024-09-19T10:00:00.000Z",
+        "end": "2024-10-21T01:59:00.000Z",
+        "start": "2024-09-19T12:00:00.000Z",
         "title": "Complexite algorithmique et graphes - Projet"
       }
     },
@@ -99,14 +99,14 @@
       "days": [
         {
           "title": "Day 1 - AM",
-          "start": "2024-10-03T09:30:00.000Z",
-          "end": "2024-10-03T17:30:00.000Z",
+          "start": "2024-10-03T11:30:00.000Z",
+          "end": "2024-10-03T19:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
         },
         {
           "title": "Day 2 - AM",
-          "start": "2024-10-04T09:30:00.000Z",
-          "end": "2024-10-04T17:30:00.000Z",
+          "start": "2024-10-04T11:30:00.000Z",
+          "end": "2024-10-04T19:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
         }
       ],
@@ -122,7 +122,7 @@
       "status": "notregistered",
       "project": {
         "end": "1970-01-01T00:00:00.000Z",
-        "start": "2024-09-29T09:30:00.000Z",
+        "start": "2024-09-29T11:30:00.000Z",
         "title": "Projet Développement Personnel"
       }
     },
@@ -138,14 +138,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-28T09:30:00.000Z",
-          "end": "2024-11-28T18:00:00.000Z",
+          "start": "2024-11-28T12:30:00.000Z",
+          "end": "2024-11-28T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-29T09:30:00.000Z",
-          "end": "2024-11-29T18:00:00.000Z",
+          "start": "2024-11-29T12:30:00.000Z",
+          "end": "2024-11-29T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -160,8 +160,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2025-01-10T23:59:00.000Z",
-        "start": "2024-11-28T09:30:00.000Z",
+        "end": "2025-01-11T02:59:00.000Z",
+        "start": "2024-11-28T12:30:00.000Z",
         "title": "Blockchain Project"
       }
     },
@@ -177,14 +177,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-14T09:30:00.000Z",
-          "end": "2024-11-14T17:30:00.000Z",
+          "start": "2024-11-14T12:30:00.000Z",
+          "end": "2024-11-14T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-15T09:30:00.000Z",
-          "end": "2024-11-15T17:30:00.000Z",
+          "start": "2024-11-15T12:30:00.000Z",
+          "end": "2024-11-15T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
         }
       ],
@@ -216,14 +216,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-12T09:30:00.000Z",
-          "end": "2024-09-12T17:30:00.000Z",
+          "start": "2024-09-12T11:30:00.000Z",
+          "end": "2024-09-12T19:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-13T09:30:00.000Z",
-          "end": "2024-09-13T17:30:00.000Z",
+          "start": "2024-09-13T11:30:00.000Z",
+          "end": "2024-09-13T19:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -238,8 +238,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-10-11T23:59:00.000Z",
-        "start": "2024-09-12T09:30:00.000Z",
+        "end": "2024-10-12T01:59:00.000Z",
+        "start": "2024-09-12T11:30:00.000Z",
         "title": "M - Strategy - project"
       }
     },
@@ -255,14 +255,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-12-05T09:30:00.000Z",
-          "end": "2024-12-05T17:30:00.000Z",
+          "start": "2024-12-05T12:30:00.000Z",
+          "end": "2024-12-05T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2024-12-06T09:30:00.000Z",
-          "end": "2024-12-06T17:30:00.000Z",
+          "start": "2024-12-06T12:30:00.000Z",
+          "end": "2024-12-06T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -294,14 +294,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-10-03T09:30:00.000Z",
-          "end": "2024-10-03T18:00:00.000Z",
+          "start": "2024-10-03T11:30:00.000Z",
+          "end": "2024-10-03T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2024-10-04T09:30:00.000Z",
-          "end": "2024-10-04T18:00:00.000Z",
+          "start": "2024-10-04T11:30:00.000Z",
+          "end": "2024-10-04T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -316,8 +316,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEC-903/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-11-01T23:59:00.000Z",
-        "start": "2024-10-03T09:30:00.000Z",
+        "end": "2024-11-02T02:59:00.000Z",
+        "start": "2024-10-03T11:30:00.000Z",
         "title": "Cryptography Project"
       }
     },
@@ -333,14 +333,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-19T09:00:00.000Z",
-          "end": "2024-09-19T16:00:00.000Z",
+          "start": "2024-09-19T11:00:00.000Z",
+          "end": "2024-09-19T18:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-20T09:00:00.000Z",
-          "end": "2024-09-20T16:00:00.000Z",
+          "start": "2024-09-20T11:00:00.000Z",
+          "end": "2024-09-20T18:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -355,9 +355,48 @@
       "link": "https://intra.epitech.eu/module/2024/M-INT-928/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-10-18T23:59:00.000Z",
-        "start": "2024-09-20T09:00:00.000Z",
+        "end": "2024-10-19T01:59:00.000Z",
+        "start": "2024-09-20T11:00:00.000Z",
         "title": "Digital Marketing"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Eco-conception of digital services",
+      "credits": 3,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-09-19T11:30:00.000Z",
+          "end": "2024-09-19T19:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-09-20T11:30:00.000Z",
+          "end": "2024-09-20T19:30:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "seats": "55",
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-11-03T00:00:00.000Z",
+      "endRegister": "2024-09-17T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-ECO-902",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-ECO-902/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-11-02T02:59:00.000Z",
+        "start": "2024-09-19T11:30:00.000Z",
+        "title": "Eco-conception de services numériques - Project"
       }
     },
     {
@@ -372,14 +411,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-02T09:30:00.000Z",
-          "end": "2025-01-02T17:30:00.000Z",
+          "start": "2025-01-02T12:30:00.000Z",
+          "end": "2025-01-02T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-03T09:30:00.000Z",
-          "end": "2025-01-03T17:30:00.000Z",
+          "start": "2025-01-03T12:30:00.000Z",
+          "end": "2025-01-03T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -394,8 +433,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-TRV-902/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2025-01-31T23:59:00.000Z",
-        "start": "2025-01-02T09:30:00.000Z",
+        "end": "2025-02-01T02:59:00.000Z",
+        "start": "2025-01-02T12:30:00.000Z",
         "title": "Impact environnemental du numérique  - Projet"
       }
     },
@@ -411,14 +450,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-07T09:30:00.000Z",
-          "end": "2024-11-07T17:30:00.000Z",
+          "start": "2024-11-07T12:30:00.000Z",
+          "end": "2024-11-07T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-08T09:30:00.000Z",
-          "end": "2024-11-08T17:30:00.000Z",
+          "start": "2024-11-08T12:30:00.000Z",
+          "end": "2024-11-08T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -433,8 +472,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-TRV-003/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-12-06T23:59:00.000Z",
-        "start": "2024-11-07T09:30:00.000Z",
+        "end": "2024-12-07T02:59:00.000Z",
+        "start": "2024-11-07T12:30:00.000Z",
         "title": "M - Financing and Entrepreneurship"
       }
     },
@@ -450,20 +489,20 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-12T09:30:00.000Z",
-          "end": "2024-09-12T17:30:00.000Z",
+          "start": "2024-09-12T11:30:00.000Z",
+          "end": "2024-09-12T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-13T09:30:00.000Z",
-          "end": "2024-09-13T17:30:00.000Z",
+          "start": "2024-09-13T11:30:00.000Z",
+          "end": "2024-09-13T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 3",
-          "start": "2024-09-14T09:30:00.000Z",
-          "end": "2024-09-14T17:30:00.000Z",
+          "start": "2024-09-14T11:30:00.000Z",
+          "end": "2024-09-14T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -478,8 +517,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-11-22T23:59:00.000Z",
-        "start": "2024-09-12T09:30:00.000Z",
+        "end": "2024-11-23T02:59:00.000Z",
+        "start": "2024-09-12T11:30:00.000Z",
         "title": "Google ranking competition: SEO de A a Z - project"
       }
     },
@@ -495,14 +534,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-19T09:30:00.000Z",
-          "end": "2024-09-19T17:30:00.000Z",
+          "start": "2024-09-19T11:30:00.000Z",
+          "end": "2024-09-19T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-20T09:30:00.000Z",
-          "end": "2024-09-20T17:30:00.000Z",
+          "start": "2024-09-20T11:30:00.000Z",
+          "end": "2024-09-20T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -517,8 +556,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-10-18T23:59:00.000Z",
-        "start": "2024-09-19T09:30:00.000Z",
+        "end": "2024-10-19T01:59:00.000Z",
+        "start": "2024-09-19T11:30:00.000Z",
         "title": "Gouvernances des SI - projet"
       }
     },
@@ -534,14 +573,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-12-12T09:30:00.000Z",
-          "end": "2024-12-12T17:30:00.000Z",
+          "start": "2024-12-12T12:30:00.000Z",
+          "end": "2024-12-12T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-12-13T09:30:00.000Z",
-          "end": "2024-12-13T17:30:00.000Z",
+          "start": "2024-12-13T12:30:00.000Z",
+          "end": "2024-12-13T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -573,14 +612,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-12T10:00:00.000Z",
-          "end": "2024-09-12T18:00:00.000Z",
+          "start": "2024-09-12T12:00:00.000Z",
+          "end": "2024-09-12T20:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-13T10:00:00.000Z",
-          "end": "2024-09-13T18:00:00.000Z",
+          "start": "2024-09-13T12:00:00.000Z",
+          "end": "2024-09-13T20:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -595,8 +634,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-10-11T23:59:00.000Z",
-        "start": "2024-09-12T09:30:00.000Z",
+        "end": "2024-10-12T01:59:00.000Z",
+        "start": "2024-09-12T11:30:00.000Z",
         "title": "M - Gestion des incidents et méthodologies de résolution - projet"
       }
     },
@@ -612,20 +651,20 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-10-10T09:30:00.000Z",
-          "end": "2024-10-10T17:30:00.000Z",
+          "start": "2024-10-10T11:30:00.000Z",
+          "end": "2024-10-10T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-10-11T09:30:00.000Z",
-          "end": "2024-10-11T17:30:00.000Z",
+          "start": "2024-10-11T11:30:00.000Z",
+          "end": "2024-10-11T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 3",
-          "start": "2024-10-12T09:30:00.000Z",
-          "end": "2024-10-12T17:30:00.000Z",
+          "start": "2024-10-12T11:30:00.000Z",
+          "end": "2024-10-12T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -657,14 +696,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-12T09:00:00.000Z",
-          "end": "2024-09-12T16:00:00.000Z",
+          "start": "2024-09-12T11:00:00.000Z",
+          "end": "2024-09-12T18:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-13T09:00:00.000Z",
-          "end": "2024-09-13T16:00:00.000Z",
+          "start": "2024-09-13T11:00:00.000Z",
+          "end": "2024-09-13T18:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -679,9 +718,48 @@
       "link": "https://intra.epitech.eu/module/2024/M-INT-927/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-10-11T23:59:00.000Z",
-        "start": "2024-09-12T09:30:00.000Z",
+        "end": "2024-10-12T01:59:00.000Z",
+        "start": "2024-09-12T11:30:00.000Z",
         "title": "Intercultural Communication Skills"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Introduction au développement Kernel",
+      "credits": 4,
+      "open": true,
+      "inRemote": true,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-10-03T11:30:00.000Z",
+          "end": "2024-10-03T19:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-10-04T11:30:00.000Z",
+          "end": "2024-10-04T19:00:00.000Z",
+          "location": "FR/PAR/main/Visio"
+        }
+      ],
+      "seats": "55",
+      "codeInstance": "PAR-9-1",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2024-12-08T00:00:00.000Z",
+      "endRegister": "2024-10-01T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-KRN-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-KRN-900/PAR-9-1/",
+      "status": "notregistered",
+      "project": {
+        "end": "2024-12-07T02:59:00.000Z",
+        "start": "2024-10-03T11:30:00.000Z",
+        "title": "Introduction au développement Kernel Project"
       }
     },
     {
@@ -696,14 +774,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-19T09:30:00.000Z",
-          "end": "2024-09-19T18:00:00.000Z",
+          "start": "2024-09-19T11:30:00.000Z",
+          "end": "2024-09-19T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-20T09:30:00.000Z",
-          "end": "2024-09-20T18:00:00.000Z",
+          "start": "2024-09-20T11:30:00.000Z",
+          "end": "2024-09-20T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -718,8 +796,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-IOT-200/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-11-15T23:59:00.000Z",
-        "start": "2024-09-19T09:30:00.000Z",
+        "end": "2024-11-16T02:59:00.000Z",
+        "start": "2024-09-19T11:30:00.000Z",
         "title": "IoT Solution"
       }
     },
@@ -735,14 +813,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-10-10T10:00:00.000Z",
-          "end": "2024-10-10T18:00:00.000Z",
+          "start": "2024-10-10T12:00:00.000Z",
+          "end": "2024-10-10T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2024-10-11T10:00:00.000Z",
-          "end": "2024-10-11T18:00:00.000Z",
+          "start": "2024-10-11T12:00:00.000Z",
+          "end": "2024-10-11T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -757,8 +835,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-11-10T23:59:00.000Z",
-        "start": "2024-10-10T10:00:00.000Z",
+        "end": "2024-11-11T02:59:00.000Z",
+        "start": "2024-10-10T12:00:00.000Z",
         "title": "Machine Learning – Supervised Learning - Project"
       }
     },
@@ -774,14 +852,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-02T10:00:00.000Z",
-          "end": "2025-01-02T18:00:00.000Z",
+          "start": "2025-01-02T13:00:00.000Z",
+          "end": "2025-01-02T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-03T10:00:00.000Z",
-          "end": "2025-01-03T18:00:00.000Z",
+          "start": "2025-01-03T13:00:00.000Z",
+          "end": "2025-01-03T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -796,8 +874,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2025-02-09T23:59:00.000Z",
-        "start": "2025-01-02T10:00:00.000Z",
+        "end": "2025-02-10T02:59:00.000Z",
+        "start": "2025-01-02T13:00:00.000Z",
         "title": "Machine Learning – Unsupervised Learning and Agents - Project"
       }
     },
@@ -813,14 +891,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-10-03T09:30:00.000Z",
-          "end": "2024-10-03T17:30:00.000Z",
+          "start": "2024-10-03T11:30:00.000Z",
+          "end": "2024-10-03T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-10-04T09:30:00.000Z",
-          "end": "2024-10-04T17:30:00.000Z",
+          "start": "2024-10-04T11:30:00.000Z",
+          "end": "2024-10-04T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -835,8 +913,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-11-01T23:59:00.000Z",
-        "start": "2024-10-03T09:30:00.000Z",
+        "end": "2024-11-02T02:59:00.000Z",
+        "start": "2024-10-03T11:30:00.000Z",
         "title": "Monter un \"Dossier Innovation\""
       }
     },
@@ -852,14 +930,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-12-05T09:30:00.000Z",
-          "end": "2024-12-05T17:30:00.000Z",
+          "start": "2024-12-05T12:30:00.000Z",
+          "end": "2024-12-05T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
         },
         {
           "title": "Day 2",
-          "start": "2024-12-06T09:30:00.000Z",
-          "end": "2024-12-06T17:30:00.000Z",
+          "start": "2024-12-06T12:30:00.000Z",
+          "end": "2024-12-06T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
         }
       ],
@@ -874,8 +952,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-TRV-002/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2025-01-10T23:59:00.000Z",
-        "start": "2024-12-05T09:30:00.000Z",
+        "end": "2025-01-11T02:59:00.000Z",
+        "start": "2024-12-05T12:30:00.000Z",
         "title": "M - Marketing - Final Project"
       }
     },
@@ -891,14 +969,14 @@
       "days": [
         {
           "title": "Day 1 - AM",
-          "start": "2024-11-07T09:30:00.000Z",
-          "end": "2024-11-07T17:30:00.000Z",
+          "start": "2024-11-07T12:30:00.000Z",
+          "end": "2024-11-07T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
         },
         {
           "title": "Day 2 - AM",
-          "start": "2024-11-08T09:30:00.000Z",
-          "end": "2024-11-08T17:30:00.000Z",
+          "start": "2024-11-08T12:30:00.000Z",
+          "end": "2024-11-08T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
         }
       ],
@@ -930,14 +1008,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-28T09:30:00.000Z",
-          "end": "2024-11-28T18:00:00.000Z",
+          "start": "2024-11-28T12:30:00.000Z",
+          "end": "2024-11-28T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-29T09:30:00.000Z",
-          "end": "2024-11-29T18:00:00.000Z",
+          "start": "2024-11-29T12:30:00.000Z",
+          "end": "2024-11-29T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -952,8 +1030,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2025-01-03T23:59:00.000Z",
-        "start": "2024-11-28T09:30:00.000Z",
+        "end": "2025-01-04T02:59:00.000Z",
+        "start": "2024-11-28T12:30:00.000Z",
         "title": "Offensive Security and Exploitation - Project"
       }
     },
@@ -969,14 +1047,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-10-10T09:30:00.000Z",
-          "end": "2024-10-10T18:00:00.000Z",
+          "start": "2024-10-10T11:30:00.000Z",
+          "end": "2024-10-10T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2024-10-11T09:30:00.000Z",
-          "end": "2024-10-11T18:00:00.000Z",
+          "start": "2024-10-11T11:30:00.000Z",
+          "end": "2024-10-11T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -991,8 +1069,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-WEB-902/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-12-06T23:42:00.000Z",
-        "start": "2024-10-10T09:30:00.000Z",
+        "end": "2024-12-07T02:42:00.000Z",
+        "start": "2024-10-10T11:30:00.000Z",
         "title": "Progressive Web Apps Project"
       }
     },
@@ -1008,14 +1086,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-12-12T09:30:00.000Z",
-          "end": "2024-12-12T18:00:00.000Z",
+          "start": "2024-12-12T12:30:00.000Z",
+          "end": "2024-12-12T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-12-13T09:30:00.000Z",
-          "end": "2024-12-13T18:00:00.000Z",
+          "start": "2024-12-13T12:30:00.000Z",
+          "end": "2024-12-13T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1030,8 +1108,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEC-904/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2025-01-17T23:59:00.000Z",
-        "start": "2024-12-12T09:30:00.000Z",
+        "end": "2025-01-18T02:59:00.000Z",
+        "start": "2024-12-12T12:30:00.000Z",
         "title": "Reverse Engineering & Cracking II Project"
       }
     },
@@ -1047,14 +1125,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-12-05T09:30:00.000Z",
-          "end": "2024-12-05T17:30:00.000Z",
+          "start": "2024-12-05T12:30:00.000Z",
+          "end": "2024-12-05T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-12-06T09:30:00.000Z",
-          "end": "2024-12-06T17:30:00.000Z",
+          "start": "2024-12-06T12:30:00.000Z",
+          "end": "2024-12-06T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1069,8 +1147,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2025-01-10T23:59:00.000Z",
-        "start": "2024-12-05T09:30:00.000Z",
+        "end": "2025-01-11T02:59:00.000Z",
+        "start": "2024-12-05T12:30:00.000Z",
         "title": "M- The keys to project framing level II - project"
       }
     },
@@ -1086,14 +1164,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-09-19T09:30:00.000Z",
-          "end": "2024-09-19T17:30:00.000Z",
+          "start": "2024-09-19T11:30:00.000Z",
+          "end": "2024-09-19T19:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         },
         {
           "title": "Day 2",
-          "start": "2024-09-20T09:30:00.000Z",
-          "end": "2024-09-20T17:30:00.000Z",
+          "start": "2024-09-20T11:30:00.000Z",
+          "end": "2024-09-20T19:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         }
       ],
@@ -1108,8 +1186,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-PRO-902/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2024-10-18T23:59:00.000Z",
-        "start": "2024-09-19T09:30:00.000Z",
+        "end": "2024-10-19T01:59:00.000Z",
+        "start": "2024-09-19T11:30:00.000Z",
         "title": "M - The keys to project framing level I - project"
       }
     },
@@ -1125,14 +1203,14 @@
       "days": [
         {
           "title": "Day 1 - AM",
-          "start": "2024-11-14T09:30:00.000Z",
-          "end": "2024-11-14T17:30:00.000Z",
+          "start": "2024-11-14T12:30:00.000Z",
+          "end": "2024-11-14T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2 - AM",
-          "start": "2024-11-15T09:30:00.000Z",
-          "end": "2024-11-15T17:30:00.000Z",
+          "start": "2024-11-15T12:30:00.000Z",
+          "end": "2024-11-15T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1164,14 +1242,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-12-05T09:30:00.000Z",
-          "end": "2024-12-05T18:00:00.000Z",
+          "start": "2024-12-05T12:30:00.000Z",
+          "end": "2024-12-05T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-12-06T09:30:00.000Z",
-          "end": "2024-12-06T18:00:00.000Z",
+          "start": "2024-12-06T12:30:00.000Z",
+          "end": "2024-12-06T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1186,8 +1264,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-GAM-908/PAR-9-1/",
       "status": "notregistered",
       "project": {
-        "end": "2025-01-10T23:59:00.000Z",
-        "start": "2024-12-05T09:30:00.000Z",
+        "end": "2025-01-11T02:59:00.000Z",
+        "start": "2024-12-05T12:30:00.000Z",
         "title": "Unreal Engine 5 - Racing Pod C++ - Project"
       }
     },
@@ -1203,14 +1281,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-30T09:30:00.000Z",
-          "end": "2025-01-30T18:00:00.000Z",
+          "start": "2025-01-30T12:30:00.000Z",
+          "end": "2025-01-30T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-31T09:30:00.000Z",
-          "end": "2025-01-31T18:00:00.000Z",
+          "start": "2025-01-31T12:30:00.000Z",
+          "end": "2025-01-31T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1225,8 +1303,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-03-07T23:59:00.000Z",
-        "start": "2025-01-30T09:30:00.000Z",
+        "end": "2025-03-08T02:59:00.000Z",
+        "start": "2025-01-30T12:30:00.000Z",
         "title": "Blockchain Project"
       }
     },
@@ -1242,14 +1320,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-28T09:30:00.000Z",
-          "end": "2024-11-28T17:30:00.000Z",
+          "start": "2024-11-28T12:30:00.000Z",
+          "end": "2024-11-28T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-29T09:30:00.000Z",
-          "end": "2024-11-29T17:30:00.000Z",
+          "start": "2024-11-29T12:30:00.000Z",
+          "end": "2024-11-29T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1281,20 +1359,20 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-02-27T09:30:00.000Z",
-          "end": "2025-02-27T17:30:00.000Z",
+          "start": "2025-02-27T12:30:00.000Z",
+          "end": "2025-02-27T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2025-02-28T09:30:00.000Z",
-          "end": "2025-02-28T17:30:00.000Z",
+          "start": "2025-02-28T12:30:00.000Z",
+          "end": "2025-02-28T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 3",
-          "start": "2025-03-01T09:30:00.000Z",
-          "end": "2025-03-01T17:30:00.000Z",
+          "start": "2025-03-01T12:30:00.000Z",
+          "end": "2025-03-01T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1326,14 +1404,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-10-10T09:30:00.000Z",
-          "end": "2024-10-10T17:30:00.000Z",
+          "start": "2024-10-10T11:30:00.000Z",
+          "end": "2024-10-10T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-10-11T09:30:00.000Z",
-          "end": "2024-10-11T17:30:00.000Z",
+          "start": "2024-10-11T11:30:00.000Z",
+          "end": "2024-10-11T19:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1348,8 +1426,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2024-11-08T23:59:00.000Z",
-        "start": "2024-10-10T09:30:00.000Z",
+        "end": "2024-11-09T02:59:00.000Z",
+        "start": "2024-10-10T11:30:00.000Z",
         "title": "M - Strategy - project"
       }
     },
@@ -1365,14 +1443,14 @@
       "days": [
         {
           "title": "Day 1 - AM",
-          "start": "2025-02-20T09:30:00.000Z",
-          "end": "2025-02-20T17:30:00.000Z",
+          "start": "2025-02-20T12:30:00.000Z",
+          "end": "2025-02-20T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2 - AM",
-          "start": "2025-02-21T09:30:00.000Z",
-          "end": "2025-02-21T17:30:00.000Z",
+          "start": "2025-02-21T12:30:00.000Z",
+          "end": "2025-02-21T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1387,8 +1465,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-PRO-900/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-03-28T23:59:00.000Z",
-        "start": "2025-02-20T09:30:00.000Z",
+        "end": "2025-03-29T02:59:00.000Z",
+        "start": "2025-02-20T12:30:00.000Z",
         "title": "M - Come build your start-up project "
       }
     },
@@ -1404,14 +1482,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-16T09:30:00.000Z",
-          "end": "2025-01-16T17:30:00.000Z",
+          "start": "2025-01-16T12:30:00.000Z",
+          "end": "2025-01-16T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-17T09:30:00.000Z",
-          "end": "2025-01-17T17:30:00.000Z",
+          "start": "2025-01-17T12:30:00.000Z",
+          "end": "2025-01-17T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1443,14 +1521,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-30T09:30:00.000Z",
-          "end": "2025-01-30T17:30:00.000Z",
+          "start": "2025-01-30T12:30:00.000Z",
+          "end": "2025-01-30T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-31T09:30:00.000Z",
-          "end": "2025-01-31T17:30:00.000Z",
+          "start": "2025-01-31T12:30:00.000Z",
+          "end": "2025-01-31T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1465,9 +1543,48 @@
       "link": "https://intra.epitech.eu/module/2024/M-PCA-900/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-02-28T23:59:00.000Z",
-        "start": "2025-01-31T09:30:00.000Z",
+        "end": "2025-03-01T02:59:00.000Z",
+        "start": "2025-01-31T12:30:00.000Z",
         "title": "Plan de Reprise d’Activite et Plan de Continuite d’Activite - Projet"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 4,
+      "teamMax": 5,
+      "title": "M - Eco-conception of digital services",
+      "credits": 3,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2025-01-16T12:30:00.000Z",
+          "end": "2025-01-16T20:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
+        },
+        {
+          "title": "Day 2",
+          "start": "2025-01-17T12:30:00.000Z",
+          "end": "2025-01-17T20:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Star-Wars"
+        }
+      ],
+      "seats": "55",
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-03-09T00:00:00.000Z",
+      "endRegister": "2025-01-14T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-ECO-902",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-ECO-902/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-03-06T02:59:00.000Z",
+        "start": "2025-01-16T12:30:00.000Z",
+        "title": "Eco-conception de services numériques - Project"
       }
     },
     {
@@ -1482,14 +1599,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-07T09:30:00.000Z",
-          "end": "2024-11-07T17:30:00.000Z",
+          "start": "2024-11-07T12:30:00.000Z",
+          "end": "2024-11-07T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-08T09:30:00.000Z",
-          "end": "2024-11-08T17:30:00.000Z",
+          "start": "2024-11-08T12:30:00.000Z",
+          "end": "2024-11-08T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1504,8 +1621,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-TRV-905/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2024-12-08T23:59:00.000Z",
-        "start": "2024-11-07T09:30:00.000Z",
+        "end": "2024-12-09T02:59:00.000Z",
+        "start": "2024-11-07T12:30:00.000Z",
         "title": "RGPD - projet"
       }
     },
@@ -1521,14 +1638,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-16T09:30:00.000Z",
-          "end": "2025-01-16T17:30:00.000Z",
+          "start": "2025-01-16T12:30:00.000Z",
+          "end": "2025-01-16T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-17T09:30:00.000Z",
-          "end": "2025-01-17T17:30:00.000Z",
+          "start": "2025-01-17T12:30:00.000Z",
+          "end": "2025-01-17T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -1543,8 +1660,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-02-14T23:59:00.000Z",
-        "start": "2025-01-16T09:30:00.000Z",
+        "end": "2025-02-15T02:59:00.000Z",
+        "start": "2025-01-16T12:30:00.000Z",
         "title": "Gouvernances des SI - projet"
       }
     },
@@ -1560,14 +1677,14 @@
       "days": [
         {
           "title": "Day 1 - AM",
-          "start": "2025-01-16T09:30:00.000Z",
-          "end": "2025-01-16T17:30:00.000Z",
+          "start": "2025-01-16T12:30:00.000Z",
+          "end": "2025-01-16T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2 - AM",
-          "start": "2025-01-17T09:30:00.000Z",
-          "end": "2025-01-17T17:30:00.000Z",
+          "start": "2025-01-17T12:30:00.000Z",
+          "end": "2025-01-17T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1582,8 +1699,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-BYG-001/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-02-12T23:59:00.000Z",
-        "start": "2025-01-16T09:30:00.000Z",
+        "end": "2025-02-13T02:59:00.000Z",
+        "start": "2025-01-16T12:30:00.000Z",
         "title": "M - How does it cost - Final project"
       }
     },
@@ -1599,14 +1716,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-14T10:00:00.000Z",
-          "end": "2024-11-14T18:00:00.000Z",
+          "start": "2024-11-14T13:00:00.000Z",
+          "end": "2024-11-14T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-15T10:00:00.000Z",
-          "end": "2024-11-15T18:00:00.000Z",
+          "start": "2024-11-15T13:00:00.000Z",
+          "end": "2024-11-15T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -1621,8 +1738,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2024-12-13T23:59:00.000Z",
-        "start": "2024-11-14T10:00:00.000Z",
+        "end": "2024-12-14T02:59:00.000Z",
+        "start": "2024-11-14T13:00:00.000Z",
         "title": "M - Gestion des incidents et méthodologies de résolution - projet"
       }
     },
@@ -1638,14 +1755,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-02-20T09:30:00.000Z",
-          "end": "2025-02-20T18:00:00.000Z",
+          "start": "2025-02-20T12:30:00.000Z",
+          "end": "2025-02-20T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2025-02-21T09:30:00.000Z",
-          "end": "2025-02-21T18:00:00.000Z",
+          "start": "2025-02-21T12:30:00.000Z",
+          "end": "2025-02-21T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -1660,8 +1777,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEC-908/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-03-28T23:59:00.000Z",
-        "start": "2025-02-20T09:30:00.000Z",
+        "end": "2025-03-29T02:59:00.000Z",
+        "start": "2025-02-20T12:30:00.000Z",
         "title": "Cyber Defense des infrastructures - Projet"
       }
     },
@@ -1677,20 +1794,20 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-02-13T09:30:00.000Z",
-          "end": "2025-02-13T17:30:00.000Z",
+          "start": "2025-02-13T12:30:00.000Z",
+          "end": "2025-02-13T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         },
         {
           "title": "Day 2",
-          "start": "2025-02-14T09:30:00.000Z",
-          "end": "2025-02-14T17:30:00.000Z",
+          "start": "2025-02-14T12:30:00.000Z",
+          "end": "2025-02-14T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         },
         {
           "title": "Day 3",
-          "start": "2025-02-15T09:30:00.000Z",
-          "end": "2025-02-15T17:30:00.000Z",
+          "start": "2025-02-15T12:30:00.000Z",
+          "end": "2025-02-15T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         }
       ],
@@ -1722,14 +1839,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-28T09:30:00.000Z",
-          "end": "2024-11-28T17:30:00.000Z",
+          "start": "2024-11-28T12:30:00.000Z",
+          "end": "2024-11-28T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-29T09:30:00.000Z",
-          "end": "2024-11-29T17:30:00.000Z",
+          "start": "2024-11-29T12:30:00.000Z",
+          "end": "2024-11-29T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -1750,6 +1867,45 @@
       }
     },
     {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 3,
+      "title": "M - Introduction au développement Kernel",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-12T12:30:00.000Z",
+          "end": "2024-12-12T20:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-13T12:30:00.000Z",
+          "end": "2024-12-13T20:00:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
+        }
+      ],
+      "seats": "55",
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-16T00:00:00.000Z",
+      "endRegister": "2024-12-10T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-KRN-900",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-KRN-900/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-15T02:59:00.000Z",
+        "start": "2024-12-12T12:30:00.000Z",
+        "title": "Introduction au développement Kernel Project"
+      }
+    },
+    {
       "inTeam": false,
       "teamMin": 0,
       "teamMax": 0,
@@ -1761,14 +1917,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-02-13T09:30:00.000Z",
-          "end": "2025-02-13T17:30:00.000Z",
+          "start": "2025-02-13T12:30:00.000Z",
+          "end": "2025-02-13T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2025-02-14T09:30:00.000Z",
-          "end": "2025-02-14T17:30:00.000Z",
+          "start": "2025-02-14T12:30:00.000Z",
+          "end": "2025-02-14T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1800,14 +1956,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-07T10:00:00.000Z",
-          "end": "2024-11-07T18:00:00.000Z",
+          "start": "2024-11-07T13:00:00.000Z",
+          "end": "2024-11-07T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-08T10:00:00.000Z",
-          "end": "2024-11-08T18:00:00.000Z",
+          "start": "2024-11-08T13:00:00.000Z",
+          "end": "2024-11-08T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1822,8 +1978,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2024-12-08T23:59:00.000Z",
-        "start": "2024-11-07T10:00:00.000Z",
+        "end": "2024-12-09T02:59:00.000Z",
+        "start": "2024-11-07T13:00:00.000Z",
         "title": "Machine Learning – Supervised Learning - Project"
       }
     },
@@ -1839,14 +1995,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-30T10:00:00.000Z",
-          "end": "2025-01-30T18:00:00.000Z",
+          "start": "2025-01-30T13:00:00.000Z",
+          "end": "2025-01-30T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-31T10:00:00.000Z",
-          "end": "2025-01-31T18:00:00.000Z",
+          "start": "2025-01-31T13:00:00.000Z",
+          "end": "2025-01-31T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -1861,8 +2017,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-03-02T23:59:00.000Z",
-        "start": "2025-01-30T10:00:00.000Z",
+        "end": "2025-03-03T02:59:00.000Z",
+        "start": "2025-01-30T13:00:00.000Z",
         "title": "Machine Learning – Unsupervised Learning and Agents - Project"
       }
     },
@@ -1878,14 +2034,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-30T09:30:00.000Z",
-          "end": "2025-01-30T17:30:00.000Z",
+          "start": "2025-01-30T12:30:00.000Z",
+          "end": "2025-01-30T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-31T09:30:00.000Z",
-          "end": "2025-01-31T17:30:00.000Z",
+          "start": "2025-01-31T12:30:00.000Z",
+          "end": "2025-01-31T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         }
       ],
@@ -1900,8 +2056,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-02-28T23:59:00.000Z",
-        "start": "2025-01-30T09:30:00.000Z",
+        "end": "2025-03-01T02:59:00.000Z",
+        "start": "2025-01-30T12:30:00.000Z",
         "title": "Monter un \"Dossier Innovation\""
       }
     },
@@ -1917,14 +2073,14 @@
       "days": [
         {
           "title": "Day 1 - AM",
-          "start": "2025-02-27T09:30:00.000Z",
-          "end": "2025-02-27T17:30:00.000Z",
+          "start": "2025-02-27T12:30:00.000Z",
+          "end": "2025-02-27T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2 - AM",
-          "start": "2025-02-28T09:30:00.000Z",
-          "end": "2025-02-28T17:30:00.000Z",
+          "start": "2025-02-28T12:30:00.000Z",
+          "end": "2025-02-28T20:30:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -1956,14 +2112,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-30T09:30:00.000Z",
-          "end": "2025-01-30T18:00:00.000Z",
+          "start": "2025-01-30T12:30:00.000Z",
+          "end": "2025-01-30T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-31T09:30:00.000Z",
-          "end": "2025-01-31T18:00:00.000Z",
+          "start": "2025-01-31T12:30:00.000Z",
+          "end": "2025-01-31T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -1978,9 +2134,54 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-03-07T23:59:00.000Z",
-        "start": "2025-01-30T09:30:00.000Z",
+        "end": "2025-03-08T02:59:00.000Z",
+        "start": "2025-01-30T12:30:00.000Z",
         "title": "Offensive Security and Exploitation - Project"
+      }
+    },
+    {
+      "inTeam": true,
+      "teamMin": 3,
+      "teamMax": 4,
+      "title": "M - Quantum computing",
+      "credits": 4,
+      "open": true,
+      "inRemote": false,
+      "hasProgressiveCredits": true,
+      "days": [
+        {
+          "title": "Day 1",
+          "start": "2024-12-12T12:30:00.000Z",
+          "end": "2024-12-12T20:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 2",
+          "start": "2024-12-13T12:30:00.000Z",
+          "end": "2024-12-13T20:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        },
+        {
+          "title": "Day 3",
+          "start": "2024-12-14T12:30:00.000Z",
+          "end": "2024-12-14T20:30:00.000Z",
+          "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
+        }
+      ],
+      "seats": "55",
+      "codeInstance": "PAR-9-2",
+      "begin": "2024-09-01T00:00:00.000Z",
+      "end": "2025-02-16T00:00:00.000Z",
+      "endRegister": "2024-12-10T00:00:00.000Z",
+      "instanceCodeLocation": "FR/PAR",
+      "code": "M-QUA-901",
+      "locationTitle": "Paris",
+      "link": "https://intra.epitech.eu/module/2024/M-QUA-901/PAR-9-2/",
+      "status": "notregistered",
+      "project": {
+        "end": "2025-02-15T02:59:00.000Z",
+        "start": "2024-12-12T12:30:00.000Z",
+        "title": "Project Quantum computing"
       }
     },
     {
@@ -1995,20 +2196,20 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-12-05T09:30:00.000Z",
-          "end": "2024-12-05T18:00:00.000Z",
+          "start": "2024-12-05T12:30:00.000Z",
+          "end": "2024-12-05T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2024-12-06T09:30:00.000Z",
-          "end": "2024-12-06T18:00:00.000Z",
+          "start": "2024-12-06T12:30:00.000Z",
+          "end": "2024-12-06T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 3",
-          "start": "2024-12-07T09:30:00.000Z",
-          "end": "2024-12-07T18:00:00.000Z",
+          "start": "2024-12-07T12:30:00.000Z",
+          "end": "2024-12-07T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -2023,8 +2224,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2024-12-07T23:59:00.000Z",
-        "start": "2024-12-05T09:30:00.000Z",
+        "end": "2024-12-08T02:59:00.000Z",
+        "start": "2024-12-05T12:30:00.000Z",
         "title": "Red Teaming VS Blue Teaming - Rush"
       }
     },
@@ -2040,14 +2241,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-11-14T09:30:00.000Z",
-          "end": "2024-11-14T18:00:00.000Z",
+          "start": "2024-11-14T12:30:00.000Z",
+          "end": "2024-11-14T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2024-11-15T09:30:00.000Z",
-          "end": "2024-11-15T18:00:00.000Z",
+          "start": "2024-11-15T12:30:00.000Z",
+          "end": "2024-11-15T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -2062,8 +2263,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEC-901/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2024-12-13T23:59:00.000Z",
-        "start": "2024-11-14T09:30:00.000Z",
+        "end": "2024-12-14T02:59:00.000Z",
+        "start": "2024-11-14T12:30:00.000Z",
         "title": "Reverse Engineering & Cracking I Project"
       }
     },
@@ -2079,14 +2280,14 @@
       "days": [
         {
           "title": "Day 1 - AM",
-          "start": "2025-02-20T09:30:00.000Z",
-          "end": "2025-02-20T17:30:00.000Z",
+          "start": "2025-02-20T12:30:00.000Z",
+          "end": "2025-02-20T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
         },
         {
           "title": "Day 2 - AM",
-          "start": "2025-02-21T09:30:00.000Z",
-          "end": "2025-02-21T17:30:00.000Z",
+          "start": "2025-02-21T12:30:00.000Z",
+          "end": "2025-02-21T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
         }
       ],
@@ -2118,14 +2319,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-02-13T09:30:00.000Z",
-          "end": "2025-02-13T17:30:00.000Z",
+          "start": "2025-02-13T12:30:00.000Z",
+          "end": "2025-02-13T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         },
         {
           "title": "Day 2",
-          "start": "2025-02-14T09:30:00.000Z",
-          "end": "2025-02-14T17:30:00.000Z",
+          "start": "2025-02-14T12:30:00.000Z",
+          "end": "2025-02-14T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton"
         }
       ],
@@ -2140,8 +2341,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-03-21T23:59:00.000Z",
-        "start": "2025-02-13T09:30:00.000Z",
+        "end": "2025-03-22T02:59:00.000Z",
+        "start": "2025-02-13T12:30:00.000Z",
         "title": "M- The keys to project framing level II - project"
       }
     },
@@ -2157,14 +2358,14 @@
       "days": [
         {
           "title": "Day 1 - AM",
-          "start": "2024-12-12T09:30:00.000Z",
-          "end": "2024-12-12T17:30:00.000Z",
+          "start": "2024-12-12T12:30:00.000Z",
+          "end": "2024-12-12T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
         },
         {
           "title": "Day 2 - AM",
-          "start": "2024-12-13T09:30:00.000Z",
-          "end": "2024-12-13T17:30:00.000Z",
+          "start": "2024-12-13T12:30:00.000Z",
+          "end": "2024-12-13T20:30:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon"
         }
       ],
@@ -2196,20 +2397,20 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-02T09:30:00.000Z",
-          "end": "2025-01-02T18:00:00.000Z",
+          "start": "2025-01-02T12:30:00.000Z",
+          "end": "2025-01-02T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-03T09:30:00.000Z",
-          "end": "2025-01-03T18:00:00.000Z",
+          "start": "2025-01-03T12:30:00.000Z",
+          "end": "2025-01-03T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         },
         {
           "title": "Day 3",
-          "start": "2025-01-04T09:30:00.000Z",
-          "end": "2025-01-04T18:00:00.000Z",
+          "start": "2025-01-04T12:30:00.000Z",
+          "end": "2025-01-04T21:00:00.000Z",
           "location": "FR/PAR/main/Visio"
         }
       ],
@@ -2224,8 +2425,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-01-31T23:59:00.000Z",
-        "start": "2025-01-02T09:30:00.000Z",
+        "end": "2025-02-01T02:59:00.000Z",
+        "start": "2025-01-02T12:30:00.000Z",
         "title": "UI & UX Project"
       }
     },
@@ -2241,14 +2442,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2024-10-03T09:30:00.000Z",
-          "end": "2024-10-03T18:00:00.000Z",
+          "start": "2024-10-03T11:30:00.000Z",
+          "end": "2024-10-03T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         },
         {
           "title": "Day 2",
-          "start": "2024-10-04T09:30:00.000Z",
-          "end": "2024-10-04T18:00:00.000Z",
+          "start": "2024-10-04T11:30:00.000Z",
+          "end": "2024-10-04T20:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Grace-Hopper"
         }
       ],
@@ -2263,8 +2464,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-GAM-907/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2024-11-01T23:59:00.000Z",
-        "start": "2024-10-03T09:30:00.000Z",
+        "end": "2024-11-02T02:59:00.000Z",
+        "start": "2024-10-03T11:30:00.000Z",
         "title": "Unreal Engine 5 - Premier jeu en blueprint - Project"
       }
     },
@@ -2280,14 +2481,14 @@
       "days": [
         {
           "title": "Day 1",
-          "start": "2025-01-16T09:30:00.000Z",
-          "end": "2025-01-16T18:00:00.000Z",
+          "start": "2025-01-16T12:30:00.000Z",
+          "end": "2025-01-16T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         },
         {
           "title": "Day 2",
-          "start": "2025-01-17T09:30:00.000Z",
-          "end": "2025-01-17T18:00:00.000Z",
+          "start": "2025-01-17T12:30:00.000Z",
+          "end": "2025-01-17T21:00:00.000Z",
           "location": "FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie"
         }
       ],
@@ -2302,8 +2503,8 @@
       "link": "https://intra.epitech.eu/module/2024/M-SEC-902/PAR-9-2/",
       "status": "notregistered",
       "project": {
-        "end": "2025-02-14T23:59:00.000Z",
-        "start": "2025-01-16T09:30:00.000Z",
+        "end": "2025-02-15T02:59:00.000Z",
+        "start": "2025-01-16T12:30:00.000Z",
         "title": "Web Security Project"
       }
     }

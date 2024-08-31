@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:LKvCM_4G5bm492aMxghQn
+UID:YPjuawU1eONNGfR2NWkrh
 SUMMARY:M - Advanced MySQL and optimisations - MySQL avancé et optimisation
 	s project - (PAR-9-1) - (M-BDD-901) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T100000Z
 DTEND:20241108T235900Z
 DESCRIPTION:M - Advanced MySQL and optimisations\nCredits: 2\nTeam: 5 - 5\n
@@ -19,10 +19,10 @@ URL:https://intra.epitech.eu/module/2024/M-BDD-901/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:SOrJkmnVILlTysrsjkfDE
+UID:g36TXk4hn9Je8JFFpO4Hs
 SUMMARY:M - Advanced MySQL and optimisations - Day 1 - (PAR-9-1) - (M-BDD-9
 	01) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T100000Z
 DTEND:20241010T180000Z
 DESCRIPTION:M - Advanced MySQL and optimisations - Day 1\nCredits: 2\nTeam:
@@ -33,10 +33,10 @@ URL:https://intra.epitech.eu/module/2024/M-BDD-901/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:p3EJEpQm23jEK2o6N0ruF
+UID:BHtKLQaqzDPU6X1tEHEO5
 SUMMARY:M - Advanced MySQL and optimisations - Day 2 - (PAR-9-1) - (M-BDD-9
 	01) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241011T100000Z
 DTEND:20241011T180000Z
 DESCRIPTION:M - Advanced MySQL and optimisations - Day 2\nCredits: 2\nTeam:
@@ -47,10 +47,10 @@ URL:https://intra.epitech.eu/module/2024/M-BDD-901/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:XiclEsX8zSwo72nqeRXnc
+UID:O2SFIFowlWkFddfg7UFDm
 SUMMARY:M - Algorithmic complexity and graphs - Complexite algorithmique et
 	 graphes - Projet - (PAR-9-1) - (M-ALG-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T100000Z
 DTEND:20241020T235900Z
 DESCRIPTION:M - Algorithmic complexity and graphs\nCredits: 4\nTeam: 2 - 3\
@@ -62,10 +62,10 @@ URL:https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:S6t6XsUd8uVEPvHZy5Fi3
+UID:-4iccSnfFJU2t1uZsVX21
 SUMMARY:M - Algorithmic complexity and graphs - Day 1 - (PAR-9-1) - (M-ALG-
 	902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T100000Z
 DTEND:20240919T180000Z
 DESCRIPTION:M - Algorithmic complexity and graphs - Day 1\nCredits: 4\nTeam
@@ -77,10 +77,10 @@ URL:https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:jMMudgaHfu1nuFVaursbc
+UID:jFZDZzO5h2FR-Y6snv4Ey
 SUMMARY:M - Algorithmic complexity and graphs - Day 2 - (PAR-9-1) - (M-ALG-
 	902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240920T100000Z
 DTEND:20240920T180000Z
 DESCRIPTION:M - Algorithmic complexity and graphs - Day 2\nCredits: 4\nTeam
@@ -92,10 +92,10 @@ URL:https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:Tltco3FiM3SV8PAN04Vmk
+UID:kvWpn50esgFSQoFENuIC-
 SUMMARY:M - Algorithmic complexity and graphs - Day 3 - (PAR-9-1) - (M-ALG-
 	902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240921T100000Z
 DTEND:20240921T180000Z
 DESCRIPTION:M - Algorithmic complexity and graphs - Day 3\nCredits: 4\nTeam
@@ -107,10 +107,10 @@ URL:https://intra.epitech.eu/module/2024/M-ALG-902/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:VQVMHpN9WNFb8gLtXOKO_
+UID:A-YJ3kxl6pyzuqmZnVatf
 SUMMARY:M - Better interact with others with Enneagram - Projet Développeme
 	nt Personnel - (PAR-9-1) - (M-PRO-002) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240929T093000Z
 DTEND:19700101T000000Z
 DESCRIPTION:M - Better interact with others with Enneagram\nCredits: 1\nTea
@@ -121,10 +121,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-002/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:HN9PHhrTkZVFZmSvAIoN2
+UID:-ZGESvMU71Bo9OvdLE2Hy
 SUMMARY:M - Better interact with others with Enneagram - Day 1 - AM - (PAR-
 	9-1) - (M-PRO-002) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241003T093000Z
 DTEND:20241003T173000Z
 DESCRIPTION:M - Better interact with others with Enneagram - Day 1 - AM\nCr
@@ -136,10 +136,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-002/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
 END:VEVENT
 BEGIN:VEVENT
-UID:XyPIN6j3bb4KZNoZLuUcK
+UID:jpEpU41jaaw6sEWJW4mRw
 SUMMARY:M - Better interact with others with Enneagram - Day 2 - AM - (PAR-
 	9-1) - (M-PRO-002) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241004T093000Z
 DTEND:20241004T173000Z
 DESCRIPTION:M - Better interact with others with Enneagram - Day 2 - AM\nCr
@@ -151,10 +151,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-002/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
 END:VEVENT
 BEGIN:VEVENT
-UID:TMSBYZAtdjiFVFMVXtzzy
+UID:0iwfAGKRFspsf5fnCo_7Y
 SUMMARY:M - Blockchain - Blockchain Project - (PAR-9-1) - (M-BKC-900) - (55
 	)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241128T093000Z
 DTEND:20250110T235900Z
 DESCRIPTION:M - Blockchain\nCredits: 3\nTeam: 4 - 4\nRemote: false\nProject
@@ -165,9 +165,9 @@ URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:SsRTEhZgwJCI_4nro4B_s
+UID:0Ih7TdrlO_xYNQB0uU9L1
 SUMMARY:M - Blockchain - Day 1 - (PAR-9-1) - (M-BKC-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241128T093000Z
 DTEND:20241128T180000Z
 DESCRIPTION:M - Blockchain - Day 1\nCredits: 3\nTeam: 4 - 4\nRemote: false\
@@ -178,9 +178,9 @@ URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:SE0-m9Y4XfE3MtsbexGDM
+UID:En5_drgWZ1RHDX_RuSiSV
 SUMMARY:M - Blockchain - Day 2 - (PAR-9-1) - (M-BKC-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241129T093000Z
 DTEND:20241129T180000Z
 DESCRIPTION:M - Blockchain - Day 2\nCredits: 3\nTeam: 4 - 4\nRemote: false\
@@ -191,9 +191,9 @@ URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:f7TNJkTw8y686val4Ssn2
+UID:l-08YohAHYuosFV2OdB1p
 SUMMARY:M - Boost your career - No Project - (PAR-9-1) - (M-PRO-060) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241117T000000Z
 DESCRIPTION:M - Boost your career\nCredits: 1\nTeam: 0 - 0\nRemote: false\n
@@ -204,9 +204,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:IG64FhpSGYyaae9Jdr0qT
+UID:8FDd2gP1enRQGo3eSgOaQ
 SUMMARY:M - Boost your career - Day 1 - (PAR-9-1) - (M-PRO-060) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241114T093000Z
 DTEND:20241114T173000Z
 DESCRIPTION:M - Boost your career - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote:
@@ -217,9 +217,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
 END:VEVENT
 BEGIN:VEVENT
-UID:nkCJZnRXuxGff_GQOMmMh
+UID:VGfby03x7i8GlbGjlaLfE
 SUMMARY:M - Boost your career - Day 2 - (PAR-9-1) - (M-PRO-060) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241115T093000Z
 DTEND:20241115T173000Z
 DESCRIPTION:M - Boost your career - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote:
@@ -230,10 +230,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
 END:VEVENT
 BEGIN:VEVENT
-UID:C8gyQkxJQZB1S5VorEzoS
+UID:fh9APGTWD5JCBJ8MQsONV
 SUMMARY:M - Business strategy  - M - Strategy - project - (PAR-9-1) - (M-TR
 	V-001) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240912T093000Z
 DTEND:20241011T235900Z
 DESCRIPTION:M - Business strategy \nCredits: 2\nTeam: 4 - 5\nRemote: false\
@@ -244,9 +244,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:O0HuQzsmbYjZ1mfUy-slv
+UID:H6GSvSVlykyutZkmpUpYM
 SUMMARY:M - Business strategy  - Day 1 - (PAR-9-1) - (M-TRV-001) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240912T093000Z
 DTEND:20240912T173000Z
 DESCRIPTION:M - Business strategy  - Day 1\nCredits: 2\nTeam: 4 - 5\nRemote
@@ -257,9 +257,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:HBim_wOdvcpS4joCBGs7k
+UID:OBqSDddtcG_cxuRQszWCy
 SUMMARY:M - Business strategy  - Day 2 - (PAR-9-1) - (M-TRV-001) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240913T093000Z
 DTEND:20240913T173000Z
 DESCRIPTION:M - Business strategy  - Day 2\nCredits: 2\nTeam: 4 - 5\nRemote
@@ -270,9 +270,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:vgF3fwZ0mcDAQ6s9UoNI3
+UID:w7xY1gRJ00PBxKkc6PbOy
 SUMMARY:M - Contract law - No Project - (PAR-9-1) - (M-TRV-014) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241208T000000Z
 DESCRIPTION:M - Contract law\nCredits: 1\nTeam: 0 - 0\nRemote: false\nProje
@@ -283,9 +283,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:EH-71gfzAbDWVL99e4TSS
+UID:q46toVYvjzeIBZQ813vFl
 SUMMARY:M - Contract law - Day 1 - (PAR-9-1) - (M-TRV-014) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20241205T173000Z
 DESCRIPTION:M - Contract law - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote: fals
@@ -296,9 +296,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:fKLfk0mRbOrTb3w5LBE_9
+UID:xLvlCJKwZ_ToAw9XDpGAT
 SUMMARY:M - Contract law - Day 2 - (PAR-9-1) - (M-TRV-014) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241206T093000Z
 DTEND:20241206T173000Z
 DESCRIPTION:M - Contract law - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote: fals
@@ -309,10 +309,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:v2hJPNG2NzxMaqf1ZHHib
+UID:njdVsfAFZjqs_O6MSqRiH
 SUMMARY:M - Cryptography - Cryptography Project - (PAR-9-1) - (M-SEC-903) -
 	 (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241003T093000Z
 DTEND:20241101T235900Z
 DESCRIPTION:M - Cryptography\nCredits: 4\nTeam: 3 - 3\nRemote: false\nProje
@@ -323,9 +323,9 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-903/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:44fF3khm_fBEYGFfxJ1z2
+UID:tAa7534RoBxlVOEyzAtFK
 SUMMARY:M - Cryptography - Day 1 - (PAR-9-1) - (M-SEC-903) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241003T093000Z
 DTEND:20241003T180000Z
 DESCRIPTION:M - Cryptography - Day 1\nCredits: 4\nTeam: 3 - 3\nRemote: fals
@@ -336,9 +336,9 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-903/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:qHmg-pRrPi4nqu4aZn82p
+UID:NU6q_XsGoc5b3bzTsJ4zp
 SUMMARY:M - Cryptography - Day 2 - (PAR-9-1) - (M-SEC-903) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241004T093000Z
 DTEND:20241004T180000Z
 DESCRIPTION:M - Cryptography - Day 2\nCredits: 4\nTeam: 3 - 3\nRemote: fals
@@ -349,10 +349,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-903/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:U0AOFNdfJIkd-jevm-Za-
+UID:I7VW3KzhI4s4z2DIiZNM2
 SUMMARY:M - Digital Marketing - Digital Marketing - (PAR-9-1) - (M-INT-928)
 	 - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240920T090000Z
 DTEND:20241018T235900Z
 DESCRIPTION:M - Digital Marketing\nCredits: 2\nTeam: 3 - 3\nRemote: true\nP
@@ -363,9 +363,9 @@ URL:https://intra.epitech.eu/module/2024/M-INT-928/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:4ef0M8YRKQDe0C4OPy9XN
+UID:YLWlbCUIJm2dM6lfqKtc5
 SUMMARY:M - Digital Marketing - Day 1 - (PAR-9-1) - (M-INT-928) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T090000Z
 DTEND:20240919T160000Z
 DESCRIPTION:M - Digital Marketing - Day 1\nCredits: 2\nTeam: 3 - 3\nRemote:
@@ -376,9 +376,9 @@ URL:https://intra.epitech.eu/module/2024/M-INT-928/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:He9q-1KzxbDw562TdFzui
+UID:90DeylgP1jZ9QLW6LcmL8
 SUMMARY:M - Digital Marketing - Day 2 - (PAR-9-1) - (M-INT-928) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240920T090000Z
 DTEND:20240920T160000Z
 DESCRIPTION:M - Digital Marketing - Day 2\nCredits: 2\nTeam: 3 - 3\nRemote:
@@ -389,10 +389,10 @@ URL:https://intra.epitech.eu/module/2024/M-INT-928/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:tOrZMwz9VhY3CT3OVM8UF
+UID:Etm90GtZIadm2uPl7yrv4
 SUMMARY:M - Environmental impact of digital technology - Impact environneme
 	ntal du numérique  - Projet - (PAR-9-1) - (M-TRV-902) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250102T093000Z
 DTEND:20250131T235900Z
 DESCRIPTION:M - Environmental impact of digital technology\nCredits: 2\nTea
@@ -404,10 +404,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-902/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:gN3bjqHT7EU84Wqz98WCn
+UID:o_Mns2tTu_CEhg9iENIuR
 SUMMARY:M - Environmental impact of digital technology - Day 1 - (PAR-9-1) 
 	- (M-TRV-902) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250102T093000Z
 DTEND:20250102T173000Z
 DESCRIPTION:M - Environmental impact of digital technology - Day 1\nCredits
@@ -419,10 +419,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-902/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:dMPvnYuOcHW2-rcxaZ-JG
+UID:a3oKW3db6YWve3uRQ3CV0
 SUMMARY:M - Environmental impact of digital technology - Day 2 - (PAR-9-1) 
 	- (M-TRV-902) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250103T093000Z
 DTEND:20250103T173000Z
 DESCRIPTION:M - Environmental impact of digital technology - Day 2\nCredits
@@ -434,10 +434,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-902/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:WIBBPGd-ZBno3aVfPmxfD
+UID:ZBznnGILApgDdiT-TECwT
 SUMMARY:M - Financing and Entrepreneurship  - M - Financing and Entrepreneu
 	rship - (PAR-9-1) - (M-TRV-003) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241107T093000Z
 DTEND:20241206T235900Z
 DESCRIPTION:M - Financing and Entrepreneurship \nCredits: 2\nTeam: 5 - 5\nR
@@ -448,10 +448,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-003/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:xmpAy5ViGFBk7GcYJfQ8h
+UID:lEMD8QJ60jGo9prX8TN9v
 SUMMARY:M - Financing and Entrepreneurship  - Day 1 - (PAR-9-1) - (M-TRV-00
 	3) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241107T093000Z
 DTEND:20241107T173000Z
 DESCRIPTION:M - Financing and Entrepreneurship  - Day 1\nCredits: 2\nTeam: 
@@ -462,10 +462,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-003/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:bf8WBU5v4qy5xExBarT2p
+UID:7_At4Wv2aQpWvE0XQlIl-
 SUMMARY:M - Financing and Entrepreneurship  - Day 2 - (PAR-9-1) - (M-TRV-00
 	3) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241108T093000Z
 DTEND:20241108T173000Z
 DESCRIPTION:M - Financing and Entrepreneurship  - Day 2\nCredits: 2\nTeam: 
@@ -476,10 +476,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-003/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:edw4LjE15XK3XYc4sknWR
+UID:OFGGDMshySEVB2C8mOqTl
 SUMMARY:M - Google ranking competition - SEO from scratch - Google ranking 
 	competition: SEO de A a Z - project - (PAR-9-1) - (M-SEO-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240912T093000Z
 DTEND:20241122T235900Z
 DESCRIPTION:M - Google ranking competition - SEO from scratch\nCredits: 5\n
@@ -491,10 +491,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:9QhlhYP2HbxrnAqV7NcqV
+UID:LSD77q-dn5US-y-jnu6F8
 SUMMARY:M - Google ranking competition - SEO from scratch - Day 1 - (PAR-9-
 	1) - (M-SEO-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240912T093000Z
 DTEND:20240912T173000Z
 DESCRIPTION:M - Google ranking competition - SEO from scratch - Day 1\nCred
@@ -506,10 +506,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:F7_3EEo7zxDN0DYyb7iYS
+UID:3lPEYI2Y65ZS1BrWv3tze
 SUMMARY:M - Google ranking competition - SEO from scratch - Day 2 - (PAR-9-
 	1) - (M-SEO-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240913T093000Z
 DTEND:20240913T173000Z
 DESCRIPTION:M - Google ranking competition - SEO from scratch - Day 2\nCred
@@ -521,10 +521,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:Jj6NbteDiHKT86qS05IF0
+UID:bj7rLvA6sHe7o_dIa4FRq
 SUMMARY:M - Google ranking competition - SEO from scratch - Day 3 - (PAR-9-
 	1) - (M-SEO-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240914T093000Z
 DTEND:20240914T173000Z
 DESCRIPTION:M - Google ranking competition - SEO from scratch - Day 3\nCred
@@ -536,10 +536,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEO-900/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:BKt7bKwDHCkxStZjHUlQ7
+UID:NoiKDctkslLN-sYUBcLZL
 SUMMARY:M - Governance of Information Systems - Gouvernances des SI - proje
 	t - (PAR-9-1) - (M-MGT-904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T093000Z
 DTEND:20241018T235900Z
 DESCRIPTION:M - Governance of Information Systems\nCredits: 2\nTeam: 4 - 5\
@@ -550,10 +550,10 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:dCUD96ste4wqJZIhaXNdm
+UID:nkjNtp-aWBHmUHCYNir0S
 SUMMARY:M - Governance of Information Systems - Day 1 - (PAR-9-1) - (M-MGT-
 	904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T093000Z
 DTEND:20240919T173000Z
 DESCRIPTION:M - Governance of Information Systems - Day 1\nCredits: 2\nTeam
@@ -564,10 +564,10 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:d57re4i8SlWMA_CXwQX6k
+UID:I0xKQCqX9JaBCgUIwqsrT
 SUMMARY:M - Governance of Information Systems - Day 2 - (PAR-9-1) - (M-MGT-
 	904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240920T093000Z
 DTEND:20240920T173000Z
 DESCRIPTION:M - Governance of Information Systems - Day 2\nCredits: 2\nTeam
@@ -578,10 +578,10 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:1WUVhJBb0Ym7cSuOkX-Ta
+UID:Y0hiyE9GZYwFHY31Br0In
 SUMMARY:M - How to find a job abroad - No Project - (PAR-9-1) - (M-PRO-906)
 	 - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241215T000000Z
 DESCRIPTION:M - How to find a job abroad\nCredits: 1\nTeam: 0 - 0\nRemote: 
@@ -592,10 +592,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-906/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:h6eoThKUqmfEcTfdTDnxe
+UID:F_kKbjbn8UiYm326u9KLW
 SUMMARY:M - How to find a job abroad - Day 1 - (PAR-9-1) - (M-PRO-906) - (2
 	5)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241212T093000Z
 DTEND:20241212T173000Z
 DESCRIPTION:M - How to find a job abroad - Day 1\nCredits: 1\nTeam: 0 - 0\n
@@ -606,10 +606,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-906/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:z2v8K9vZU0MfiQogTgivP
+UID:KIL9zPnzwpywzMTS0N-2A
 SUMMARY:M - How to find a job abroad - Day 2 - (PAR-9-1) - (M-PRO-906) - (2
 	5)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241213T093000Z
 DTEND:20241213T173000Z
 DESCRIPTION:M - How to find a job abroad - Day 2\nCredits: 1\nTeam: 0 - 0\n
@@ -620,11 +620,11 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-906/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:DpcXvUSHzaL_0ggNBJv0A
+UID:rx2wqZVVhnJ-Jpc1_QjXI
 SUMMARY:M - Incident Management & Resolution Methodologies - M - Gestion de
 	s incidents et méthodologies de résolution - projet - (PAR-9-1) - (M-TRV-9
 	08) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240912T093000Z
 DTEND:20241011T235900Z
 DESCRIPTION:M - Incident Management & Resolution Methodologies\nCredits: 2\
@@ -636,10 +636,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:-rx4hldtVB8U1IIysejSv
+UID:dqe_9hFjLZGxXfZq0WeKL
 SUMMARY:M - Incident Management & Resolution Methodologies - Day 1 - (PAR-9
 	-1) - (M-TRV-908) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240912T100000Z
 DTEND:20240912T180000Z
 DESCRIPTION:M - Incident Management & Resolution Methodologies - Day 1\nCre
@@ -651,10 +651,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:ZbI26hETwZ-tST9JgDLfY
+UID:yTuMQBiIi6bDyousSg5By
 SUMMARY:M - Incident Management & Resolution Methodologies - Day 2 - (PAR-9
 	-1) - (M-TRV-908) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240913T100000Z
 DTEND:20240913T180000Z
 DESCRIPTION:M - Incident Management & Resolution Methodologies - Day 2\nCre
@@ -666,10 +666,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:oE90RW4iNSL9sRrMwKgya
+UID:kxX6ljWjbW58pHxWPFk6c
 SUMMARY:M - Innovative management - No Project - (PAR-9-1) - (M-MGT-905) - 
 	(25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241013T000000Z
 DESCRIPTION:M - Innovative management\nCredits: 2\nTeam: 0 - 0\nRemote: tru
@@ -680,9 +680,9 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:xFr8GCW3s6LN05Er8NuZv
+UID:QrwA6dAOSi3-Qvilj4Mcm
 SUMMARY:M - Innovative management - Day 1 - (PAR-9-1) - (M-MGT-905) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T093000Z
 DTEND:20241010T173000Z
 DESCRIPTION:M - Innovative management - Day 1\nCredits: 2\nTeam: 0 - 0\nRem
@@ -693,9 +693,9 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:OHX_0YtVGjNipkKhvQQ9T
+UID:4sz0gUEnqOloPLTuEVnYk
 SUMMARY:M - Innovative management - Day 2 - (PAR-9-1) - (M-MGT-905) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241011T093000Z
 DTEND:20241011T173000Z
 DESCRIPTION:M - Innovative management - Day 2\nCredits: 2\nTeam: 0 - 0\nRem
@@ -706,9 +706,9 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:j2GHxwyM-lbGye3FlysIG
+UID:-CR1vBCPvLJ289s3Vh1nx
 SUMMARY:M - Innovative management - Day 3 - (PAR-9-1) - (M-MGT-905) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241012T093000Z
 DTEND:20241012T173000Z
 DESCRIPTION:M - Innovative management - Day 3\nCredits: 2\nTeam: 0 - 0\nRem
@@ -719,10 +719,10 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:gUIxFg6VxuWi16WKMse9D
+UID:lIFD51EJTGe8r1JHVDXbJ
 SUMMARY:M - Intercultural Communication Skills - Intercultural Communicatio
 	n Skills - (PAR-9-1) - (M-INT-927) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240912T093000Z
 DTEND:20241011T235900Z
 DESCRIPTION:M - Intercultural Communication Skills\nCredits: 2\nTeam: 3 - 3
@@ -733,10 +733,10 @@ URL:https://intra.epitech.eu/module/2024/M-INT-927/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:BAoTaJlSOA9T15Q9omhqO
+UID:LDhOact4Zr9HV3RyQ9-G7
 SUMMARY:M - Intercultural Communication Skills - Day 1 - (PAR-9-1) - (M-INT
 	-927) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240912T090000Z
 DTEND:20240912T160000Z
 DESCRIPTION:M - Intercultural Communication Skills - Day 1\nCredits: 2\nTea
@@ -747,10 +747,10 @@ URL:https://intra.epitech.eu/module/2024/M-INT-927/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:AeuB5OcNYpKo1fqOjxYYU
+UID:gI4w_MnM_k6VEVdy6AtDP
 SUMMARY:M - Intercultural Communication Skills - Day 2 - (PAR-9-1) - (M-INT
 	-927) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240913T090000Z
 DTEND:20240913T160000Z
 DESCRIPTION:M - Intercultural Communication Skills - Day 2\nCredits: 2\nTea
@@ -761,9 +761,9 @@ URL:https://intra.epitech.eu/module/2024/M-INT-927/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:j99PiJ1vCGQBLDJsxlhE9
+UID:zK4mxCczNnTGZKOoJSBlS
 SUMMARY:M - IoT - IoT Solution - (PAR-9-1) - (M-IOT-200) - (40)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T093000Z
 DTEND:20241115T235900Z
 DESCRIPTION:M - IoT\nCredits: 5\nTeam: 2 - 2\nRemote: false\nProject: IoT S
@@ -774,9 +774,9 @@ URL:https://intra.epitech.eu/module/2024/M-IOT-200/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:EdniVh70mgG32M-mTFOGU
+UID:l913ZCnTa1pupfItiT2ln
 SUMMARY:M - IoT - Day 1 - (PAR-9-1) - (M-IOT-200) - (40)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T093000Z
 DTEND:20240919T180000Z
 DESCRIPTION:M - IoT - Day 1\nCredits: 5\nTeam: 2 - 2\nRemote: false\nProjec
@@ -787,9 +787,9 @@ URL:https://intra.epitech.eu/module/2024/M-IOT-200/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:ogh67GcoI-4TuSz8LOUZv
+UID:t0GjVFYy5wmCyRtjif0XA
 SUMMARY:M - IoT - Day 2 - (PAR-9-1) - (M-IOT-200) - (40)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240920T093000Z
 DTEND:20240920T180000Z
 DESCRIPTION:M - IoT - Day 2\nCredits: 5\nTeam: 2 - 2\nRemote: false\nProjec
@@ -800,10 +800,10 @@ URL:https://intra.epitech.eu/module/2024/M-IOT-200/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:BmXTvRYR3_KTfZINyv9m6
+UID:bgoCd4PlunuPPHSkViCX6
 SUMMARY:M - Machine Learning – Supervised Learning - Machine Learning – Sup
 	ervised Learning - Project - (PAR-9-1) - (M-MLR-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T100000Z
 DTEND:20241110T235900Z
 DESCRIPTION:M - Machine Learning – Supervised Learning\nCredits: 4\nTeam: 2
@@ -815,10 +815,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:LU9USRwYPJGPCYECGHZkW
+UID:82ONTAmk3_YFVaaWrdS9n
 SUMMARY:M - Machine Learning – Supervised Learning - Day 1 - (PAR-9-1) - (M
 	-MLR-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T100000Z
 DTEND:20241010T180000Z
 DESCRIPTION:M - Machine Learning – Supervised Learning - Day 1\nCredits: 4\
@@ -830,10 +830,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:l15C6tOCEG52-OJPJ9Xdp
+UID:FUnJr2FZ5ZVYbrtytZhRH
 SUMMARY:M - Machine Learning – Supervised Learning - Day 2 - (PAR-9-1) - (M
 	-MLR-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241011T100000Z
 DTEND:20241011T180000Z
 DESCRIPTION:M - Machine Learning – Supervised Learning - Day 2\nCredits: 4\
@@ -845,11 +845,11 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:Haxvsd6y_nTBBQdyhY8_e
+UID:RV9t152aklPYWIyjlvcN0
 SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Machine L
 	earning – Unsupervised Learning and Agents - Project - (PAR-9-1) - (M-MLR-
 	901) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250102T100000Z
 DTEND:20250209T235900Z
 DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents\nCredit
@@ -861,10 +861,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:GWc39-7ObCaCHEerg1OXI
+UID:wboImCS0lOiLhOB0i2NZk
 SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Day 1 - (
 	PAR-9-1) - (M-MLR-901) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250102T100000Z
 DTEND:20250102T180000Z
 DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents - Day 1
@@ -876,10 +876,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:_RrK7q7EkAuDFrEmP7mc7
+UID:h8nN_5XG9D5Hugzew6apn
 SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Day 2 - (
 	PAR-9-1) - (M-MLR-901) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250103T100000Z
 DTEND:20250103T180000Z
 DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents - Day 2
@@ -891,10 +891,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:N6ySdOSMYhWG7U533Fkyr
+UID:lKqAkI7dbTAROtlIUE_Jp
 SUMMARY:M - Management of Innovation - Monter un "Dossier Innovation" - (PA
 	R-9-1) - (M-PRO-001) - (30)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241003T093000Z
 DTEND:20241101T235900Z
 DESCRIPTION:M - Management of Innovation\nCredits: 3\nTeam: 5 - 6\nRemote: 
@@ -905,10 +905,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:GCuAwj7rDgFwClkJeIjuP
+UID:MOErZQzCMHZTEZokuDWlD
 SUMMARY:M - Management of Innovation - Day 1 - (PAR-9-1) - (M-PRO-001) - (3
 	0)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241003T093000Z
 DTEND:20241003T173000Z
 DESCRIPTION:M - Management of Innovation - Day 1\nCredits: 3\nTeam: 5 - 6\n
@@ -919,10 +919,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:zC3SUMEvKXq3X8R3-lWbZ
+UID:5rD0eGWKq4sVAOZ8fWetU
 SUMMARY:M - Management of Innovation - Day 2 - (PAR-9-1) - (M-PRO-001) - (3
 	0)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241004T093000Z
 DTEND:20241004T173000Z
 DESCRIPTION:M - Management of Innovation - Day 2\nCredits: 3\nTeam: 5 - 6\n
@@ -933,10 +933,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:-u2kg1pFbrW5DHg0MygLl
+UID:bd7RGPl8pIGuT5o2fwp4K
 SUMMARY:M - Marketing - M - Marketing - Final Project - (PAR-9-1) - (M-TRV-
 	002) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20250110T235900Z
 DESCRIPTION:M - Marketing\nCredits: 2\nTeam: 4 - 5\nRemote: false\nProject:
@@ -947,9 +947,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-002/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:dScWsAleRLKSA0VGtMT67
+UID:obcJVihsZ3d3tnDTEgR-O
 SUMMARY:M - Marketing - Day 1 - (PAR-9-1) - (M-TRV-002) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20241205T173000Z
 DESCRIPTION:M - Marketing - Day 1\nCredits: 2\nTeam: 4 - 5\nRemote: false\n
@@ -960,9 +960,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-002/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
 END:VEVENT
 BEGIN:VEVENT
-UID:MGTtLP2wCau4eNw85hrg6
+UID:W5IHaxX7povYUfB9nXCL4
 SUMMARY:M - Marketing - Day 2 - (PAR-9-1) - (M-TRV-002) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241206T093000Z
 DTEND:20241206T173000Z
 DESCRIPTION:M - Marketing - Day 2\nCredits: 2\nTeam: 4 - 5\nRemote: false\n
@@ -973,9 +973,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-002/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Star-Wars
 END:VEVENT
 BEGIN:VEVENT
-UID:yAA73ywxw3ZLolbj9E3Eh
+UID:pKk6kRq0WMzkiwf8Y4D3g
 SUMMARY:M - Negotiation - No Project - (PAR-9-1) - (M-PRO-004) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241110T000000Z
 DESCRIPTION:M - Negotiation\nCredits: 1\nTeam: 0 - 0\nRemote: false\nProjec
@@ -986,9 +986,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:dQWrHbaSKT-gi79DzKcrF
+UID:pnVMwcAkPUvBWi2gG0U0E
 SUMMARY:M - Negotiation - Day 1 - AM - (PAR-9-1) - (M-PRO-004) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241107T093000Z
 DTEND:20241107T173000Z
 DESCRIPTION:M - Negotiation - Day 1 - AM\nCredits: 1\nTeam: 0 - 0\nRemote: 
@@ -999,9 +999,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
 END:VEVENT
 BEGIN:VEVENT
-UID:gRtz9JIiIBkiD3f2TmGDt
+UID:waHz6alBkKfkCEXq1VmB4
 SUMMARY:M - Negotiation - Day 2 - AM - (PAR-9-1) - (M-PRO-004) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241108T093000Z
 DTEND:20241108T173000Z
 DESCRIPTION:M - Negotiation - Day 2 - AM\nCredits: 1\nTeam: 0 - 0\nRemote: 
@@ -1012,10 +1012,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
 END:VEVENT
 BEGIN:VEVENT
-UID:fYYDLPtI9GxeYpa1sthP6
+UID:FSlFtyXy2lGH8UowYu7l5
 SUMMARY:M - Offensive Security and exploitation - Offensive Security and Ex
 	ploitation - Project - (PAR-9-1) - (M-SEC-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241128T093000Z
 DTEND:20250103T235900Z
 DESCRIPTION:M - Offensive Security and exploitation\nCredits: 2\nTeam: 3 - 
@@ -1027,10 +1027,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:WUqx4q-pbd_KidduaOczh
+UID:WCFXJ9Y-1quhPIom0CR0A
 SUMMARY:M - Offensive Security and exploitation - Day 1 - (PAR-9-1) - (M-SE
 	C-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241128T093000Z
 DTEND:20241128T180000Z
 DESCRIPTION:M - Offensive Security and exploitation - Day 1\nCredits: 2\nTe
@@ -1042,10 +1042,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:BbsBylFMtaQg-6oqIZXyw
+UID:qYopU1q899FlQHpsIJZaw
 SUMMARY:M - Offensive Security and exploitation - Day 2 - (PAR-9-1) - (M-SE
 	C-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241129T093000Z
 DTEND:20241129T180000Z
 DESCRIPTION:M - Offensive Security and exploitation - Day 2\nCredits: 2\nTe
@@ -1057,10 +1057,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:OvQKhEpd9ObVoA8vum2_v
+UID:wcoD0HwR2aGjTNUf-XZWO
 SUMMARY:M - Progressive Web Apps - Progressive Web Apps Project - (PAR-9-1)
 	 - (M-WEB-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T093000Z
 DTEND:20241206T234200Z
 DESCRIPTION:M - Progressive Web Apps\nCredits: 4\nTeam: 3 - 4\nRemote: fals
@@ -1071,9 +1071,9 @@ URL:https://intra.epitech.eu/module/2024/M-WEB-902/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:pQdzC6z73ZE16qTMVepD0
+UID:fjZkjegqPTUEGQPxrN0yS
 SUMMARY:M - Progressive Web Apps - Day 1 - (PAR-9-1) - (M-WEB-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T093000Z
 DTEND:20241010T180000Z
 DESCRIPTION:M - Progressive Web Apps - Day 1\nCredits: 4\nTeam: 3 - 4\nRemo
@@ -1084,9 +1084,9 @@ URL:https://intra.epitech.eu/module/2024/M-WEB-902/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:KO3FZ1C-01FyEweehlnMq
+UID:gLByYlMg4DGD-DjABO7kK
 SUMMARY:M - Progressive Web Apps - Day 2 - (PAR-9-1) - (M-WEB-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241011T093000Z
 DTEND:20241011T180000Z
 DESCRIPTION:M - Progressive Web Apps - Day 2\nCredits: 4\nTeam: 3 - 4\nRemo
@@ -1097,10 +1097,10 @@ URL:https://intra.epitech.eu/module/2024/M-WEB-902/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:Q5ABepobkGLkyHcr7BosW
+UID:oSreevAwZjdOWaisSSsFZ
 SUMMARY:M - Reverse Engineering & Cracking II - Reverse Engineering & Crack
 	ing II Project - (PAR-9-1) - (M-SEC-904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241212T093000Z
 DTEND:20250117T235900Z
 DESCRIPTION:M - Reverse Engineering & Cracking II\nCredits: 4\nTeam: 3 - 3\
@@ -1111,10 +1111,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-904/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:IodgXY92qsqYYk-l2jgwW
+UID:vl5BdyzABayXollFsBdBS
 SUMMARY:M - Reverse Engineering & Cracking II - Day 1 - (PAR-9-1) - (M-SEC-
 	904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241212T093000Z
 DTEND:20241212T180000Z
 DESCRIPTION:M - Reverse Engineering & Cracking II - Day 1\nCredits: 4\nTeam
@@ -1126,10 +1126,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-904/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:EoS4i5pSlwg4DiyyShBaN
+UID:o0SQL_G9k-7w3byE9S6NZ
 SUMMARY:M - Reverse Engineering & Cracking II - Day 2 - (PAR-9-1) - (M-SEC-
 	904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241213T093000Z
 DTEND:20241213T180000Z
 DESCRIPTION:M - Reverse Engineering & Cracking II - Day 2\nCredits: 4\nTeam
@@ -1141,10 +1141,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-904/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:FMQS8MFDKnKOkHkJe2BnB
+UID:Lym0Mp-naBusc8bAS0I63
 SUMMARY:M - The keys to project framework level II - M- The keys to project
 	 framing level II - project - (PAR-9-1) - (M-PRO-904) - (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20250110T235900Z
 DESCRIPTION:M - The keys to project framework level II\nCredits: 2\nTeam: 4
@@ -1156,10 +1156,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:L9iZOzkr-xRKJ2ZCaqdYz
+UID:qjmjCdCJGFHSyZURp-5J3
 SUMMARY:M - The keys to project framework level II - Day 1 - (PAR-9-1) - (M
 	-PRO-904) - (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20241205T173000Z
 DESCRIPTION:M - The keys to project framework level II - Day 1\nCredits: 2\
@@ -1171,10 +1171,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:Z_07qnqfzbeyE9Gyq8jT0
+UID:P0fa2pWC5lK9Y3WCozPVV
 SUMMARY:M - The keys to project framework level II - Day 2 - (PAR-9-1) - (M
 	-PRO-904) - (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241206T093000Z
 DTEND:20241206T173000Z
 DESCRIPTION:M - The keys to project framework level II - Day 2\nCredits: 2\
@@ -1186,10 +1186,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:64tB3_8qpEyMUxUKojjKa
+UID:L6-YaCcSVxQpd8Zvz1TRJ
 SUMMARY:M - The keys to project framing - M - The keys to project framing l
 	evel I - project - (PAR-9-1) - (M-PRO-902) - (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T093000Z
 DTEND:20241018T235900Z
 DESCRIPTION:M - The keys to project framing\nCredits: 2\nTeam: 4 - 6\nRemot
@@ -1200,10 +1200,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-902/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:0mCTrOy1LR21_jecP5Vit
+UID:8AF0Gz9cT6USsdvDyAond
 SUMMARY:M - The keys to project framing - Day 1 - (PAR-9-1) - (M-PRO-902) -
 	 (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240919T093000Z
 DTEND:20240919T173000Z
 DESCRIPTION:M - The keys to project framing - Day 1\nCredits: 2\nTeam: 4 - 
@@ -1215,10 +1215,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-902/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:J_tI5rxTjB511ZonqmPBw
+UID:awFfTUVyhj5Ns2t0fwqPW
 SUMMARY:M - The keys to project framing - Day 2 - (PAR-9-1) - (M-PRO-902) -
 	 (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240920T093000Z
 DTEND:20240920T173000Z
 DESCRIPTION:M - The keys to project framing - Day 2\nCredits: 2\nTeam: 4 - 
@@ -1230,10 +1230,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-902/PAR-9-1/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:50KRBOpx7s7s4Y8eUJL1K
+UID:qasgWx9CoE1JDYsqwCzWA
 SUMMARY:M - The leadership toolbox - No Project - (PAR-9-1) - (M-MNG-900) -
 	 (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241117T000000Z
 DESCRIPTION:M - The leadership toolbox\nCredits: 1\nTeam: 0 - 0\nRemote: tr
@@ -1244,10 +1244,10 @@ URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:fIcmWY3qkj4qh5nImbqNG
+UID:qbM0h53WqXAKGHPHHRRDy
 SUMMARY:M - The leadership toolbox - Day 1 - AM - (PAR-9-1) - (M-MNG-900) -
 	 (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241114T093000Z
 DTEND:20241114T173000Z
 DESCRIPTION:M - The leadership toolbox - Day 1 - AM\nCredits: 1\nTeam: 0 - 
@@ -1258,10 +1258,10 @@ URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:8AOmWbVNBSkfaYCJoUZXR
+UID:Y9ZJh31Bl6kl4V1zGB6WJ
 SUMMARY:M - The leadership toolbox - Day 2 - AM - (PAR-9-1) - (M-MNG-900) -
 	 (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241115T093000Z
 DTEND:20241115T173000Z
 DESCRIPTION:M - The leadership toolbox - Day 2 - AM\nCredits: 1\nTeam: 0 - 
@@ -1272,10 +1272,10 @@ URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:mRZlqD_Rg-5-yQM8XaU7f
+UID:2xQglJQIV96XQs-zTfb-8
 SUMMARY:M - Unreal Engine 5 - Racing Pod C++ - Unreal Engine 5 - Racing Pod
 	 C++ - Project - (PAR-9-1) - (M-GAM-908) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20250110T235900Z
 DESCRIPTION:M - Unreal Engine 5 - Racing Pod C++\nCredits: 4\nTeam: 3 - 4\n
@@ -1286,10 +1286,10 @@ URL:https://intra.epitech.eu/module/2024/M-GAM-908/PAR-9-1/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:GxxrQE49TPplGkDpUSCFW
+UID:PI-c-XZtQhni_7OUNKPYm
 SUMMARY:M - Unreal Engine 5 - Racing Pod C++ - Day 1 - (PAR-9-1) - (M-GAM-9
 	08) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20241205T180000Z
 DESCRIPTION:M - Unreal Engine 5 - Racing Pod C++ - Day 1\nCredits: 4\nTeam:
@@ -1301,10 +1301,10 @@ URL:https://intra.epitech.eu/module/2024/M-GAM-908/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:M5Icn2xXzMgyllkBEMq6H
+UID:HAYuNMrngvnIJ9EPsSQvp
 SUMMARY:M - Unreal Engine 5 - Racing Pod C++ - Day 2 - (PAR-9-1) - (M-GAM-9
 	08) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241206T093000Z
 DTEND:20241206T180000Z
 DESCRIPTION:M - Unreal Engine 5 - Racing Pod C++ - Day 2\nCredits: 4\nTeam:
@@ -1316,10 +1316,10 @@ URL:https://intra.epitech.eu/module/2024/M-GAM-908/PAR-9-1/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:z2SJzdV-IhnQoixNkiXi7
+UID:W0qpBoZA9WeXlinG0PCC8
 SUMMARY:M - Blockchain - Blockchain Project - (PAR-9-2) - (M-BKC-900) - (55
 	)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T093000Z
 DTEND:20250307T235900Z
 DESCRIPTION:M - Blockchain\nCredits: 3\nTeam: 4 - 4\nRemote: true\nProject:
@@ -1330,9 +1330,9 @@ URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:qCxHjGNTZVCRN8kUQ6Ex3
+UID:2b5pAeIYs7hkeZ-8lyKqM
 SUMMARY:M - Blockchain - Day 1 - (PAR-9-2) - (M-BKC-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T093000Z
 DTEND:20250130T180000Z
 DESCRIPTION:M - Blockchain - Day 1\nCredits: 3\nTeam: 4 - 4\nRemote: true\n
@@ -1343,9 +1343,9 @@ URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:3j_D0b8fIu2387_7SPSCM
+UID:GsQu2QPgZ0ik7trhOnlQh
 SUMMARY:M - Blockchain - Day 2 - (PAR-9-2) - (M-BKC-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250131T093000Z
 DTEND:20250131T180000Z
 DESCRIPTION:M - Blockchain - Day 2\nCredits: 3\nTeam: 4 - 4\nRemote: true\n
@@ -1356,9 +1356,9 @@ URL:https://intra.epitech.eu/module/2024/M-BKC-900/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:PsSU31rMSCWFxQt4Ud1L0
+UID:W0GuXO5SccUhUfwX6EQhZ
 SUMMARY:M - Boost your career - No Project - (PAR-9-2) - (M-PRO-060) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241201T000000Z
 DESCRIPTION:M - Boost your career\nCredits: 1\nTeam: 0 - 0\nRemote: true\nP
@@ -1369,9 +1369,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:ViiyItR-YY6jXqMl6h9Gz
+UID:ZA75O3GqCRyy3pqS7Olvg
 SUMMARY:M - Boost your career - Day 1 - (PAR-9-2) - (M-PRO-060) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241128T093000Z
 DTEND:20241128T173000Z
 DESCRIPTION:M - Boost your career - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote:
@@ -1382,9 +1382,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:voekRXIbRcmS5hC2icuUv
+UID:7ezMKOctY580aogtbkCJZ
 SUMMARY:M - Boost your career - Day 2 - (PAR-9-2) - (M-PRO-060) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241129T093000Z
 DTEND:20241129T173000Z
 DESCRIPTION:M - Boost your career - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote:
@@ -1395,10 +1395,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-060/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:6bBc1PG-tY9WWpleu9Qf6
+UID:Cdw7LFjQqRWXe6Ml2gxOj
 SUMMARY:M - Business influence strategy - No Project - (PAR-9-2) - (M-TRV-9
 	10) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20250302T000000Z
 DESCRIPTION:M - Business influence strategy\nCredits: 2\nTeam: 0 - 0\nRemot
@@ -1409,10 +1409,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:GYzc7rSJSFMTcG112Yfja
+UID:y55PGr7FFbR1THLXs-Qs2
 SUMMARY:M - Business influence strategy - Day 1 - (PAR-9-2) - (M-TRV-910) -
 	 (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250227T093000Z
 DTEND:20250227T173000Z
 DESCRIPTION:M - Business influence strategy - Day 1\nCredits: 2\nTeam: 0 - 
@@ -1423,10 +1423,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:IgcVuUdcxkqWPqnwjs5_h
+UID:D3qxlXFEsUnHNOkRvK3fA
 SUMMARY:M - Business influence strategy - Day 2 - (PAR-9-2) - (M-TRV-910) -
 	 (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250228T093000Z
 DTEND:20250228T173000Z
 DESCRIPTION:M - Business influence strategy - Day 2\nCredits: 2\nTeam: 0 - 
@@ -1437,10 +1437,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:wN_HQIW0pkPkIvVOS14u_
+UID:IfQ64IFAQMuRqDOFugUVn
 SUMMARY:M - Business influence strategy - Day 3 - (PAR-9-2) - (M-TRV-910) -
 	 (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250301T093000Z
 DTEND:20250301T173000Z
 DESCRIPTION:M - Business influence strategy - Day 3\nCredits: 2\nTeam: 0 - 
@@ -1451,10 +1451,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-910/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:Y5alybZ0-xv2GH-FZlANA
+UID:0p5w5ewQxBuR9JkcoJSw-
 SUMMARY:M - Business strategy  - M - Strategy - project - (PAR-9-2) - (M-TR
 	V-001) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T093000Z
 DTEND:20241108T235900Z
 DESCRIPTION:M - Business strategy \nCredits: 2\nTeam: 4 - 5\nRemote: true\n
@@ -1465,9 +1465,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:Yhi9DLlLOcE4JDS-Zn_dX
+UID:BYc7yLu-Sys9maZvt5Uaz
 SUMMARY:M - Business strategy  - Day 1 - (PAR-9-2) - (M-TRV-001) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241010T093000Z
 DTEND:20241010T173000Z
 DESCRIPTION:M - Business strategy  - Day 1\nCredits: 2\nTeam: 4 - 5\nRemote
@@ -1478,9 +1478,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:2YDsobKmMF4ddkhjr1Gdg
+UID:SvwYwbyZ2XjeGY8ooY7IY
 SUMMARY:M - Business strategy  - Day 2 - (PAR-9-2) - (M-TRV-001) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241011T093000Z
 DTEND:20241011T173000Z
 DESCRIPTION:M - Business strategy  - Day 2\nCredits: 2\nTeam: 4 - 5\nRemote
@@ -1491,10 +1491,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-001/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:hZVcSLsh9Gm7ZjQWsBBwU
+UID:pbo-QlLYDGJeDvVX5k6Ts
 SUMMARY:M - Come and build your start-up project - M - Come build your star
 	t-up project  - (PAR-9-2) - (M-PRO-900) - (30)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250220T093000Z
 DTEND:20250328T235900Z
 DESCRIPTION:M - Come and build your start-up project\nCredits: 2\nTeam: 4 -
@@ -1505,10 +1505,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-900/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:iSFnpbSRqvC3kXu5RQ-3j
+UID:lLRTfbTJB65qGO7j0vS-A
 SUMMARY:M - Come and build your start-up project - Day 1 - AM - (PAR-9-2) -
 	 (M-PRO-900) - (30)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250220T093000Z
 DTEND:20250220T173000Z
 DESCRIPTION:M - Come and build your start-up project - Day 1 - AM\nCredits:
@@ -1520,10 +1520,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-900/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:ZGwkS4ZYOBIGEI_pRzJlB
+UID:0P5x3o4PP-XAgUNAluhhX
 SUMMARY:M - Come and build your start-up project - Day 2 - AM - (PAR-9-2) -
 	 (M-PRO-900) - (30)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250221T093000Z
 DTEND:20250221T173000Z
 DESCRIPTION:M - Come and build your start-up project - Day 2 - AM\nCredits:
@@ -1535,9 +1535,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-900/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:UGZy-le16-oBDVMuPnQLb
+UID:T2CD05rIvGDIzoyyw9ou3
 SUMMARY:M - Contract law - No Project - (PAR-9-2) - (M-TRV-014) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20250119T000000Z
 DESCRIPTION:M - Contract law\nCredits: 1\nTeam: 0 - 0\nRemote: true\nProjec
@@ -1548,9 +1548,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:dxhBnrx9Iqjh198tlc0Vd
+UID:1igTIMia3Pg17EnNZBUbM
 SUMMARY:M - Contract law - Day 1 - (PAR-9-2) - (M-TRV-014) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250116T093000Z
 DTEND:20250116T173000Z
 DESCRIPTION:M - Contract law - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote: true
@@ -1561,9 +1561,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:GpLk4UgucMFd7Zink0bqC
+UID:jvvIeOEh8FcbczgpccAGt
 SUMMARY:M - Contract law - Day 2 - (PAR-9-2) - (M-TRV-014) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250117T093000Z
 DTEND:20250117T173000Z
 DESCRIPTION:M - Contract law - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote: true
@@ -1574,11 +1574,11 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-014/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:6c3KmJBRvqbwk_upI6c6t
+UID:kgygO1VEjYXFtkWwrFSB-
 SUMMARY:M - Disaster Recovery Plan and Business Continuity Plan - Plan de R
 	eprise d’Activite et Plan de Continuite d’Activite - Projet - (PAR-9-2) - 
 	(M-PCA-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250131T093000Z
 DTEND:20250228T235900Z
 DESCRIPTION:M - Disaster Recovery Plan and Business Continuity Plan\nCredit
@@ -1590,10 +1590,10 @@ URL:https://intra.epitech.eu/module/2024/M-PCA-900/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:cXk6MnRFUqndW7Y89GYDZ
+UID:omNvrtdF6B_Vj1RoO7UDD
 SUMMARY:M - Disaster Recovery Plan and Business Continuity Plan - Day 1 - (
 	PAR-9-2) - (M-PCA-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T093000Z
 DTEND:20250130T173000Z
 DESCRIPTION:M - Disaster Recovery Plan and Business Continuity Plan - Day 1
@@ -1605,10 +1605,10 @@ URL:https://intra.epitech.eu/module/2024/M-PCA-900/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:bPZOXhF4sDalJ9yyGE6wc
+UID:rHHv7XH7joqkbP9L8kJjC
 SUMMARY:M - Disaster Recovery Plan and Business Continuity Plan - Day 2 - (
 	PAR-9-2) - (M-PCA-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250131T093000Z
 DTEND:20250131T173000Z
 DESCRIPTION:M - Disaster Recovery Plan and Business Continuity Plan - Day 2
@@ -1620,10 +1620,10 @@ URL:https://intra.epitech.eu/module/2024/M-PCA-900/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:i1h2s6Mni0w9zEVIHr5-6
+UID:RAuqRlnVTxxnJTBSfx_5n
 SUMMARY:M - General Data Protection Regulation (GDPR) - RGPD - projet - (PA
 	R-9-2) - (M-TRV-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241107T093000Z
 DTEND:20241208T235900Z
 DESCRIPTION:M - General Data Protection Regulation (GDPR)\nCredits: 2\nTeam
@@ -1634,10 +1634,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-905/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:c0LCqx13icGilpuQVFZkp
+UID:728aFtSV1Ll1hc-Qpb_or
 SUMMARY:M - General Data Protection Regulation (GDPR) - Day 1 - (PAR-9-2) -
 	 (M-TRV-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241107T093000Z
 DTEND:20241107T173000Z
 DESCRIPTION:M - General Data Protection Regulation (GDPR) - Day 1\nCredits:
@@ -1648,10 +1648,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-905/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:bSf8zjAU1-UxpxeEwTd1w
+UID:83zavRDX1rjwp63krXMMb
 SUMMARY:M - General Data Protection Regulation (GDPR) - Day 2 - (PAR-9-2) -
 	 (M-TRV-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241108T093000Z
 DTEND:20241108T173000Z
 DESCRIPTION:M - General Data Protection Regulation (GDPR) - Day 2\nCredits:
@@ -1662,10 +1662,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-905/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:yiei_VTcShTMbqAAOV7Qn
+UID:f4-kG2XFlXgPa4VCLynTn
 SUMMARY:M - Governance of Information Systems - Gouvernances des SI - proje
 	t - (PAR-9-2) - (M-MGT-904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250116T093000Z
 DTEND:20250214T235900Z
 DESCRIPTION:M - Governance of Information Systems\nCredits: 2\nTeam: 4 - 5\
@@ -1676,10 +1676,10 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:HSJ7uT9bM-6w8ul-PlteT
+UID:6vHnFl9W8X5H4wPdIYdYs
 SUMMARY:M - Governance of Information Systems - Day 1 - (PAR-9-2) - (M-MGT-
 	904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250116T093000Z
 DTEND:20250116T173000Z
 DESCRIPTION:M - Governance of Information Systems - Day 1\nCredits: 2\nTeam
@@ -1690,10 +1690,10 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:IExCXcxIjMyrIWb58F1di
+UID:Ako2Evu8AM66EZEJ0fJqK
 SUMMARY:M - Governance of Information Systems - Day 2 - (PAR-9-2) - (M-MGT-
 	904) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250117T093000Z
 DTEND:20250117T173000Z
 DESCRIPTION:M - Governance of Information Systems - Day 2\nCredits: 2\nTeam
@@ -1704,10 +1704,10 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-904/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:X3JqaoClpLl8Q--X0ex6M
+UID:B22No1zP5trj7hd3bViy2
 SUMMARY:M - How much does it cost? - M - How does it cost - Final project -
 	 (PAR-9-2) - (M-BYG-001) - (30)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250116T093000Z
 DTEND:20250212T235900Z
 DESCRIPTION:M - How much does it cost?\nCredits: 2\nTeam: 5 - 5\nRemote: tr
@@ -1718,10 +1718,10 @@ URL:https://intra.epitech.eu/module/2024/M-BYG-001/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:Cu4m4NeHR6zORpMSBhPA-
+UID:3epjPm-06kqTV0GKMOMWd
 SUMMARY:M - How much does it cost? - Day 1 - AM - (PAR-9-2) - (M-BYG-001) -
 	 (30)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250116T093000Z
 DTEND:20250116T173000Z
 DESCRIPTION:M - How much does it cost? - Day 1 - AM\nCredits: 2\nTeam: 5 - 
@@ -1732,10 +1732,10 @@ URL:https://intra.epitech.eu/module/2024/M-BYG-001/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:n4pqFrNizEfPx35nLog4A
+UID:0XpsbShSik9Hn43N8L2ar
 SUMMARY:M - How much does it cost? - Day 2 - AM - (PAR-9-2) - (M-BYG-001) -
 	 (30)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250117T093000Z
 DTEND:20250117T173000Z
 DESCRIPTION:M - How much does it cost? - Day 2 - AM\nCredits: 2\nTeam: 5 - 
@@ -1746,11 +1746,11 @@ URL:https://intra.epitech.eu/module/2024/M-BYG-001/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:lQKRZSwUdmn60pk-DDqFB
+UID:92yyN9pLP6ToUqrIA-4iE
 SUMMARY:M - Incident Management & Resolution Methodologies - M - Gestion de
 	s incidents et méthodologies de résolution - projet - (PAR-9-2) - (M-TRV-9
 	08) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241114T100000Z
 DTEND:20241213T235900Z
 DESCRIPTION:M - Incident Management & Resolution Methodologies\nCredits: 2\
@@ -1762,10 +1762,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:-0qQPSy37sxzeQc1ps4pY
+UID:DQu1cLwIikOw0FLWoJzWn
 SUMMARY:M - Incident Management & Resolution Methodologies - Day 1 - (PAR-9
 	-2) - (M-TRV-908) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241114T100000Z
 DTEND:20241114T180000Z
 DESCRIPTION:M - Incident Management & Resolution Methodologies - Day 1\nCre
@@ -1777,10 +1777,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:Q593AfnwEp96-IFvUcQUc
+UID:7lVRJ8pGczcJK1OdLU7j_
 SUMMARY:M - Incident Management & Resolution Methodologies - Day 2 - (PAR-9
 	-2) - (M-TRV-908) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241115T100000Z
 DTEND:20241115T180000Z
 DESCRIPTION:M - Incident Management & Resolution Methodologies - Day 2\nCre
@@ -1792,10 +1792,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-908/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:0oDdhG2w0GKpCDosRXZdf
+UID:05RhoGhrs1zVVIDMxF1F1
 SUMMARY:M - Infrastructure Cyber ​​Defense - Cyber Defense des infrastructu
 	res - Projet - (PAR-9-2) - (M-SEC-908) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250220T093000Z
 DTEND:20250328T235900Z
 DESCRIPTION:M - Infrastructure Cyber ​​Defense\nCredits: 2\nTeam: 3 - 3\nRe
@@ -1806,10 +1806,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-908/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:PnxrFkbJNiCNYFQALoNye
+UID:onCcusvQA_eBbrQGgM7GM
 SUMMARY:M - Infrastructure Cyber ​​Defense - Day 1 - (PAR-9-2) - (M-SEC-908
 	) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250220T093000Z
 DTEND:20250220T180000Z
 DESCRIPTION:M - Infrastructure Cyber ​​Defense - Day 1\nCredits: 2\nTeam: 3
@@ -1821,10 +1821,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-908/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:O_sIV1MqICE3o_Rh2VXVl
+UID:wWpWNuZx53c02-o51hz1n
 SUMMARY:M - Infrastructure Cyber ​​Defense - Day 2 - (PAR-9-2) - (M-SEC-908
 	) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250221T093000Z
 DTEND:20250221T180000Z
 DESCRIPTION:M - Infrastructure Cyber ​​Defense - Day 2\nCredits: 2\nTeam: 3
@@ -1836,10 +1836,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-908/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:NzmRD2q5w1hGPn8kjMo99
+UID:Xfj30nZvbX1hC870fFyB-
 SUMMARY:M - Innovative management - No Project - (PAR-9-2) - (M-MGT-905) - 
 	(25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20250216T000000Z
 DESCRIPTION:M - Innovative management\nCredits: 2\nTeam: 0 - 0\nRemote: fal
@@ -1850,9 +1850,9 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:SGDXJqiDNfvrP5CxsE9GW
+UID:O26chC9MRfcZSaEWgsbUM
 SUMMARY:M - Innovative management - Day 1 - (PAR-9-2) - (M-MGT-905) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250213T093000Z
 DTEND:20250213T173000Z
 DESCRIPTION:M - Innovative management - Day 1\nCredits: 2\nTeam: 0 - 0\nRem
@@ -1863,9 +1863,9 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:jOMVYBI4JlWkePqFWPE8G
+UID:qx17b2RfjcpK_YJpzctf9
 SUMMARY:M - Innovative management - Day 2 - (PAR-9-2) - (M-MGT-905) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250214T093000Z
 DTEND:20250214T173000Z
 DESCRIPTION:M - Innovative management - Day 2\nCredits: 2\nTeam: 0 - 0\nRem
@@ -1876,9 +1876,9 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:Z7nWqLLQ0fGOnl1PAuais
+UID:hjuMOErzzKAM2kFlbvXh8
 SUMMARY:M - Innovative management - Day 3 - (PAR-9-2) - (M-MGT-905) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250215T093000Z
 DTEND:20250215T173000Z
 DESCRIPTION:M - Innovative management - Day 3\nCredits: 2\nTeam: 0 - 0\nRem
@@ -1889,10 +1889,10 @@ URL:https://intra.epitech.eu/module/2024/M-MGT-905/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:zF9t09OilHvCDi4tjHOK4
+UID:sedr4AujCnVvokl2mr3Iq
 SUMMARY:M - Intellectual property - No Project - (PAR-9-2) - (M-TRV-906) - 
 	(45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241201T000000Z
 DESCRIPTION:M - Intellectual property\nCredits: 1\nTeam: 0 - 0\nRemote: fal
@@ -1903,9 +1903,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-906/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:wf4xNhJRBQI3O70xqqdJO
+UID:953mytPYVhh1lLpFDBHI8
 SUMMARY:M - Intellectual property - Day 1 - (PAR-9-2) - (M-TRV-906) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241128T093000Z
 DTEND:20241128T173000Z
 DESCRIPTION:M - Intellectual property - Day 1\nCredits: 1\nTeam: 0 - 0\nRem
@@ -1916,9 +1916,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-906/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:2U9btR5770B006cPLm2pk
+UID:L2_fIm7r-OSnTf9aIztLI
 SUMMARY:M - Intellectual property - Day 2 - (PAR-9-2) - (M-TRV-906) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241129T093000Z
 DTEND:20241129T173000Z
 DESCRIPTION:M - Intellectual property - Day 2\nCredits: 1\nTeam: 0 - 0\nRem
@@ -1929,9 +1929,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-906/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:zNrqNBKI0_PEitkgTrVic
+UID:63h10ZAuOLXRty8Nu9o3h
 SUMMARY:M - Labor law - No Project - (PAR-9-2) - (M-TRV-004) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20250216T000000Z
 DESCRIPTION:M - Labor law\nCredits: 1\nTeam: 0 - 0\nRemote: true\nProject: 
@@ -1942,9 +1942,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-004/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:rOoelJ6btW6Bb-XGu2glQ
+UID:qoeeWtf1xrFj3kBZARBDe
 SUMMARY:M - Labor law - Day 1 - (PAR-9-2) - (M-TRV-004) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250213T093000Z
 DTEND:20250213T173000Z
 DESCRIPTION:M - Labor law - Day 1\nCredits: 1\nTeam: 0 - 0\nRemote: true\nP
@@ -1955,9 +1955,9 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-004/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:PmvVicTFDaTe4gVyeDX4q
+UID:gOxWV_RQOl3GmQH1Awa5M
 SUMMARY:M - Labor law - Day 2 - (PAR-9-2) - (M-TRV-004) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250214T093000Z
 DTEND:20250214T173000Z
 DESCRIPTION:M - Labor law - Day 2\nCredits: 1\nTeam: 0 - 0\nRemote: true\nP
@@ -1968,10 +1968,10 @@ URL:https://intra.epitech.eu/module/2024/M-TRV-004/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:z9muE3rzgHXJv-U9Ebfa9
+UID:fJoOsgtmkncYjioG3wwUk
 SUMMARY:M - Machine Learning – Supervised Learning - Machine Learning – Sup
 	ervised Learning - Project - (PAR-9-2) - (M-MLR-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241107T100000Z
 DTEND:20241208T235900Z
 DESCRIPTION:M - Machine Learning – Supervised Learning\nCredits: 4\nTeam: 2
@@ -1983,10 +1983,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:FQPdAqd9RbUM4wkjyun3b
+UID:0BvPgAIohQAcQ1bEvxw26
 SUMMARY:M - Machine Learning – Supervised Learning - Day 1 - (PAR-9-2) - (M
 	-MLR-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241107T100000Z
 DTEND:20241107T180000Z
 DESCRIPTION:M - Machine Learning – Supervised Learning - Day 1\nCredits: 4\
@@ -1998,10 +1998,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:hlgtR8yTWNOEeJUvGnVNf
+UID:4c4kirhP5Snc8xsEAPINQ
 SUMMARY:M - Machine Learning – Supervised Learning - Day 2 - (PAR-9-2) - (M
 	-MLR-900) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241108T100000Z
 DTEND:20241108T180000Z
 DESCRIPTION:M - Machine Learning – Supervised Learning - Day 2\nCredits: 4\
@@ -2013,11 +2013,11 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-900/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:Lffd3JTKB0iLU2CHg6Cks
+UID:8vDaVYtvyWaAPp_OKVWkh
 SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Machine L
 	earning – Unsupervised Learning and Agents - Project - (PAR-9-2) - (M-MLR-
 	901) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T100000Z
 DTEND:20250302T235900Z
 DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents\nCredit
@@ -2029,10 +2029,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:wWprvJVacfxBO5eCrpCDk
+UID:JUe58CF4ScCIcf0BQaCN5
 SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Day 1 - (
 	PAR-9-2) - (M-MLR-901) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T100000Z
 DTEND:20250130T180000Z
 DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents - Day 1
@@ -2044,10 +2044,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:s9UdhSvu3hyRsneRf7w22
+UID:79XhxNqU6vhFSgqr1hEoV
 SUMMARY:M - Machine Learning – Unsupervised Learning and Agents - Day 2 - (
 	PAR-9-2) - (M-MLR-901) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250131T100000Z
 DTEND:20250131T180000Z
 DESCRIPTION:M - Machine Learning – Unsupervised Learning and Agents - Day 2
@@ -2059,10 +2059,10 @@ URL:https://intra.epitech.eu/module/2024/M-MLR-901/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:shDg-cSWnfHL13M3C8WO0
+UID:kZ562VkO_1PUNdnZvl2ZD
 SUMMARY:M - Management of Innovation - Monter un "Dossier Innovation" - (PA
 	R-9-2) - (M-PRO-001) - (30)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T093000Z
 DTEND:20250228T235900Z
 DESCRIPTION:M - Management of Innovation\nCredits: 3\nTeam: 5 - 6\nRemote: 
@@ -2073,10 +2073,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:iyWF3V2kmJ4vb8XWs9J0h
+UID:Lv0oQnBc_kdSD4qcLuaRi
 SUMMARY:M - Management of Innovation - Day 1 - (PAR-9-2) - (M-PRO-001) - (3
 	0)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T093000Z
 DTEND:20250130T173000Z
 DESCRIPTION:M - Management of Innovation - Day 1\nCredits: 3\nTeam: 5 - 6\n
@@ -2087,10 +2087,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:s_kN_BbWWeTNGrGqRMIfe
+UID:YyZUl9MdUqbwLfLvGhYGt
 SUMMARY:M - Management of Innovation - Day 2 - (PAR-9-2) - (M-PRO-001) - (3
 	0)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250131T093000Z
 DTEND:20250131T173000Z
 DESCRIPTION:M - Management of Innovation - Day 2\nCredits: 3\nTeam: 5 - 6\n
@@ -2101,9 +2101,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-001/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:oMV165_oIRExme890yF5E
+UID:gS0SGiV38QKNhDEWzMWf-
 SUMMARY:M - Negotiation - No Project - (PAR-9-2) - (M-PRO-004) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20250301T000000Z
 DESCRIPTION:M - Negotiation\nCredits: 1\nTeam: 0 - 0\nRemote: true\nProject
@@ -2114,9 +2114,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:sU--HLhROGHErtTMeT72a
+UID:jIWWm8qMox5TlW1A9QhDG
 SUMMARY:M - Negotiation - Day 1 - AM - (PAR-9-2) - (M-PRO-004) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250227T093000Z
 DTEND:20250227T173000Z
 DESCRIPTION:M - Negotiation - Day 1 - AM\nCredits: 1\nTeam: 0 - 0\nRemote: 
@@ -2127,9 +2127,9 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:FFEHeOgGzXjm6JslE7WTd
+UID:TbKRm3ZXaRj92YaZyNI7Q
 SUMMARY:M - Negotiation - Day 2 - AM - (PAR-9-2) - (M-PRO-004) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250228T093000Z
 DTEND:20250228T173000Z
 DESCRIPTION:M - Negotiation - Day 2 - AM\nCredits: 1\nTeam: 0 - 0\nRemote: 
@@ -2140,10 +2140,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-004/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:HayGQjfp4n9fU6eucrUDl
+UID:7F7U6adWdplCk4U-vvm8B
 SUMMARY:M - Offensive Security and exploitation - Offensive Security and Ex
 	ploitation - Project - (PAR-9-2) - (M-SEC-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T093000Z
 DTEND:20250307T235900Z
 DESCRIPTION:M - Offensive Security and exploitation\nCredits: 2\nTeam: 3 - 
@@ -2155,10 +2155,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:mFOwUtUm9yhFjpz8SR69h
+UID:ZM6GSCwxPMvS8pOk6Nmht
 SUMMARY:M - Offensive Security and exploitation - Day 1 - (PAR-9-2) - (M-SE
 	C-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250130T093000Z
 DTEND:20250130T180000Z
 DESCRIPTION:M - Offensive Security and exploitation - Day 1\nCredits: 2\nTe
@@ -2170,10 +2170,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:E73uwYmpCI5fAlwY6APOZ
+UID:szO6O2ZROmv5LLvwq3vyw
 SUMMARY:M - Offensive Security and exploitation - Day 2 - (PAR-9-2) - (M-SE
 	C-905) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250131T093000Z
 DTEND:20250131T180000Z
 DESCRIPTION:M - Offensive Security and exploitation - Day 2\nCredits: 2\nTe
@@ -2185,10 +2185,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-905/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:Q4FZqaBFqpNaFj-eFKPWA
+UID:IdSjSvl9KegLoHsrdoJkn
 SUMMARY:M - Red Teaming VS Blue Teaming - Red Teaming VS Blue Teaming - Rus
 	h - (PAR-9-2) - (M-SEC-909) - (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20241207T235900Z
 DESCRIPTION:M - Red Teaming VS Blue Teaming\nCredits: 2\nTeam: 5 - 15\nRemo
@@ -2199,10 +2199,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:F98HexvoD-tFl1UfTFtV0
+UID:kalboRzQE8aognkIaUBa6
 SUMMARY:M - Red Teaming VS Blue Teaming - Day 1 - (PAR-9-2) - (M-SEC-909) -
 	 (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241205T093000Z
 DTEND:20241205T180000Z
 DESCRIPTION:M - Red Teaming VS Blue Teaming - Day 1\nCredits: 2\nTeam: 5 - 
@@ -2213,10 +2213,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:lAyA6pE5tHoUbfzRETup2
+UID:hSOyQKGQFiHhLHwbgiONR
 SUMMARY:M - Red Teaming VS Blue Teaming - Day 2 - (PAR-9-2) - (M-SEC-909) -
 	 (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241206T093000Z
 DTEND:20241206T180000Z
 DESCRIPTION:M - Red Teaming VS Blue Teaming - Day 2\nCredits: 2\nTeam: 5 - 
@@ -2227,10 +2227,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:GVJH3zJyFaMyVBLGpvVNK
+UID:4C5Dbir2NfGMAcoB9OyFE
 SUMMARY:M - Red Teaming VS Blue Teaming - Day 3 - (PAR-9-2) - (M-SEC-909) -
 	 (45)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241207T093000Z
 DTEND:20241207T180000Z
 DESCRIPTION:M - Red Teaming VS Blue Teaming - Day 3\nCredits: 2\nTeam: 5 - 
@@ -2241,10 +2241,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-909/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:NpQMc7t-_mtyPfLZ1OhNl
+UID:683WcmjesHcS3knIL69M4
 SUMMARY:M - Reverse Engineering & Cracking I - Reverse Engineering & Cracki
 	ng I Project - (PAR-9-2) - (M-SEC-901) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241114T093000Z
 DTEND:20241213T235900Z
 DESCRIPTION:M - Reverse Engineering & Cracking I\nCredits: 4\nTeam: 3 - 3\n
@@ -2255,10 +2255,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-901/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:6o361p_zjZMvCaNvg0IDu
+UID:YPYe1zlHX1RKJyLtNPkTc
 SUMMARY:M - Reverse Engineering & Cracking I - Day 1 - (PAR-9-2) - (M-SEC-9
 	01) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241114T093000Z
 DTEND:20241114T180000Z
 DESCRIPTION:M - Reverse Engineering & Cracking I - Day 1\nCredits: 4\nTeam:
@@ -2270,10 +2270,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-901/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:XiEeJhPd1fmCjXWrV0q2y
+UID:EmB0gZc6fnSKE15Ghe7as
 SUMMARY:M - Reverse Engineering & Cracking I - Day 2 - (PAR-9-2) - (M-SEC-9
 	01) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241115T093000Z
 DTEND:20241115T180000Z
 DESCRIPTION:M - Reverse Engineering & Cracking I - Day 2\nCredits: 4\nTeam:
@@ -2285,10 +2285,10 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-901/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:jS5h9OKlqiBn4Mi9GeK6S
+UID:CSZDl5p7SqlkxoMLWSvwL
 SUMMARY:M - Take advantage of your non-verbal communication - No Project - 
 	(PAR-9-2) - (M-PRO-045) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20250223T000000Z
 DESCRIPTION:M - Take advantage of your non-verbal communication\nCredits: 1
@@ -2299,10 +2299,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-045/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:Br8aYhNMRdJsXK8RBWgL6
+UID:BAUeTWX01nGlCTWOtngG6
 SUMMARY:M - Take advantage of your non-verbal communication - Day 1 - AM - 
 	(PAR-9-2) - (M-PRO-045) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250220T093000Z
 DTEND:20250220T173000Z
 DESCRIPTION:M - Take advantage of your non-verbal communication - Day 1 - A
@@ -2313,10 +2313,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-045/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
 END:VEVENT
 BEGIN:VEVENT
-UID:3ET-a4UpPDKHEF2988gnt
+UID:0LTnnz4c_o5HJKA93HvOr
 SUMMARY:M - Take advantage of your non-verbal communication - Day 2 - AM - 
 	(PAR-9-2) - (M-PRO-045) - (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250221T093000Z
 DTEND:20250221T173000Z
 DESCRIPTION:M - Take advantage of your non-verbal communication - Day 2 - A
@@ -2327,10 +2327,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-045/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
 END:VEVENT
 BEGIN:VEVENT
-UID:LwAJqqV7K2h-v2yhx7XPs
+UID:GEheq2eKW8J0xDzxQ63Oi
 SUMMARY:M - The keys to project framework level II - M- The keys to project
 	 framing level II - project - (PAR-9-2) - (M-PRO-904) - (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250213T093000Z
 DTEND:20250321T235900Z
 DESCRIPTION:M - The keys to project framework level II\nCredits: 2\nTeam: 4
@@ -2342,10 +2342,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:nRwMgpZRw4ZZSdSSlyvqC
+UID:6U-CSYCXDb5oC6ePT0bbW
 SUMMARY:M - The keys to project framework level II - Day 1 - (PAR-9-2) - (M
 	-PRO-904) - (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250213T093000Z
 DTEND:20250213T173000Z
 DESCRIPTION:M - The keys to project framework level II - Day 1\nCredits: 2\
@@ -2357,10 +2357,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:19sowGSfZfimuWeoOBujo
+UID:NrRqZJF738XrkjWcR6Oo5
 SUMMARY:M - The keys to project framework level II - Day 2 - (PAR-9-2) - (M
 	-PRO-904) - (35)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250214T093000Z
 DTEND:20250214T173000Z
 DESCRIPTION:M - The keys to project framework level II - Day 2\nCredits: 2\
@@ -2372,10 +2372,10 @@ URL:https://intra.epitech.eu/module/2024/M-PRO-904/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-gauche-Margaret-Hamilton
 END:VEVENT
 BEGIN:VEVENT
-UID:lbYqChG6aKy4960kmQdeD
+UID:ubYPYQeNc42FgAowYCVqv
 SUMMARY:M - The leadership toolbox - No Project - (PAR-9-2) - (M-MNG-900) -
 	 (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20240901T000000Z
 DTEND:20241215T000000Z
 DESCRIPTION:M - The leadership toolbox\nCredits: 1\nTeam: 0 - 0\nRemote: fa
@@ -2386,10 +2386,10 @@ URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:6WLEkwE9u4C9yFPbgExnS
+UID:neY-Q4TZX__oeU2Bh19Pt
 SUMMARY:M - The leadership toolbox - Day 1 - AM - (PAR-9-2) - (M-MNG-900) -
 	 (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241212T093000Z
 DTEND:20241212T173000Z
 DESCRIPTION:M - The leadership toolbox - Day 1 - AM\nCredits: 1\nTeam: 0 - 
@@ -2400,10 +2400,10 @@ URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
 END:VEVENT
 BEGIN:VEVENT
-UID:U8z-B5G3CJtHRzVzgpFdF
+UID:uudTIrvHJiEtopl0Co4Fm
 SUMMARY:M - The leadership toolbox - Day 2 - AM - (PAR-9-2) - (M-MNG-900) -
 	 (25)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241213T093000Z
 DTEND:20241213T173000Z
 DESCRIPTION:M - The leadership toolbox - Day 2 - AM\nCredits: 1\nTeam: 0 - 
@@ -2414,9 +2414,9 @@ URL:https://intra.epitech.eu/module/2024/M-MNG-900/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-droite-Claude-Shannon
 END:VEVENT
 BEGIN:VEVENT
-UID:t23WYCoUTd0ZoWPk3m4hZ
+UID:_o6r87LOBtnEvW09U7aHG
 SUMMARY:M - UI & UX - UI & UX Project - (PAR-9-2) - (M-XUX-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250102T093000Z
 DTEND:20250131T235900Z
 DESCRIPTION:M - UI & UX\nCredits: 3\nTeam: 4 - 6\nRemote: true\nProject: UI
@@ -2427,9 +2427,9 @@ URL:https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:HFp71X85A-y0hqNM3y1Ow
+UID:mm9NeTI47EWtFUZpyHV2I
 SUMMARY:M - UI & UX - Day 1 - (PAR-9-2) - (M-XUX-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250102T093000Z
 DTEND:20250102T180000Z
 DESCRIPTION:M - UI & UX - Day 1\nCredits: 3\nTeam: 4 - 6\nRemote: true\nPro
@@ -2440,9 +2440,9 @@ URL:https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:0AtJhK7IfScNP0ebVFPqH
+UID:yFxYCN4qExnRMN2gtLxKn
 SUMMARY:M - UI & UX - Day 2 - (PAR-9-2) - (M-XUX-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250103T093000Z
 DTEND:20250103T180000Z
 DESCRIPTION:M - UI & UX - Day 2\nCredits: 3\nTeam: 4 - 6\nRemote: true\nPro
@@ -2453,9 +2453,9 @@ URL:https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:tAyfFisSK1ZEJFTQQf2C7
+UID:mZnVcTbkPwZCYaUQPvHWn
 SUMMARY:M - UI & UX - Day 3 - (PAR-9-2) - (M-XUX-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250104T093000Z
 DTEND:20250104T180000Z
 DESCRIPTION:M - UI & UX - Day 3\nCredits: 3\nTeam: 4 - 6\nRemote: true\nPro
@@ -2466,10 +2466,10 @@ URL:https://intra.epitech.eu/module/2024/M-XUX-902/PAR-9-2/
 LOCATION:FR/PAR/main/Visio
 END:VEVENT
 BEGIN:VEVENT
-UID:G4DfxuDuMXzeNyk8Ypwy7
+UID:KDTe7QhYDFOq_BWKou1ML
 SUMMARY:M - Unreal Engine 5 - First game using blueprint - Unreal Engine 5 
 	- Premier jeu en blueprint - Project - (PAR-9-2) - (M-GAM-907) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241003T093000Z
 DTEND:20241101T235900Z
 DESCRIPTION:M - Unreal Engine 5 - First game using blueprint\nCredits: 4\nT
@@ -2481,10 +2481,10 @@ URL:https://intra.epitech.eu/module/2024/M-GAM-907/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:0uVjmKGV82s1kK-R7pv_E
+UID:zP3HIya3hn5cBjEyrIOas
 SUMMARY:M - Unreal Engine 5 - First game using blueprint - Day 1 - (PAR-9-2
 	) - (M-GAM-907) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241003T093000Z
 DTEND:20241003T180000Z
 DESCRIPTION:M - Unreal Engine 5 - First game using blueprint - Day 1\nCredi
@@ -2496,10 +2496,10 @@ URL:https://intra.epitech.eu/module/2024/M-GAM-907/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:zhYTAsWvTIWJ-2ZTt5vxx
+UID:ZnxCmT0dkNv3a_fq4tH88
 SUMMARY:M - Unreal Engine 5 - First game using blueprint - Day 2 - (PAR-9-2
 	) - (M-GAM-907) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20241004T093000Z
 DTEND:20241004T180000Z
 DESCRIPTION:M - Unreal Engine 5 - First game using blueprint - Day 2\nCredi
@@ -2511,10 +2511,10 @@ URL:https://intra.epitech.eu/module/2024/M-GAM-907/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Grace-Hopper
 END:VEVENT
 BEGIN:VEVENT
-UID:08iYfHDjWHGF_FjjB3Zkv
+UID:arE8Xtt_2g3pd4ICa-iAr
 SUMMARY:M - Web Security - Web Security Project - (PAR-9-2) - (M-SEC-902) -
 	 (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250116T093000Z
 DTEND:20250214T235900Z
 DESCRIPTION:M - Web Security\nCredits: 4\nTeam: 3 - 3\nRemote: false\nProje
@@ -2525,9 +2525,9 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-902/PAR-9-2/
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:MPGi4bpYmk-UiCWWb7fgc
+UID:u6NbmfsAruag8QVtb1DxC
 SUMMARY:M - Web Security - Day 1 - (PAR-9-2) - (M-SEC-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250116T093000Z
 DTEND:20250116T180000Z
 DESCRIPTION:M - Web Security - Day 1\nCredits: 4\nTeam: 3 - 3\nRemote: fals
@@ -2538,9 +2538,9 @@ URL:https://intra.epitech.eu/module/2024/M-SEC-902/PAR-9-2/
 LOCATION:FR/PAR/KB-Paritalie/4eme-Dennis-Ritchie
 END:VEVENT
 BEGIN:VEVENT
-UID:W2YuQDOFlIXzTdWowiJtg
+UID:_raSVJK6pnZ_d_3qxdhiW
 SUMMARY:M - Web Security - Day 2 - (PAR-9-2) - (M-SEC-902) - (55)
-DTSTAMP:20240805T185227Z
+DTSTAMP:20240831T183842Z
 DTSTART:20250117T093000Z
 DTEND:20250117T180000Z
 DESCRIPTION:M - Web Security - Day 2\nCredits: 4\nTeam: 3 - 3\nRemote: fals
