@@ -29,8 +29,7 @@
       "axios",
       "luxon",
       "handlebars-helpers",
-      "process",
-      "epitech.js"
+      "process"
     ]
   },
   "extensions": {
